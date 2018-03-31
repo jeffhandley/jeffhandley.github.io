@@ -1,0 +1,13 @@
+---
+layout: post
+title: "NIN Concert Review"
+date: 2008-08-13 07:29:48 -0700
+comments: true
+category: Archive
+tags: []
+redirect_from: ["http://jeffhandley.com/archive/2008/08/13/nin-concert-review"]
+author: 0
+---
+<!-- more -->
+<p>It was a couple of weeks ago now, but Kelly and I went to the Nine Inch Nails concert in Seattle.  I had really been <a href="http://blog.jeffhandley.com/archive/2008/06/25/stoked-about-the-nin-concert.aspx" target="_blank">looking forward to going</a>, and let me tell you, <a href="http://en.wikipedia.org/wiki/Trent_Reznor" target="_blank">Trent</a> did not disappoint me one bit.  The show was absolutely amazing.</p>  <p>I must admit, and offer as a disclaimer, that I'm not much of a concert-goer.  I think my last concert before this one was seeing <a href="http://en.wikipedia.org/wiki/Dishwalla" target="_blank">Dishwalla</a> perform in a dive bar in Cincinnati after winning 2 tickets from Q102--that was in either 1996 or 1997.  I think there were 20 people there to see them.  Before that, I saw <a href="http://en.wikipedia.org/wiki/Live_%28band%29" target="_blank">Live</a> perform at Miami University (Oxford, OH); that was a good show.  I've been to only a few other concerts, so altogether, I don't have much of a baseline to compare <a href="http://tour.nin.com/" target="_blank">NIN's Lights in the Sky</a> show to.  That being said...</p>  <p>The show blew me away.  Not only was Trent and his band playing an outstanding mix of old and new, and doing so really well, the visual effects used were simply mind-boggling.  They had what appeared to be a translucent stage-width touch-screen display that they repeatedly used in front of the stage.  They also had a huge screen behind the stage, and they used the 2 in unison very well.</p>  <p>The screen in front of the stage was often displaying effects such as rain, which made it look like the band was playing outside in a storm.  But there were many times when Trent and others would get really close to, or touch the screen (which appeared to be flexible), and it would react to them in spectacular ways.</p>  <p>I don't want to give away any more spoilers, so I won't say anymore regarding the details of the show.  But if you are a NIN fan of any sort, do yourself a favor and buy some tickets for the show nearest you.  And give Trent a break about having to reschedule a couple of the shows already... he is really pushing his voice to the max with this performance, and he needs to take care of his throat!  He's simply incredible and it was great to see him perform live.  Oh, and his band did a great job too. :-)</p>  <hr />  <p><em>I was going to link to the Q102 website (WKRQ.com), but MAN is it hideous!  </em></p>
+

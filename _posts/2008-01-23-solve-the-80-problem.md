@@ -1,0 +1,13 @@
+---
+layout: post
+title: "Solve the 80% problem"
+date: 2008-01-23 02:28:06 -0800
+comments: true
+category: Archive
+tags: []
+redirect_from: ["http://jeffhandley.com/archive/2008/01/22/solve-the-80-problem"]
+author: 0
+---
+<!-- more -->
+<p><a href="http://dyardy.spaces.live.com/Blog/cns!812B0DF85863A595!290.entry" target="_blank">David Yardy's post</a> about project post-mortems reminded me of something I learned awhile back.  Here's the premise of David's post:</p>  <p><code>Before and after developing software it is often to have the similar thoughts regarding the project. </p>    <p><code>Before - "This project should be easy and quick."</code></p>    <p><code>After - "Why was the project so complex and take so long."</code></p> </blockquote>  <p><font style="background-color: #fcfaf0">He then listed 5 excuses that are often used during a project post-mortem:</font></p>  <p><code>- project resources were limited by time     <br />- resources were not trained or skilled enough      <br />- the customer was more involved than desired (refining documented requirements)      <br />- the customer requested too many changes      <br />- new technology was a source of difficulty</code></p>  <p>I don't remember where I heard it, as it's been a year or more (maybe Code Camp 2006), but I heard some good advice that helps address this issue.  Don't build 100% solutions; build 80% solutions.  If you always focus on a solution that addresses 80% of the problem, then you'll find yourself better off.  Instead of spending 80% of your time addressing the 20% edge cases, you can move on to the next project and address another 80% problem.</p>  <p>The edge cases are often what cause problems with:</p>  <ol>   <li>Resource limitations of time -- the edge cases take longer to address</li>    <li>Training/Skill -- as the edge cases are harder to address</li>    <li>Customer involvement/requirement refinements -- the edge cases can cause you to chase your tail with requirements</li>    <li>Customer requested too many changes -- many times the changes are to address edge cases</li>    <li>New Technology -- used to address edge cases more easily, causing all the normal cases to suffer</li> </ol>  <div class="wlWriterSmartContent" id="scid:0767317B-992E-4b12-91E0-4F059A8CECA8:ace03168-47c1-4022-b8ae-2764c7d71a6f" style="padding-right: 0px; display: inline; padding-left: 0px; padding-bottom: 0px; margin: 0px; padding-top: 0px">Technorati Tags: <a href="http://technorati.com/tags/Project%20Management" rel="tag">Project Management</a>,<a href="http://technorati.com/tags/80/20%20Rule" rel="tag">80/20 Rule</a></div>
+

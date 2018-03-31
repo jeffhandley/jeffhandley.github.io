@@ -1,0 +1,13 @@
+---
+layout: post
+title: "Excel's Search() function"
+date: 2007-11-21 18:01:55 -0800
+comments: true
+category: Archive
+tags: []
+redirect_from: ["http://jeffhandley.com/archive/2007/11/21/excels-search-function"]
+author: 0
+---
+<!-- more -->
+<p>It's always the little things.  You think, "ah yeah, that'll do what I need, no problem."  Then you try it and get an unexpected result.  Forty-five minutes later, you're beating your head against the desk wondering why in the hell you even work on computers.</p>  <p>Last night, I had a list of files from an SVN Log command; I was compiling a list of the files changed during a certain timeframe.  I wanted to filter some files out, namely the vbproj files.  After trying to use the standard Find window and deleting the rows manually, I thought there should be a better way to quickly grab only those rows.  I decided to use the Search() function to give myself a formula column that I could then sort on and quickly delete all of the rows.</p>  <p>I put in the formula of <em>Search(".vbproj", A1)</em>, but that gave me an error.  It showed <em>#VALUE!</em> in the cell and told me that the "A value used in the formula is of the wrong data type."  I immediately remembered having seen this before.  I tried to use Search once before and was not successful then either.  But this time, I was determined to figure it out.  It's a basic function, how hard can it be to use?</p>  <p>The Function Arguments window says, "Returns the number of the character at which a specific character or text string is first found, reading left to right (not case-sensitive)."  The preview tells me the formula result for this cell is blank.  So why am I getting <em>#VALUE!</em>?</p>  <p>I scanned the help for the function, and nothing jumped out at me, but it should have.  Looking back at it now, I see the remark, "If find_text is not found, the #VALUE! error value is returned."  This should've been more apparent if you ask me.  Additionally, it should tell me how to deal with this.</p>  <p>Here's what a coworker helped me put together as my final function: =IFERROR(SEARCH(".vbproj", A1), 0).  This gives me a 0 when the text is not found, or gives me a 1-based character index if it is found.  That's exactly what I needed.  After doing that, I found my three rows that were left to delete.  Stinks that there were only 3, but at least I learned how to use the Search() function!</p>
+
