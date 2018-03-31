@@ -24,6 +24,7 @@ description: Creating web applications for over 20 years
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
+  Tag Index: "tags"
   Resources:
     - Strickland: "http://strickland.io/"
 
