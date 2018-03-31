@@ -5,7 +5,7 @@ date: 2010-10-12 08:31:05 -0700
 comments: true
 category: Archive
 tags: []
-redirect_from: ["http://jeffhandley.com/archive/2010/10/12/EntityLevelValidation", "http://jeffhandley.com/archive/2010/10/12/entitylevelvalidation"]
+redirect_from: ["http://jeffhandley.com/archive/2010/10/12/EntityLevelValidation.aspx", "http://jeffhandley.com/archive/2010/10/12/entitylevelvalidation.aspx"].aspx
 author: 0
 ---
 <!-- more -->
@@ -36,7 +36,7 @@ author: 0
 <p>It can be tricky to differentiate between cross-field validation and entity-level validation.  In fact, the PreventExpensiveMeetings example is performing cross-field validation.  It’s validating values across the Start, End, MinimumAttendees, and MaximumAttendees fields.  Previously, we saw validation rules defined that validated the Start/End property pairs and the MinimumAttendees/MaximumAttendees properties.  Each of those validators was applied to both properties and users got notification of errors as soon as one of the fields was put into conflict with the other.  The PreventExpensiveMeetings scenario is different for a few reasons though, and these are what I look for when deciding whether to implement validation at the property-level or the entity-level.</p>
 
 <ol>
-  <li><strong>There’s no certain data entry path that will lead to the validation error.</strong>  Because PreventExpensiveMeetings is based on 4 disjoint fields, it is unclear what property we’d want to declare the validation rule for.  The model is unaware of what order the user will enter values in, so we cannot simply put the validation rule on the “last” field.  We could apply the validator to all four properties, but this leads to a few issues.
+  <li><strong>There’s no certain data entry path that will lead to the validation error.</strong>  Because PreventExpensiveMeetings is based on 4 disjoint fields, it is unclear what property we’d want to declare the validation rule for.  The model is unaware of what order the user will enter values in, so we cannot simply put the validation rule on the “last” field.  We could apply the validator to all four properties, but this leads to a few issues. 
 
     <ol>
       <li>The value parameter could represent either a DateTime or an Integer, depending on which member is being validated.  This will complicate the validation code. </li>

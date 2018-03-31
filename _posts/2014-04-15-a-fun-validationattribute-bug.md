@@ -5,7 +5,7 @@ date: 2014-04-15 08:29:14 -0700
 comments: true
 category: Archive
 tags: []
-redirect_from: ["http://jeffhandley.com/archive/2014/04/15/A-Fun-ValidationAttribute-Bug", "http://jeffhandley.com/archive/2014/04/15/a-fun-validationattribute-bug"]
+redirect_from: ["http://jeffhandley.com/archive/2014/04/15/A-Fun-ValidationAttribute-Bug.aspx", "http://jeffhandley.com/archive/2014/04/15/a-fun-validationattribute-bug.aspx"].aspx
 author: 0
 ---
 <!-- more -->
@@ -30,7 +30,7 @@ I tweeted about a bug that I recently helped fix in System.ComponentModel.DataAn
 .csharpcode .asp { background-color: #ffff00; }
 .csharpcode .html { color: #800000; }
 .csharpcode .attr { color: #ff0000; }
-.csharpcode .alt
+.csharpcode .alt 
 {
 	background-color: #f4f4f4;
 	width: 100%;
@@ -58,7 +58,7 @@ I tweeted about a bug that I recently helped fix in System.ComponentModel.DataAn
 .csharpcode .asp { background-color: #ffff00; }
 .csharpcode .html { color: #800000; }
 .csharpcode .attr { color: #ff0000; }
-.csharpcode .alt
+.csharpcode .alt 
 {
 	background-color: #f4f4f4;
 	width: 100%;
@@ -69,12 +69,12 @@ I tweeted about a bug that I recently helped fix in System.ComponentModel.DataAn
 
 <p>Of course we couldn’t add a new abstract method to a class, as that would break existing implementations.  So instead, we looked into adding the following:</p><pre class="csharpcode"><span class="kwrd">public</span> <span class="kwrd">virtual</span> ValidationResult IsValid(<span class="kwrd">object</span> <span class="kwrd">value</span>, ValidationContext validationContext) {
     ValidationResult result = ValidationResult.Success;
-
+    
     <span class="kwrd">if</span> (!<span class="kwrd">this</span>.IsValid(<span class="kwrd">value</span>)) {
         <span class="kwrd">string</span>[] memberNames = validationContext.MemberName != <span class="kwrd">null</span> ? <span class="kwrd">new</span> <span class="kwrd">string</span>[] {
             validationContext.MemberName
         } : <span class="kwrd">null</span>;
-
+        
         result = <span class="kwrd">new</span> ValidationResult(
             <span class="kwrd">this</span>.FormatErrorMessage(validationContext.DisplayName),
             memberNames);
@@ -99,7 +99,7 @@ I tweeted about a bug that I recently helped fix in System.ComponentModel.DataAn
 .csharpcode .asp { background-color: #ffff00; }
 .csharpcode .html { color: #800000; }
 .csharpcode .attr { color: #ff0000; }
-.csharpcode .alt
+.csharpcode .alt 
 {
 	background-color: #f4f4f4;
 	width: 100%;
@@ -130,7 +130,7 @@ I tweeted about a bug that I recently helped fix in System.ComponentModel.DataAn
 .csharpcode .asp { background-color: #ffff00; }
 .csharpcode .html { color: #800000; }
 .csharpcode .attr { color: #ff0000; }
-.csharpcode .alt
+.csharpcode .alt 
 {
 	background-color: #f4f4f4;
 	width: 100%;
@@ -267,7 +267,7 @@ I tweeted about a bug that I recently helped fix in System.ComponentModel.DataAn
 .csharpcode .asp { background-color: #ffff00; }
 .csharpcode .html { color: #800000; }
 .csharpcode .attr { color: #ff0000; }
-.csharpcode .alt
+.csharpcode .alt 
 {
 	background-color: #f4f4f4;
 	width: 100%;
@@ -347,7 +347,7 @@ I tweeted about a bug that I recently helped fix in System.ComponentModel.DataAn
 .csharpcode .asp { background-color: #ffff00; }
 .csharpcode .html { color: #800000; }
 .csharpcode .attr { color: #ff0000; }
-.csharpcode .alt
+.csharpcode .alt 
 {
 	background-color: #f4f4f4;
 	width: 100%;

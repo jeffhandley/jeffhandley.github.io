@@ -5,7 +5,7 @@ date: 2013-07-03 19:49:20 -0700
 comments: true
 category: Archive
 tags: []
-redirect_from: ["http://jeffhandley.com/archive/2013/07/03/ria-services-is-getting-open-sourced"]
+redirect_from: ["http://jeffhandley.com/archive/2013/07/03/ria-services-is-getting-open-sourced.aspx"].aspx
 author: 0
 ---
 <!-- more -->

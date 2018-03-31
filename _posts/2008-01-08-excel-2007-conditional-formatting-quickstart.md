@@ -5,7 +5,7 @@ date: 2008-01-08 22:27:38 -0800
 comments: true
 category: Archive
 tags: []
-redirect_from: ["http://jeffhandley.com/archive/2008/01/08/excel-2007-conditional-formatting-quickstart"]
+redirect_from: ["http://jeffhandley.com/archive/2008/01/08/excel-2007-conditional-formatting-quickstart.aspx"].aspx
 author: 0
 ---
 <!-- more -->

@@ -5,7 +5,7 @@ date: 2007-11-09 11:43:24 -0800
 comments: true
 category: Archive
 tags: []
-redirect_from: ["http://jeffhandley.com/archive/2007/11/09/an-extended-mvp-pattern-mvp-validation"]
+redirect_from: ["http://jeffhandley.com/archive/2007/11/09/an-extended-mvp-pattern-mvp-validation.aspx"].aspx
 author: 0
 ---
 <!-- more -->
@@ -135,17 +135,17 @@ author: 0
 
 <p><em>Also, I provided ASPX samples, but each of the projects on which we've implemented this framework has been WinForms.  It's just easier to show sample ASPX markup.  And besides, the pattern will work for either type of project in the same way--only the custom controls would be different.</em></p>
 
-<div class="wlWriterSmartContent" id="scid:0767317B-992E-4b12-91E0-4F059A8CECA8:d41f7e62-31f9-4a3d-a348-46c3a3aa49f2" style="padding-right: 0px; display: inline; padding-left: 0px; float: none; padding-bottom: 0px; margin: 0px; padding-top: 0px">Technorati Tags:
+<div class="wlWriterSmartContent" id="scid:0767317B-992E-4b12-91E0-4F059A8CECA8:d41f7e62-31f9-4a3d-a348-46c3a3aa49f2" style="padding-right: 0px; display: inline; padding-left: 0px; float: none; padding-bottom: 0px; margin: 0px; padding-top: 0px">Technorati Tags: 
 		<a href="http://technorati.com/tags/MVP/" rel="tag">MVP</a>
-		,
+		, 
 		<a href="http://technorati.com/tags/MVC/" rel="tag">MVC</a>
-		,
+		, 
 		<a href="http://technorati.com/tags/ASP.NET/" rel="tag">ASP.NET</a>
-		,
+		, 
 		<a href="http://technorati.com/tags/.NET/" rel="tag">.NET</a>
-		,
+		, 
 		<a href="http://technorati.com/tags/Validation/" rel="tag">Validation</a>
-		,
+		, 
 		<a href="http://technorati.com/tags/.NET%20Reflection/" rel="tag">.NET Reflection</a>
 		</div>
 

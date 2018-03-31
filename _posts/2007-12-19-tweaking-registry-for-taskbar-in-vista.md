@@ -5,7 +5,7 @@ date: 2007-12-19 19:27:37 -0800
 comments: true
 category: Archive
 tags: []
-redirect_from: ["http://jeffhandley.com/archive/2007/12/19/tweaking-registry-for-taskbar-in-vista"]
+redirect_from: ["http://jeffhandley.com/archive/2007/12/19/tweaking-registry-for-taskbar-in-vista.aspx"].aspx
 author: 0
 ---
 <!-- more -->

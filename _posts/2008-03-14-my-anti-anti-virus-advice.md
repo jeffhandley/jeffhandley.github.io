@@ -5,7 +5,7 @@ date: 2008-03-14 07:27:33 -0700
 comments: true
 category: Archive
 tags: []
-redirect_from: ["http://jeffhandley.com/archive/2008/03/14/my-anti-anti-virus-advice"]
+redirect_from: ["http://jeffhandley.com/archive/2008/03/14/my-anti-anti-virus-advice.aspx"].aspx
 author: 0
 ---
 <!-- more -->

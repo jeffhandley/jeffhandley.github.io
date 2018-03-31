@@ -5,7 +5,7 @@ date: 2008-02-18 03:49:32 -0800
 comments: true
 category: Archive
 tags: []
-redirect_from: ["http://jeffhandley.com/archive/2008/02/17/goodbye-mike-martinelli"]
+redirect_from: ["http://jeffhandley.com/archive/2008/02/17/goodbye-mike-martinelli.aspx"].aspx
 author: 0
 ---
 <!-- more -->

@@ -5,7 +5,7 @@ date: 2008-01-27 19:09:01 -0800
 comments: true
 category: Archive
 tags: []
-redirect_from: ["http://jeffhandley.com/archive/2008/01/27/dotnetnuke-project-completed"]
+redirect_from: ["http://jeffhandley.com/archive/2008/01/27/dotnetnuke-project-completed.aspx"].aspx
 author: 0
 ---
 <!-- more -->

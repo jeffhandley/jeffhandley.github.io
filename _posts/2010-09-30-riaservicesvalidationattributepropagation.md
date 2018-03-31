@@ -5,7 +5,7 @@ date: 2010-09-30 09:37:56 -0700
 comments: true
 category: Archive
 tags: []
-redirect_from: ["http://jeffhandley.com/archive/2010/09/30/RiaServicesValidationAttributePropagation", "http://jeffhandley.com/archive/2010/09/30/riaservicesvalidationattributepropagation"]
+redirect_from: ["http://jeffhandley.com/archive/2010/09/30/RiaServicesValidationAttributePropagation.aspx", "http://jeffhandley.com/archive/2010/09/30/riaservicesvalidationattributepropagation.aspx"].aspx
 author: 0
 ---
 <!-- more -->
@@ -57,7 +57,7 @@ author: 0
 
   <div> </div>
 
-  <p><em>The only difference between this code and what was used in the Standard Validators post is that we’re no longer using the ErrorMessageResourceType/ErrorMessageResourceName properties on the StringLength validator.  We’ll cover how to use resources for error messages in a later article.
+  <p><em>The only difference between this code and what was used in the Standard Validators post is that we’re no longer using the ErrorMessageResourceType/ErrorMessageResourceName properties on the StringLength validator.  We’ll cover how to use resources for error messages in a later article. 
       <br /></em></p>
 
   <div> </div>
@@ -79,7 +79,7 @@ author: 0
 
       <li>The Meeting class is then reflected upon, and all properties are catalogued.  As long as the property is a type that can be serialized by RIA Services, and it doesn’t have the <strong>[Exclude]</strong> attribute on it, it will be included in the Silverlight version of the class. </li>
 
-      <li>For each property, all of the attributes are enumerated.  For every attribute, the attribute type is sought in the Silverlight project.  It can be found a couple different ways:
+      <li>For each property, all of the attributes are enumerated.  For every attribute, the attribute type is sought in the Silverlight project.  It can be found a couple different ways: 
         <ol>
           <li>The attribute class is defined within a .shared.cs file in the Web project, which then triggers RIA Services to automatically copy this file to the Silverlight project (within the Generated_Code folder) – This is called a Shared Type. </li>
 
@@ -87,7 +87,7 @@ author: 0
         </ol>
       </li>
 
-      <li>For each attribute that is found to exist on both the server and the client, the attribute is verified to meet construction requirements:
+      <li>For each attribute that is found to exist on both the server and the client, the attribute is verified to meet construction requirements: 
         <ol>
           <li>There must be a public constructor defined within the class (the base constructor is not sufficient) that has the same signature as the constructor used on the Web project; </li>
 

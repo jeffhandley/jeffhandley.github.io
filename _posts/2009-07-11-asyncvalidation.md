@@ -5,7 +5,7 @@ date: 2009-07-11 12:05:08 -0700
 comments: true
 category: Archive
 tags: []
-redirect_from: ["http://jeffhandley.com/archive/2009/07/11/asyncvalidation"]
+redirect_from: ["http://jeffhandley.com/archive/2009/07/11/asyncvalidation.aspx"].aspx
 author: 0
 ---
 <!-- more -->

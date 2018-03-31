@@ -5,7 +5,7 @@ date: 2008-01-13 02:59:45 -0800
 comments: true
 category: Archive
 tags: []
-redirect_from: ["http://jeffhandley.com/archive/2008/01/12/multi-monitor-support---a-new-clue"]
+redirect_from: ["http://jeffhandley.com/archive/2008/01/12/multi-monitor-support---a-new-clue.aspx"].aspx
 author: 0
 ---
 <!-- more -->

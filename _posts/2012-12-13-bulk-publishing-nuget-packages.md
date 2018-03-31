@@ -5,7 +5,7 @@ date: 2012-12-13 18:42:03 -0800
 comments: true
 category: Archive
 tags: []
-redirect_from: ["http://jeffhandley.com/archive/2012/12/13/Bulk-Publishing-NuGet-Packages", "http://jeffhandley.com/archive/2012/12/13/bulk-publishing-nuget-packages"]
+redirect_from: ["http://jeffhandley.com/archive/2012/12/13/Bulk-Publishing-NuGet-Packages.aspx", "http://jeffhandley.com/archive/2012/12/13/bulk-publishing-nuget-packages.aspx"].aspx
 author: 0
 ---
 <!-- more -->
@@ -173,7 +173,7 @@ Replace: &lt;package culture="$1" id="$2" version="$3" /&gt;
   </ol>
 
 <p>
-That's it. Now, with only 18 packages being published, this might seem like overkill. However, for the RTM release ASP.NET MVC 4, Web Pages 2, etc., we had 491 NuGet packages that were published! With that volume, having the process scripted out like this was crucial. And now I like to follow the same process regardless of the number of packages. If you too have lots of NuGet packages that you publish and you want to simplify your process, feel free to grab the <a href="https://github.com/jeffhandley/JeffHandley.NuGetPS/blob/master/NuGetPackagePublishing.psm1">NuGetPackagePublishing.psm1</a> file and use it within your process.
+That's it. Now, with only 18 packages being published, this might seem like overkill. However, for the RTM release ASP.NET MVC 4, Web Pages 2, etc., we had 491 NuGet packages that were published! With that volume, having the process scripted out like this was crucial. And now I like to follow the same process regardless of the number of packages. If you too have lots of NuGet packages that you publish and you want to simplify your process, feel free to grab the <a href="https://github.com/jeffhandley/JeffHandley.NuGetPS/blob/master/NuGetPackagePublishing.psm1">NuGetPackagePublishing.psm1</a> file and use it within your process. 
 </p>
 <h1>Other Tips</h1>
 <p>

@@ -5,7 +5,7 @@ date: 2009-02-22 09:55:23 -0800
 comments: true
 category: Archive
 tags: []
-redirect_from: ["http://jeffhandley.com/archive/2009/02/22/solution-partitioning"]
+redirect_from: ["http://jeffhandley.com/archive/2009/02/22/solution-partitioning.aspx"].aspx
 author: 0
 ---
 <!-- more -->

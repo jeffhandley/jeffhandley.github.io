@@ -5,7 +5,7 @@ date: 2011-08-11 07:28:25 -0700
 comments: true
 category: Archive
 tags: []
-redirect_from: ["http://jeffhandley.com/archive/2011/08/11/IGetNuGet-YouGetNuGet", "http://jeffhandley.com/archive/2011/08/11/igetnuget-yougetnuget"]
+redirect_from: ["http://jeffhandley.com/archive/2011/08/11/IGetNuGet-YouGetNuGet.aspx", "http://jeffhandley.com/archive/2011/08/11/igetnuget-yougetnuget.aspx"].aspx
 author: 0
 ---
 <!-- more -->

@@ -5,7 +5,7 @@ date: 2008-09-26 06:37:09 -0700
 comments: true
 category: Archive
 tags: []
-redirect_from: ["http://jeffhandley.com/archive/2008/09/25/silverlight-2-post-beta2-gotcha---contentpresenter"]
+redirect_from: ["http://jeffhandley.com/archive/2008/09/25/silverlight-2-post-beta2-gotcha---contentpresenter.aspx"].aspx
 author: 0
 ---
 <!-- more -->

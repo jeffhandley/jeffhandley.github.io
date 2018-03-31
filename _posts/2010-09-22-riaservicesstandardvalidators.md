@@ -5,7 +5,7 @@ date: 2010-09-22 10:16:10 -0700
 comments: true
 category: Archive
 tags: []
-redirect_from: ["http://jeffhandley.com/archive/2010/09/22/RiaServicesStandardValidators", "http://jeffhandley.com/archive/2010/09/22/riaservicesstandardvalidators"]
+redirect_from: ["http://jeffhandley.com/archive/2010/09/22/RiaServicesStandardValidators.aspx", "http://jeffhandley.com/archive/2010/09/22/riaservicesstandardvalidators.aspx"].aspx
 author: 0
 ---
 <!-- more -->
@@ -154,7 +154,7 @@ author: 0
 
   <li><strong>[StringLength(maxLength)]</strong> – {1} = maxLength </li>
 
-  <li><strong>[StringLength(maxLength, MinimumLength = minLength)]</strong> – {1} = maxLength; {2} = minLength
+  <li><strong>[StringLength(maxLength, MinimumLength = minLength)]</strong> – {1} = maxLength; {2} = minLength 
 
     <br />Note – Yes, {2} is the <em>minimum length</em> so that {1} is always the <em>maximum length</em>. </li>
 

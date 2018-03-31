@@ -5,7 +5,7 @@ date: 2008-12-08 20:02:47 -0800
 comments: true
 category: Archive
 tags: []
-redirect_from: ["http://jeffhandley.com/archive/2008/12/08/using-twitter-and-facebook"]
+redirect_from: ["http://jeffhandley.com/archive/2008/12/08/using-twitter-and-facebook.aspx"].aspx
 author: 0
 ---
 <!-- more -->

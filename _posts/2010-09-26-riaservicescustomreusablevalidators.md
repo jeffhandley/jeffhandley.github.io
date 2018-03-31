@@ -5,7 +5,7 @@ date: 2010-09-26 10:39:42 -0700
 comments: true
 category: Archive
 tags: []
-redirect_from: ["http://jeffhandley.com/archive/2010/09/26/RiaServicesCustomReusableValidators", "http://jeffhandley.com/archive/2010/09/26/riaservicescustomreusablevalidators"]
+redirect_from: ["http://jeffhandley.com/archive/2010/09/26/RiaServicesCustomReusableValidators.aspx", "http://jeffhandley.com/archive/2010/09/26/riaservicescustomreusablevalidators.aspx"].aspx
 author: 0
 ---
 <!-- more -->
@@ -15,7 +15,7 @@ author: 0
 
   </p><p>This version of the IsValid method was added in .NET 4.0, as part of our work in RIA Services.  The method accepts a <a title="MSDN: ValidationContext Class" href="http://msdn.microsoft.com/en-us/library/system.componentmodel.dataannotations.validationcontext.aspx" target="_blank">ValidationContext</a> and returns a <a title="MSDN: ValidationResult Class" href="http://msdn.microsoft.com/en-us/library/system.componentmodel.dataannotations.validationresult(VS.95).aspx" target="_blank">ValidationResult</a>, both of which were also added as part of our efforts.  The validation context allows the validator to understand the context in which it’s being invoked.  Information such as the <a title="MSDN: ValidationContext.ObjectInstance Property" href="http://msdn.microsoft.com/en-us/library/system.componentmodel.dataannotations.validationcontext.objectinstance(VS.95).aspx" target="_blank">ObjectInstance</a> (entity), its type, the <a title="MSDN: ValidationContext.MemberName Property" href="http://msdn.microsoft.com/en-us/library/system.componentmodel.dataannotations.validationcontext.membername(VS.95).aspx" target="_blank">MemberName</a> being validated, and its <a title="MSDN: ValidationContext.DisplayName Property" href="http://msdn.microsoft.com/en-us/library/system.componentmodel.dataannotations.validationcontext.displayname(VS.95).aspx" target="_blank">DisplayName</a> are now available.  Before ValidationContext was introduced, validators had no clue under what conditions they were being invoked—they merely had the value to validate.  Now that we have ValidationContext, it becomes possible to check other state on the object, which is a very common scenario I call <strong>cross-field validation</strong>.</p>
 
-  <p>Note that ValidationAttribute has another virtual IsValid method that has the following signature:
+  <p>Note that ValidationAttribute has another virtual IsValid method that has the following signature: 
     <br /><em>Don’t override this version of IsValid</em></p>
 
   <pre style="margin: auto; font-family: "><font face="Consolas"><font size="2"><span style="margin: auto; color: "><font color="#0000ff">public</font></span><font color="#000000"> </font><span style="margin: auto; color: "><font color="#0000ff">override</font></span><font color="#000000"> </font><span style="margin: auto; color: "><font color="#0000ff">bool</font></span><font color="#000000"> IsValid(</font><span style="margin: auto; color: "><font color="#0000ff">object</font></span><font color="#000000"> value)</font></font></font><br /></pre>

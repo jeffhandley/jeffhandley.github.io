@@ -5,7 +5,7 @@ date: 2010-12-06 02:29:55 -0800
 comments: true
 category: Archive
 tags: []
-redirect_from: ["http://jeffhandley.com/archive/2010/12/05/RiaServicesProductAndToolkit", "http://jeffhandley.com/archive/2010/12/05/riaservicesproductandtoolkit"]
+redirect_from: ["http://jeffhandley.com/archive/2010/12/05/RiaServicesProductAndToolkit.aspx", "http://jeffhandley.com/archive/2010/12/05/riaservicesproductandtoolkit.aspx"].aspx
 author: 0
 ---
 <!-- more -->

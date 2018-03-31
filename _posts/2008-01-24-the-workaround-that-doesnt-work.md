@@ -5,7 +5,7 @@ date: 2008-01-24 02:51:07 -0800
 comments: true
 category: Archive
 tags: []
-redirect_from: ["http://jeffhandley.com/archive/2008/01/23/the-workaround-that-doesnt-work"]
+redirect_from: ["http://jeffhandley.com/archive/2008/01/23/the-workaround-that-doesnt-work.aspx"].aspx
 author: 0
 ---
 <!-- more -->

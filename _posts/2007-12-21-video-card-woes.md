@@ -5,7 +5,7 @@ date: 2007-12-21 22:10:00 -0800
 comments: true
 category: Archive
 tags: []
-redirect_from: ["http://jeffhandley.com/archive/2007/12/21/video-card-woes"]
+redirect_from: ["http://jeffhandley.com/archive/2007/12/21/video-card-woes.aspx"].aspx
 author: 0
 ---
 <!-- more -->

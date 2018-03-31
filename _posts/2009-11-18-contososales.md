@@ -5,7 +5,7 @@ date: 2009-11-18 09:42:12 -0800
 comments: true
 category: Archive
 tags: []
-redirect_from: ["http://jeffhandley.com/archive/2009/11/18/contososales"]
+redirect_from: ["http://jeffhandley.com/archive/2009/11/18/contososales.aspx"].aspx
 author: 0
 ---
 <!-- more -->
@@ -456,7 +456,7 @@ author: 0
 <ul>
   <li><a href="http://go.microsoft.com/fwlink/?LinkID=151797" target="_blank">Install Visual Studio 2010 Beta 2</a> </li>
 
-  <li><a href="http://go.microsoft.com/fwlink/?LinkID=177508" target="_blank">Install the Silverlight 4 Tools for Visual Studio 2010</a>, which includes:
+  <li><a href="http://go.microsoft.com/fwlink/?LinkID=177508" target="_blank">Install the Silverlight 4 Tools for Visual Studio 2010</a>, which includes: 
 
     <ul>
       <li>Silverlight 4 Developer Runtime </li>

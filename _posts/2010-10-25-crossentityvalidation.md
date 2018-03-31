@@ -5,7 +5,7 @@ date: 2010-10-25 08:56:35 -0700
 comments: true
 category: Archive
 tags: []
-redirect_from: ["http://jeffhandley.com/archive/2010/10/25/CrossEntityValidation", "http://jeffhandley.com/archive/2010/10/25/crossentityvalidation"]
+redirect_from: ["http://jeffhandley.com/archive/2010/10/25/CrossEntityValidation.aspx", "http://jeffhandley.com/archive/2010/10/25/crossentityvalidation.aspx"].aspx
 author: 0
 ---
 <!-- more -->

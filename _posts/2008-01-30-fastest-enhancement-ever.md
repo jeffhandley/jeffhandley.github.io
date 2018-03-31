@@ -5,7 +5,7 @@ date: 2008-01-30 08:08:38 -0800
 comments: true
 category: Archive
 tags: []
-redirect_from: ["http://jeffhandley.com/archive/2008/01/30/fastest-enhancement-ever"]
+redirect_from: ["http://jeffhandley.com/archive/2008/01/30/fastest-enhancement-ever.aspx"].aspx
 author: 0
 ---
 <!-- more -->

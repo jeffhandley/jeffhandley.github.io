@@ -5,7 +5,7 @@ date: 2008-01-15 01:41:01 -0800
 comments: true
 category: Archive
 tags: []
-redirect_from: ["http://jeffhandley.com/archive/2008/01/14/larrys-any-text-file-indexer"]
+redirect_from: ["http://jeffhandley.com/archive/2008/01/14/larrys-any-text-file-indexer.aspx"].aspx
 author: 0
 ---
 <!-- more -->

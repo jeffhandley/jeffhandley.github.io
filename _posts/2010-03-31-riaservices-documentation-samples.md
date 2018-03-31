@@ -5,7 +5,7 @@ date: 2010-03-31 02:20:54 -0700
 comments: true
 category: Archive
 tags: []
-redirect_from: ["http://jeffhandley.com/archive/2010/03/30/riaservices-documentation-samples"]
+redirect_from: ["http://jeffhandley.com/archive/2010/03/30/riaservices-documentation-samples.aspx"].aspx
 author: 0
 ---
 <!-- more -->

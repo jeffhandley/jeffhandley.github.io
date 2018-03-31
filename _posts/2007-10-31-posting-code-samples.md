@@ -5,7 +5,7 @@ date: 2007-10-31 08:49:16 -0700
 comments: true
 category: Archive
 tags: []
-redirect_from: ["http://jeffhandley.com/archive/2007/10/31/posting-code-samples"]
+redirect_from: ["http://jeffhandley.com/archive/2007/10/31/posting-code-samples.aspx"].aspx
 author: 0
 ---
 <!-- more -->

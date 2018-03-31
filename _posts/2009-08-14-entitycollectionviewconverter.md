@@ -5,7 +5,7 @@ date: 2009-08-14 08:50:33 -0700
 comments: true
 category: Archive
 tags: []
-redirect_from: ["http://jeffhandley.com/archive/2009/08/14/entitycollectionviewconverter"]
+redirect_from: ["http://jeffhandley.com/archive/2009/08/14/entitycollectionviewconverter.aspx"].aspx
 author: 0
 ---
 <!-- more -->
@@ -240,7 +240,7 @@ author: 0
 
 <p>I did notice that I’m not entirely handling the EntityCollection Master/Details scenarios, because when you Add or Remove, it only adds to and removes from the details EntityCollection and not the DomainContext itself.  Without having access to the DomainContext, I don’t think I can make it do that.  I’d love to hear thoughts on that scenario to see if it’s something I should work into this solution.</p>
 
-<p>Source code and binaries available here:
+<p>Source code and binaries available here: 
   <br /><a title="Download QuickSilverlight.RiaServices.zip" href="http://jeffhandley.com/Files/QuickSilverlight.RiaServices.zip">QuickSilverlight.RiaServices.zip</a></p>
 
 <p />

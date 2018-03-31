@@ -5,7 +5,7 @@ date: 2007-11-13 04:41:23 -0800
 comments: true
 category: Archive
 tags: []
-redirect_from: ["http://jeffhandley.com/archive/2007/11/12/a-problem-prevented-the-document-from-being-scanned"]
+redirect_from: ["http://jeffhandley.com/archive/2007/11/12/a-problem-prevented-the-document-from-being-scanned.aspx"].aspx
 author: 0
 ---
 <!-- more -->

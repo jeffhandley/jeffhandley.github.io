@@ -5,7 +5,7 @@ date: 2011-10-25 07:01:40 -0700
 comments: true
 category: Archive
 tags: []
-redirect_from: ["http://jeffhandley.com/archive/2011/10/25/To-The-Cloud", "http://jeffhandley.com/archive/2011/10/25/to-the-cloud"]
+redirect_from: ["http://jeffhandley.com/archive/2011/10/25/To-The-Cloud.aspx", "http://jeffhandley.com/archive/2011/10/25/to-the-cloud.aspx"].aspx
 author: 0
 ---
 <!-- more -->

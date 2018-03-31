@@ -5,7 +5,7 @@ date: 2011-09-07 06:50:15 -0700
 comments: true
 category: Archive
 tags: []
-redirect_from: ["http://jeffhandley.com/archive/2011/09/06/RIA-Services-Validation-Available-on-GitHub", "http://jeffhandley.com/archive/2011/09/06/ria-services-validation-available-on-github"]
+redirect_from: ["http://jeffhandley.com/archive/2011/09/06/RIA-Services-Validation-Available-on-GitHub.aspx", "http://jeffhandley.com/archive/2011/09/06/ria-services-validation-available-on-github.aspx"].aspx
 author: 0
 ---
 <!-- more -->

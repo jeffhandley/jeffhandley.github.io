@@ -5,7 +5,7 @@ date: 2010-10-28 09:44:19 -0700
 comments: true
 category: Archive
 tags: []
-redirect_from: ["http://jeffhandley.com/archive/2010/10/28/RiaServicesT4WalkUp", "http://jeffhandley.com/archive/2010/10/28/riaservicest4walkup"]
+redirect_from: ["http://jeffhandley.com/archive/2010/10/28/RiaServicesT4WalkUp.aspx", "http://jeffhandley.com/archive/2010/10/28/riaservicest4walkup.aspx"].aspx
 author: 0
 ---
 <!-- more -->
@@ -76,7 +76,7 @@ author: 0
 <ol>
   <li>Comment out the <strong>DomainServiceClientCodeGenerator</strong> attribute on the custom class; or </li>
 
-  <li>Open the Silverlight project file back up and supply a <strong>RiaClientCodeGeneratorName</strong> property using the full type name of the CodeDomClientCodeGenerator class:  <br /><font size="1"><font face="Consolas"><span><font color="#0000ff">&lt;</font></span><span><font color="#a31515">RiaClientCodeGeneratorName</font></span><span><font color="#0000ff">&gt;</font></span><font color="#000000">Microsoft.ServiceModel.DomainServices.Tools.CodeDomClientCodeGenerator</font><span><font color="#0000ff">&lt;/</font></span><span><font color="#a31515">RiaClientCodeGeneratorName</font></span><span><font color="#0000ff">&gt;</font></span></font>
+  <li>Open the Silverlight project file back up and supply a <strong>RiaClientCodeGeneratorName</strong> property using the full type name of the CodeDomClientCodeGenerator class:  <br /><font size="1"><font face="Consolas"><span><font color="#0000ff">&lt;</font></span><span><font color="#a31515">RiaClientCodeGeneratorName</font></span><span><font color="#0000ff">&gt;</font></span><font color="#000000">Microsoft.ServiceModel.DomainServices.Tools.CodeDomClientCodeGenerator</font><span><font color="#0000ff">&lt;/</font></span><span><font color="#a31515">RiaClientCodeGeneratorName</font></span><span><font color="#0000ff">&gt;</font></span></font> 
 
       <br /></font></li>
 </ol>

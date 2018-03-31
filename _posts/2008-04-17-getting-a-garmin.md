@@ -5,7 +5,7 @@ date: 2008-04-17 17:08:42 -0700
 comments: true
 category: Archive
 tags: []
-redirect_from: ["http://jeffhandley.com/archive/2008/04/17/getting-a-garmin"]
+redirect_from: ["http://jeffhandley.com/archive/2008/04/17/getting-a-garmin.aspx"].aspx
 author: 0
 ---
 <!-- more -->

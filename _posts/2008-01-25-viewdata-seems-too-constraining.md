@@ -5,7 +5,7 @@ date: 2008-01-25 06:06:35 -0800
 comments: true
 category: Archive
 tags: []
-redirect_from: ["http://jeffhandley.com/archive/2008/01/24/viewdata-seems-too-constraining"]
+redirect_from: ["http://jeffhandley.com/archive/2008/01/24/viewdata-seems-too-constraining.aspx"].aspx
 author: 0
 ---
 <!-- more -->
@@ -48,13 +48,13 @@ author: 0
 <p><code><font size="1">There are some challenges with ViewData as it stands now:</font></p>
 
   <ul>
-    <li><font size="1">A key is required for every object, both in the controller and view.
+    <li><font size="1">A key is required for every object, both in the controller and view. 
         <br />ViewData.Add("conference", conference); </font></li>
 
-    <li><font size="1">A cast is required to pull out object by key.
+    <li><font size="1">A cast is required to pull out object by key. 
         <br />(ScheduledConference)ViewData["conference"] </font></li>
 
-    <li><font size="1">The ViewPage&lt;T&gt; solution discards the valuable flexibility of the objectbag being passed to the view.
+    <li><font size="1">The ViewPage&lt;T&gt; solution discards the valuable flexibility of the objectbag being passed to the view. 
         <br />&lt;%=ViewData.DaysUntilStart.ToString() %&gt; where ViewData is of type ScheduledConference</font> </li>
   </ul>
 
@@ -65,7 +65,7 @@ author: 0
 
     <li><font size="1">Casting every extraction of an object in the view is annoying. </font></li>
 
-    <li><font size="1">Strong-typing ViewPage only works for trivial scenarios.
+    <li><font size="1">Strong-typing ViewPage only works for trivial scenarios. 
         <br />- For instance, suppose once logged in, every view will need the currently logged in user.  Perhaps the user name is displayed at the top right of the screen in the layout (master page).  Since the layout shares the viewdata with the page, we immediately have the need for a flexible container that supports multiple objects.  A strongly typed ViewPage&lt;T&gt; won't work without an elaborate hierarchy of presentation object that are themselves flexible object containers able to support everything needed.  Once you get there, you are almost back to the initial dictionary.</font> </li>
   </ul>
 </blockquote>
@@ -73,7 +73,7 @@ author: 0
 <p>His SmartBag allows any number of objects to be exposed to ViewData instead of just one.  While I will likely implement my own flavor of this, the concept is the exactly solution I needed.  Now, my ViewData can be strongly typed, but it can provide multiple objects for me, and they don't have to know about each other.  Here's what I'm thinking will be in my bag:</p>
 
 <ol>
-  <li>Wizard Information
+  <li>Wizard Information 
     <ol>
       <li>How many steps </li>
 
@@ -87,7 +87,7 @@ author: 0
 
   <li>Product object for the current step </li>
 
-  <li>Current User information, always
+  <li>Current User information, always 
     <ol>
       <li>This is part of why I will go with my own implementation. </li>
 

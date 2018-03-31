@@ -5,7 +5,7 @@ date: 2011-06-30 08:00:51 -0700
 comments: true
 category: Archive
 tags: []
-redirect_from: ["http://jeffhandley.com/archive/2011/06/30/RIAServicesCodeFirst", "http://jeffhandley.com/archive/2011/06/30/riaservicescodefirst"]
+redirect_from: ["http://jeffhandley.com/archive/2011/06/30/RIAServicesCodeFirst.aspx", "http://jeffhandley.com/archive/2011/06/30/riaservicescodefirst.aspx"].aspx
 author: 0
 ---
 <!-- more -->
@@ -20,7 +20,7 @@ author: 0
 
   <li>Add an [EnableClientAccess] attribute to the class </li>
 
-  <li>Author your query, insert, update, and delete methods using the DbContext property on the DomainService, as well as the AttachAsModified extension method we provide.
+  <li>Author your query, insert, update, and delete methods using the DbContext property on the DomainService, as well as the AttachAsModified extension method we provide. 
     <br />
 
     <br />

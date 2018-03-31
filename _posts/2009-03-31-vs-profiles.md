@@ -5,7 +5,7 @@ date: 2009-03-31 22:29:16 -0700
 comments: true
 category: Archive
 tags: []
-redirect_from: ["http://jeffhandley.com/archive/2009/03/31/vs-profiles"]
+redirect_from: ["http://jeffhandley.com/archive/2009/03/31/vs-profiles.aspx"].aspx
 author: 0
 ---
 <!-- more -->
@@ -136,7 +136,7 @@ author: 0
 <p>
   <br />Notice that the Allman formatting and KnR formatting macros not only import the settings, but they also format the current document as a nice little touch.</p>
 
-<p>After setting up the macros, I then moved on to create toolbar buttons for each one.
+<p>After setting up the macros, I then moved on to create toolbar buttons for each one. 
   <br /><img style="border-right-width: 0px; display: inline; border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px" title="SettingsToolbar" border="0" alt="SettingsToolbar" src="http://blog.jeffhandley.com/images/blog_jeffhandley_com/WindowsLiveWriter/QuicklyChangeProfilesinVisualStudio_D9CC/SettingsToolbar_2.png" width="130" height="36" /> </p>
 
 <p>Since Phil is like the 7th or so person to ask me to send this stuff to him, I figured I’d just blog it instead.  You can grab all of my settings files and a text file with the above code <a title="A zip file containing the 5 settings files referenced as well as the macro code" href="http://jeffhandley.com/files/vssettings.zip" target="_blank">here</a>.</p>

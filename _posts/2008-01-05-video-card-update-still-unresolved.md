@@ -5,7 +5,7 @@ date: 2008-01-05 00:44:06 -0800
 comments: true
 category: Archive
 tags: []
-redirect_from: ["http://jeffhandley.com/archive/2008/01/04/video-card-update-still-unresolved"]
+redirect_from: ["http://jeffhandley.com/archive/2008/01/04/video-card-update-still-unresolved.aspx"].aspx
 author: 0
 ---
 <!-- more -->

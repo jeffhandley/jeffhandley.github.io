@@ -5,7 +5,7 @@ date: 2008-10-08 04:05:11 -0700
 comments: true
 category: Archive
 tags: []
-redirect_from: ["http://jeffhandley.com/archive/2008/10/07/inotifypropertychanged---extension-methods"]
+redirect_from: ["http://jeffhandley.com/archive/2008/10/07/inotifypropertychanged---extension-methods.aspx"].aspx
 author: 0
 ---
 <!-- more -->

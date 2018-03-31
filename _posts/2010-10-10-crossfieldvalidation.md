@@ -5,7 +5,7 @@ date: 2010-10-10 08:29:55 -0700
 comments: true
 category: Archive
 tags: []
-redirect_from: ["http://jeffhandley.com/archive/2010/10/10/CrossFieldValidation", "http://jeffhandley.com/archive/2010/10/10/crossfieldvalidation"]
+redirect_from: ["http://jeffhandley.com/archive/2010/10/10/CrossFieldValidation.aspx", "http://jeffhandley.com/archive/2010/10/10/crossfieldvalidation.aspx"].aspx
 author: 0
 ---
 <!-- more -->
@@ -67,7 +67,7 @@ author: 0
 <ol>
   <li>The value parameter is now just called “time” as it can represent either the start time or the end time; </li>
 
-  <li>We conditionally grab the start/end time values from either the time parameter or from the Meeting instance;
+  <li>We conditionally grab the start/end time values from either the time parameter or from the Meeting instance; 
     <br /><em>Remember, for the property being validated, we must use the value parameter since the property still holds the old value</em> </li>
 
   <li>The ValidationResult returned has both the Start and End member names specified, so that both fields are highlighted and changes to either field would clear the error. </li>

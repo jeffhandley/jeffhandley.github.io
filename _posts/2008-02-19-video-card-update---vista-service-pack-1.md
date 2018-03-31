@@ -5,7 +5,7 @@ date: 2008-02-19 21:44:18 -0800
 comments: true
 category: Archive
 tags: []
-redirect_from: ["http://jeffhandley.com/archive/2008/02/19/video-card-update---vista-service-pack-1"]
+redirect_from: ["http://jeffhandley.com/archive/2008/02/19/video-card-update---vista-service-pack-1.aspx"].aspx
 author: 0
 ---
 <!-- more -->

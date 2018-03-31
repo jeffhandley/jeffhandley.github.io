@@ -5,7 +5,7 @@ date: 2008-08-13 06:55:18 -0700
 comments: true
 category: Archive
 tags: []
-redirect_from: ["http://jeffhandley.com/archive/2008/08/12/my-first-panoramic-picture"]
+redirect_from: ["http://jeffhandley.com/archive/2008/08/12/my-first-panoramic-picture.aspx"].aspx
 author: 0
 ---
 <!-- more -->
