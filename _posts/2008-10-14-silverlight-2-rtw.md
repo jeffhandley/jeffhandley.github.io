@@ -5,7 +5,7 @@ date: 2008-10-14 07:44:35 -0700
 comments: true
 category: Archive
 tags: []
-redirect_from: ["http://jeffhandley.com/archive/2008/10/14/silverlight-2-rtw"]
+redirect_from: ["http://jeffhandley.com/archive/2008/10/14/silverlight-2-rtw.aspx"]
 author: 0
 ---
 <!-- more -->

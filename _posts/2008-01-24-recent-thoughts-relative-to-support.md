@@ -5,7 +5,7 @@ date: 2008-01-24 02:55:09 -0800
 comments: true
 category: Archive
 tags: []
-redirect_from: ["http://jeffhandley.com/archive/2008/01/23/recent-thoughts-relative-to-support"]
+redirect_from: ["http://jeffhandley.com/archive/2008/01/23/recent-thoughts-relative-to-support.aspx"]
 author: 0
 ---
 <!-- more -->

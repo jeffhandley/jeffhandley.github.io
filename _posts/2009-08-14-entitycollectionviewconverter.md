@@ -5,7 +5,7 @@ date: 2009-08-14 08:50:33 -0700
 comments: true
 category: Archive
 tags: []
-redirect_from: ["http://jeffhandley.com/archive/2009/08/14/entitycollectionviewconverter"]
+redirect_from: ["http://jeffhandley.com/archive/2009/08/14/entitycollectionviewconverter.aspx"]
 author: 0
 ---
 <!-- more -->

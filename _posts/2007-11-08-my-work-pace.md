@@ -5,7 +5,7 @@ date: 2007-11-08 06:34:23 -0800
 comments: true
 category: Archive
 tags: []
-redirect_from: ["http://jeffhandley.com/archive/2007/11/07/my-work-pace"]
+redirect_from: ["http://jeffhandley.com/archive/2007/11/07/my-work-pace.aspx"]
 author: 0
 ---
 <!-- more -->

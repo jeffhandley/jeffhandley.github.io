@@ -5,7 +5,7 @@ date: 2008-02-13 19:53:52 -0800
 comments: true
 category: Archive
 tags: []
-redirect_from: ["http://jeffhandley.com/archive/2008/02/13/custom-controls-everywhere-and-asp.net-mvc-part-0"]
+redirect_from: ["http://jeffhandley.com/archive/2008/02/13/custom-controls-everywhere-and-asp.net-mvc-part-0.aspx"]
 author: 0
 ---
 <!-- more -->

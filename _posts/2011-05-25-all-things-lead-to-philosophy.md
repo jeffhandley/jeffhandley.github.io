@@ -5,7 +5,7 @@ date: 2011-05-25 05:41:43 -0700
 comments: true
 category: Archive
 tags: []
-redirect_from: ["http://jeffhandley.com/archive/2011/05/24/All-things-lead-to-Philosophy", "http://jeffhandley.com/archive/2011/05/24/all-things-lead-to-philosophy"]
+redirect_from: ["http://jeffhandley.com/archive/2011/05/24/All-things-lead-to-Philosophy.aspx", "http://jeffhandley.com/archive/2011/05/24/all-things-lead-to-philosophy.aspx"]
 author: 0
 ---
 <!-- more -->

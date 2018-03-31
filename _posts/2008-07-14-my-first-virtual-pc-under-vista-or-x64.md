@@ -5,7 +5,7 @@ date: 2008-07-14 21:23:17 -0700
 comments: true
 category: Archive
 tags: []
-redirect_from: ["http://jeffhandley.com/archive/2008/07/14/my-first-virtual-pc-under-vista-or-x64"]
+redirect_from: ["http://jeffhandley.com/archive/2008/07/14/my-first-virtual-pc-under-vista-or-x64.aspx"]
 author: 0
 ---
 <!-- more -->

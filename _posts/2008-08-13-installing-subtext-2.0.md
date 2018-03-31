@@ -5,7 +5,7 @@ date: 2008-08-13 05:34:30 -0700
 comments: true
 category: Archive
 tags: []
-redirect_from: ["http://jeffhandley.com/archive/2008/08/12/installing-subtext-2.0"]
+redirect_from: ["http://jeffhandley.com/archive/2008/08/12/installing-subtext-2.0.aspx"]
 author: 0
 ---
 <!-- more -->

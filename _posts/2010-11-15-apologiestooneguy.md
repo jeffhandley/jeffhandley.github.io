@@ -5,7 +5,7 @@ date: 2010-11-15 22:53:38 -0800
 comments: true
 category: Archive
 tags: []
-redirect_from: ["http://jeffhandley.com/archive/2010/11/15/ApologiesToOneGuy", "http://jeffhandley.com/archive/2010/11/15/apologiestooneguy"]
+redirect_from: ["http://jeffhandley.com/archive/2010/11/15/ApologiesToOneGuy.aspx", "http://jeffhandley.com/archive/2010/11/15/apologiestooneguy.aspx"]
 author: 0
 ---
 <!-- more -->

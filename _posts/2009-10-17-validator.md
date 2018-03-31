@@ -5,7 +5,7 @@ date: 2009-10-17 00:40:34 -0700
 comments: true
 category: Archive
 tags: []
-redirect_from: ["http://jeffhandley.com/archive/2009/10/16/validator"]
+redirect_from: ["http://jeffhandley.com/archive/2009/10/16/validator.aspx"]
 author: 0
 ---
 <!-- more -->

@@ -5,7 +5,7 @@ date: 2009-11-22 03:35:58 -0800
 comments: true
 category: Archive
 tags: []
-redirect_from: ["http://jeffhandley.com/archive/2009/11/21/pictures-pdc09"]
+redirect_from: ["http://jeffhandley.com/archive/2009/11/21/pictures-pdc09.aspx"]
 author: 0
 ---
 <!-- more -->

@@ -5,7 +5,7 @@ date: 2010-10-06 10:48:19 -0700
 comments: true
 category: Archive
 tags: []
-redirect_from: ["http://jeffhandley.com/archive/2010/10/06/RiaServicesValidationTriggers", "http://jeffhandley.com/archive/2010/10/06/riaservicesvalidationtriggers"]
+redirect_from: ["http://jeffhandley.com/archive/2010/10/06/RiaServicesValidationTriggers.aspx", "http://jeffhandley.com/archive/2010/10/06/riaservicesvalidationtriggers.aspx"]
 author: 0
 ---
 <!-- more -->

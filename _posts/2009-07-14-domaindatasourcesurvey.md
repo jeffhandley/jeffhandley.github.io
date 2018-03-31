@@ -5,7 +5,7 @@ date: 2009-07-14 10:45:19 -0700
 comments: true
 category: Archive
 tags: []
-redirect_from: ["http://jeffhandley.com/archive/2009/07/14/domaindatasourcesurvey"]
+redirect_from: ["http://jeffhandley.com/archive/2009/07/14/domaindatasourcesurvey.aspx"]
 author: 0
 ---
 <!-- more -->

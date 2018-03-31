@@ -5,7 +5,7 @@ date: 2008-07-08 00:05:20 -0700
 comments: true
 category: Archive
 tags: []
-redirect_from: ["http://jeffhandley.com/archive/2008/07/07/custom-controls-everywhere-ndash-maybe-not-in-xaml"]
+redirect_from: ["http://jeffhandley.com/archive/2008/07/07/custom-controls-everywhere-ndash-maybe-not-in-xaml.aspx"]
 author: 0
 ---
 <!-- more -->

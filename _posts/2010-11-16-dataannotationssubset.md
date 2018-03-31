@@ -5,7 +5,7 @@ date: 2010-11-16 21:39:49 -0800
 comments: true
 category: Archive
 tags: []
-redirect_from: ["http://jeffhandley.com/archive/2010/11/16/DataAnnotationsSubset", "http://jeffhandley.com/archive/2010/11/16/dataannotationssubset"]
+redirect_from: ["http://jeffhandley.com/archive/2010/11/16/DataAnnotationsSubset.aspx", "http://jeffhandley.com/archive/2010/11/16/dataannotationssubset.aspx"]
 author: 0
 ---
 <!-- more -->

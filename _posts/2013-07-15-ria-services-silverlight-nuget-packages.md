@@ -5,7 +5,7 @@ date: 2013-07-15 22:21:05 -0700
 comments: true
 category: Archive
 tags: []
-redirect_from: ["http://jeffhandley.com/archive/2013/07/15/ria-services-silverlight-nuget-packages"]
+redirect_from: ["http://jeffhandley.com/archive/2013/07/15/ria-services-silverlight-nuget-packages.aspx"]
 author: 0
 ---
 <!-- more -->

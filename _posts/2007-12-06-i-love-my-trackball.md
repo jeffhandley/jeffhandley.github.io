@@ -5,7 +5,7 @@ date: 2007-12-06 20:15:10 -0800
 comments: true
 category: Archive
 tags: []
-redirect_from: ["http://jeffhandley.com/archive/2007/12/06/i-love-my-trackball"]
+redirect_from: ["http://jeffhandley.com/archive/2007/12/06/i-love-my-trackball.aspx"]
 author: 0
 ---
 <!-- more -->

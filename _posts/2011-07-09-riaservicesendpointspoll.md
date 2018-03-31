@@ -5,7 +5,7 @@ date: 2011-07-09 01:18:34 -0700
 comments: true
 category: Archive
 tags: []
-redirect_from: ["http://jeffhandley.com/archive/2011/07/08/RIAServicesEndpointsPoll", "http://jeffhandley.com/archive/2011/07/08/riaservicesendpointspoll"]
+redirect_from: ["http://jeffhandley.com/archive/2011/07/08/RIAServicesEndpointsPoll.aspx", "http://jeffhandley.com/archive/2011/07/08/riaservicesendpointspoll.aspx"]
 author: 0
 ---
 <!-- more -->

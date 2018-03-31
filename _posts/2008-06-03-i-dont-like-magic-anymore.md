@@ -5,7 +5,7 @@ date: 2008-06-03 05:14:30 -0700
 comments: true
 category: Archive
 tags: []
-redirect_from: ["http://jeffhandley.com/archive/2008/06/02/i-dont-like-magic-anymore"]
+redirect_from: ["http://jeffhandley.com/archive/2008/06/02/i-dont-like-magic-anymore.aspx"]
 author: 0
 ---
 <!-- more -->

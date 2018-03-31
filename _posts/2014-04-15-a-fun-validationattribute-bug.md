@@ -5,7 +5,7 @@ date: 2014-04-15 08:29:14 -0700
 comments: true
 category: Archive
 tags: []
-redirect_from: ["http://jeffhandley.com/archive/2014/04/15/A-Fun-ValidationAttribute-Bug", "http://jeffhandley.com/archive/2014/04/15/a-fun-validationattribute-bug"]
+redirect_from: ["http://jeffhandley.com/archive/2014/04/15/A-Fun-ValidationAttribute-Bug.aspx", "http://jeffhandley.com/archive/2014/04/15/a-fun-validationattribute-bug.aspx"]
 author: 0
 ---
 <!-- more -->

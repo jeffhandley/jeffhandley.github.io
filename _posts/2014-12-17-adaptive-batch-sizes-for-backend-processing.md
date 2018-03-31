@@ -5,7 +5,7 @@ date: 2014-12-17 07:49:56 -0800
 comments: true
 category: Archive
 tags: []
-redirect_from: ["http://jeffhandley.com/archive/2014/12/16/Adaptive-Batch-Sizes-for-Backend-Processing", "http://jeffhandley.com/archive/2014/12/16/adaptive-batch-sizes-for-backend-processing"]
+redirect_from: ["http://jeffhandley.com/archive/2014/12/16/Adaptive-Batch-Sizes-for-Backend-Processing.aspx", "http://jeffhandley.com/archive/2014/12/16/adaptive-batch-sizes-for-backend-processing.aspx"]
 author: 0
 ---
 <!-- more -->

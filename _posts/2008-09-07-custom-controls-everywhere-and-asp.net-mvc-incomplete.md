@@ -5,7 +5,7 @@ date: 2008-09-07 08:28:29 -0700
 comments: true
 category: Archive
 tags: []
-redirect_from: ["http://jeffhandley.com/archive/2008/09/07/custom-controls-everywhere-and-asp.net-mvc-incomplete"]
+redirect_from: ["http://jeffhandley.com/archive/2008/09/07/custom-controls-everywhere-and-asp.net-mvc-incomplete.aspx"]
 author: 0
 ---
 <!-- more -->

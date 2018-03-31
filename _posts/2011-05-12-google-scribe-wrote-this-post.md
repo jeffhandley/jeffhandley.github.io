@@ -5,7 +5,7 @@ date: 2011-05-12 07:15:56 -0700
 comments: true
 category: Archive
 tags: []
-redirect_from: ["http://jeffhandley.com/archive/2011/05/12/Google-Scribe-wrote-this-post", "http://jeffhandley.com/archive/2011/05/12/google-scribe-wrote-this-post"]
+redirect_from: ["http://jeffhandley.com/archive/2011/05/12/Google-Scribe-wrote-this-post.aspx", "http://jeffhandley.com/archive/2011/05/12/google-scribe-wrote-this-post.aspx"]
 author: 0
 ---
 <!-- more -->

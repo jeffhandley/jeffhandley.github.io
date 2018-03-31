@@ -5,7 +5,7 @@ date: 2008-11-14 22:22:45 -0800
 comments: true
 category: Archive
 tags: []
-redirect_from: ["http://jeffhandley.com/archive/2008/11/14/silverlight-airlines-with-a-viewmodel"]
+redirect_from: ["http://jeffhandley.com/archive/2008/11/14/silverlight-airlines-with-a-viewmodel.aspx"]
 author: 0
 ---
 <!-- more -->

@@ -5,7 +5,7 @@ date: 2007-11-02 02:58:40 -0700
 comments: true
 category: Archive
 tags: []
-redirect_from: ["http://jeffhandley.com/archive/2007/11/01/building-a-csv-list-in-sql-2000"]
+redirect_from: ["http://jeffhandley.com/archive/2007/11/01/building-a-csv-list-in-sql-2000.aspx"]
 author: 0
 ---
 <!-- more -->
