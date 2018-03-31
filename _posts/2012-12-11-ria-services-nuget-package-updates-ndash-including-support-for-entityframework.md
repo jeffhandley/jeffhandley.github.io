@@ -5,7 +5,7 @@ date: 2012-12-11 01:28:31 -0800
 comments: true
 category: Archive
 tags: []
-redirect_from: ["http://jeffhandley.com/archive/2012/12/10/RIA-Services-NuGet-Package-Updates-ndash-Including-Support-for-EntityFramework.aspx", "http://jeffhandley.com/archive/2012/12/10/ria-services-nuget-package-updates-ndash-including-support-for-entityframework.aspx"]
+redirect_from: ["http://jeffhandley.com/archive/2012/12/10/RIA-Services-NuGet-Package-Updates-ndash-Including-Support-for-EntityFramework", "http://jeffhandley.com/archive/2012/12/10/ria-services-nuget-package-updates-ndash-including-support-for-entityframework"]
 author: 0
 ---
 <!-- more -->

@@ -5,7 +5,7 @@ date: 2008-09-21 05:11:13 -0700
 comments: true
 category: Archive
 tags: []
-redirect_from: ["http://jeffhandley.com/archive/2008/09/20/items-in-the-news-that-caught-my-attention.aspx"]
+redirect_from: ["http://jeffhandley.com/archive/2008/09/20/items-in-the-news-that-caught-my-attention"]
 author: 0
 ---
 <!-- more -->

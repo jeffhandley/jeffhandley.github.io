@@ -5,7 +5,7 @@ date: 2007-12-14 21:36:06 -0800
 comments: true
 category: Archive
 tags: []
-redirect_from: ["http://jeffhandley.com/archive/2007/12/14/vista-64-bit-installation-part-5.aspx"]
+redirect_from: ["http://jeffhandley.com/archive/2007/12/14/vista-64-bit-installation-part-5"]
 author: 0
 ---
 <!-- more -->

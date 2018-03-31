@@ -5,7 +5,7 @@ date: 2010-09-26 10:39:42 -0700
 comments: true
 category: Archive
 tags: []
-redirect_from: ["http://jeffhandley.com/archive/2010/09/26/RiaServicesCustomReusableValidators.aspx", "http://jeffhandley.com/archive/2010/09/26/riaservicescustomreusablevalidators.aspx"]
+redirect_from: ["http://jeffhandley.com/archive/2010/09/26/RiaServicesCustomReusableValidators", "http://jeffhandley.com/archive/2010/09/26/riaservicescustomreusablevalidators"]
 author: 0
 ---
 <!-- more -->

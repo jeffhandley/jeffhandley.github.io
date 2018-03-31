@@ -5,7 +5,7 @@ date: 2011-05-31 11:07:05 -0700
 comments: true
 category: Archive
 tags: []
-redirect_from: ["http://jeffhandley.com/archive/2011/05/31/MigrateVBWebFormsToCSharpMVC.aspx", "http://jeffhandley.com/archive/2011/05/31/migratevbwebformstocsharpmvc.aspx"]
+redirect_from: ["http://jeffhandley.com/archive/2011/05/31/MigrateVBWebFormsToCSharpMVC", "http://jeffhandley.com/archive/2011/05/31/migratevbwebformstocsharpmvc"]
 author: 0
 ---
 <!-- more -->

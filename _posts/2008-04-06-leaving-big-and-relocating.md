@@ -5,7 +5,7 @@ date: 2008-04-06 20:39:38 -0700
 comments: true
 category: Archive
 tags: []
-redirect_from: ["http://jeffhandley.com/archive/2008/04/06/leaving-big-and-relocating.aspx"]
+redirect_from: ["http://jeffhandley.com/archive/2008/04/06/leaving-big-and-relocating"]
 author: 0
 ---
 <!-- more -->

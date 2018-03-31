@@ -5,7 +5,7 @@ date: 2008-04-16 04:30:34 -0700
 comments: true
 category: Archive
 tags: []
-redirect_from: ["http://jeffhandley.com/archive/2008/04/15/assistance-needed-tv-amp-home-servermedia-center.aspx"]
+redirect_from: ["http://jeffhandley.com/archive/2008/04/15/assistance-needed-tv-amp-home-servermedia-center"]
 author: 0
 ---
 <!-- more -->

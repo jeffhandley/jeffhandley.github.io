@@ -5,7 +5,7 @@ date: 2008-02-22 01:53:40 -0800
 comments: true
 category: Archive
 tags: []
-redirect_from: ["http://jeffhandley.com/archive/2008/02/21/still-no-go.-back-to-3gb-ram.aspx"]
+redirect_from: ["http://jeffhandley.com/archive/2008/02/21/still-no-go.-back-to-3gb-ram"]
 author: 0
 ---
 <!-- more -->

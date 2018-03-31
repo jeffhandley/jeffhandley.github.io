@@ -5,7 +5,7 @@ date: 2009-11-20 04:29:53 -0800
 comments: true
 category: Archive
 tags: []
-redirect_from: ["http://jeffhandley.com/archive/2009/11/19/domaindatasource-error-handling-again.aspx"]
+redirect_from: ["http://jeffhandley.com/archive/2009/11/19/domaindatasource-error-handling-again"]
 author: 0
 ---
 <!-- more -->

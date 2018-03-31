@@ -5,7 +5,7 @@ date: 2008-08-11 04:28:44 -0700
 comments: true
 category: Archive
 tags: []
-redirect_from: ["http://jeffhandley.com/archive/2008/08/10/pushups-challenge---ill-take-the-bait.aspx"]
+redirect_from: ["http://jeffhandley.com/archive/2008/08/10/pushups-challenge---ill-take-the-bait"]
 author: 0
 ---
 <!-- more -->

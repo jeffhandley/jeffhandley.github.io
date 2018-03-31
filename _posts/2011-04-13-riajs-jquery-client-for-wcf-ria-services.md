@@ -5,7 +5,7 @@ date: 2011-04-13 21:42:41 -0700
 comments: true
 category: Archive
 tags: []
-redirect_from: ["http://jeffhandley.com/archive/2011/04/13/RIAJS-jQuery-client-for-WCF-RIA-Services.aspx", "http://jeffhandley.com/archive/2011/04/13/riajs-jquery-client-for-wcf-ria-services.aspx"]
+redirect_from: ["http://jeffhandley.com/archive/2011/04/13/RIAJS-jQuery-client-for-WCF-RIA-Services", "http://jeffhandley.com/archive/2011/04/13/riajs-jquery-client-for-wcf-ria-services"]
 author: 0
 ---
 <!-- more -->

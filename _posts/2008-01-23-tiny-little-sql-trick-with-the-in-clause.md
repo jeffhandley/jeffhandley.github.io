@@ -5,7 +5,7 @@ date: 2008-01-23 22:22:45 -0800
 comments: true
 category: Archive
 tags: []
-redirect_from: ["http://jeffhandley.com/archive/2008/01/23/tiny-little-sql-trick-with-the-in-clause.aspx"]
+redirect_from: ["http://jeffhandley.com/archive/2008/01/23/tiny-little-sql-trick-with-the-in-clause"]
 author: 0
 ---
 <!-- more -->

@@ -5,7 +5,7 @@ date: 2007-12-14 18:26:21 -0800
 comments: true
 category: Archive
 tags: []
-redirect_from: ["http://jeffhandley.com/archive/2007/12/14/new-workstation---vista-business-64-bit-installation.aspx"]
+redirect_from: ["http://jeffhandley.com/archive/2007/12/14/new-workstation---vista-business-64-bit-installation"]
 author: 0
 ---
 <!-- more -->

@@ -5,7 +5,7 @@ date: 2011-09-03 01:25:26 -0700
 comments: true
 category: Archive
 tags: []
-redirect_from: ["http://jeffhandley.com/archive/2011/09/02/RIAServicesSP2RC.aspx", "http://jeffhandley.com/archive/2011/09/02/riaservicessp2rc.aspx"]
+redirect_from: ["http://jeffhandley.com/archive/2011/09/02/RIAServicesSP2RC", "http://jeffhandley.com/archive/2011/09/02/riaservicessp2rc"]
 author: 0
 ---
 <!-- more -->

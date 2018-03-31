@@ -5,7 +5,7 @@ date: 2008-12-11 08:06:15 -0800
 comments: true
 category: Archive
 tags: []
-redirect_from: ["http://jeffhandley.com/archive/2008/12/11/why-i-use-google-chrome.aspx"]
+redirect_from: ["http://jeffhandley.com/archive/2008/12/11/why-i-use-google-chrome"]
 author: 0
 ---
 <!-- more -->

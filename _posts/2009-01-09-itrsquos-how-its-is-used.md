@@ -5,7 +5,7 @@ date: 2009-01-09 23:48:58 -0800
 comments: true
 category: Archive
 tags: []
-redirect_from: ["http://jeffhandley.com/archive/2009/01/09/itrsquos-how-its-is-used.aspx"]
+redirect_from: ["http://jeffhandley.com/archive/2009/01/09/itrsquos-how-its-is-used"]
 author: 0
 ---
 <!-- more -->

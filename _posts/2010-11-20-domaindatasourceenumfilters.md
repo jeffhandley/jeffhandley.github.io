@@ -5,7 +5,7 @@ date: 2010-11-20 02:10:49 -0800
 comments: true
 category: Archive
 tags: []
-redirect_from: ["http://jeffhandley.com/archive/2010/11/19/DomainDataSourceEnumFilters.aspx", "http://jeffhandley.com/archive/2010/11/19/domaindatasourceenumfilters.aspx"]
+redirect_from: ["http://jeffhandley.com/archive/2010/11/19/DomainDataSourceEnumFilters", "http://jeffhandley.com/archive/2010/11/19/domaindatasourceenumfilters"]
 author: 0
 ---
 <!-- more -->

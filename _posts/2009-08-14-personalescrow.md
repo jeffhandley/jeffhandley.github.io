@@ -5,7 +5,7 @@ date: 2009-08-14 11:26:42 -0700
 comments: true
 category: Archive
 tags: []
-redirect_from: ["http://jeffhandley.com/archive/2009/08/14/personalescrow.aspx"]
+redirect_from: ["http://jeffhandley.com/archive/2009/08/14/personalescrow"]
 author: 0
 ---
 <!-- more -->

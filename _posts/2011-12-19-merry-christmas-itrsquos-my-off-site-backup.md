@@ -5,7 +5,7 @@ date: 2011-12-19 08:26:29 -0800
 comments: true
 category: Archive
 tags: []
-redirect_from: ["http://jeffhandley.com/archive/2011/12/19/Merry-Christmas-Itrsquos-my-off-site-backup.aspx", "http://jeffhandley.com/archive/2011/12/19/merry-christmas-itrsquos-my-off-site-backup.aspx"]
+redirect_from: ["http://jeffhandley.com/archive/2011/12/19/Merry-Christmas-Itrsquos-my-off-site-backup", "http://jeffhandley.com/archive/2011/12/19/merry-christmas-itrsquos-my-off-site-backup"]
 author: 0
 ---
 <!-- more -->

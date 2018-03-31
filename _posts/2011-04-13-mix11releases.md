@@ -5,7 +5,7 @@ date: 2011-04-13 18:40:34 -0700
 comments: true
 category: Archive
 tags: []
-redirect_from: ["http://jeffhandley.com/archive/2011/04/13/MIX11Releases.aspx", "http://jeffhandley.com/archive/2011/04/13/mix11releases.aspx"]
+redirect_from: ["http://jeffhandley.com/archive/2011/04/13/MIX11Releases", "http://jeffhandley.com/archive/2011/04/13/mix11releases"]
 author: 0
 ---
 <!-- more -->

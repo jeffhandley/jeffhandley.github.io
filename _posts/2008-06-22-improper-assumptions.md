@@ -5,7 +5,7 @@ date: 2008-06-22 12:49:55 -0700
 comments: true
 category: Archive
 tags: []
-redirect_from: ["http://jeffhandley.com/archive/2008/06/22/improper-assumptions.aspx"]
+redirect_from: ["http://jeffhandley.com/archive/2008/06/22/improper-assumptions"]
 author: 0
 ---
 <!-- more -->
