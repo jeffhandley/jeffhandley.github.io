@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Conferences
+subtitle: "I've had the pleasure of presenting at several conferences"
 ---
 
 ## [Øredev 2015](http://oredev.org/2015/speakers/jeff-handley)
