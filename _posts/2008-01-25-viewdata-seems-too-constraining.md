@@ -5,7 +5,7 @@ date: 2008-01-25 06:06:35 -0800
 comments: true
 category: Archive
 tags: []
-redirect_from: ["http://jeffhandley.com/archive/2008/01/24/viewdata-seems-too-constraining.aspx"].aspx
+redirect_from: ["http://jeffhandley.com/archive/2008/01/24/viewdata-seems-too-constraining.aspx"]
 author: 0
 ---
 <!-- more -->

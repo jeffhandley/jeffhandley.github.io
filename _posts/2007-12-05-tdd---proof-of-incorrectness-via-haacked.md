@@ -5,7 +5,7 @@ date: 2007-12-05 02:46:03 -0800
 comments: true
 category: Archive
 tags: []
-redirect_from: ["http://jeffhandley.com/archive/2007/12/04/tdd---proof-of-incorrectness-via-haacked.aspx"].aspx
+redirect_from: ["http://jeffhandley.com/archive/2007/12/04/tdd---proof-of-incorrectness-via-haacked.aspx"]
 author: 0
 ---
 <!-- more -->

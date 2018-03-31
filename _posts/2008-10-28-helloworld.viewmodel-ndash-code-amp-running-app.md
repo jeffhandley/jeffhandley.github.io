@@ -5,7 +5,7 @@ date: 2008-10-28 03:46:50 -0700
 comments: true
 category: Archive
 tags: []
-redirect_from: ["http://jeffhandley.com/archive/2008/10/27/helloworld.viewmodel-ndash-code-amp-running-app.aspx"].aspx
+redirect_from: ["http://jeffhandley.com/archive/2008/10/27/helloworld.viewmodel-ndash-code-amp-running-app.aspx"]
 author: 0
 ---
 <!-- more -->

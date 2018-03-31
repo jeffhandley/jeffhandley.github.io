@@ -5,7 +5,7 @@ date: 2008-02-05 23:50:15 -0800
 comments: true
 category: Archive
 tags: []
-redirect_from: ["http://jeffhandley.com/archive/2008/02/05/90-of-this-job-is-figuring-out-what-to-call.aspx"].aspx
+redirect_from: ["http://jeffhandley.com/archive/2008/02/05/90-of-this-job-is-figuring-out-what-to-call.aspx"]
 author: 0
 ---
 <!-- more -->

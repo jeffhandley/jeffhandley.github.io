@@ -5,7 +5,7 @@ date: 2008-02-10 22:22:12 -0800
 comments: true
 category: Archive
 tags: []
-redirect_from: ["http://jeffhandley.com/archive/2008/02/10/using-row_number-to-merge-data.aspx"].aspx
+redirect_from: ["http://jeffhandley.com/archive/2008/02/10/using-row_number-to-merge-data.aspx"]
 author: 0
 ---
 <!-- more -->

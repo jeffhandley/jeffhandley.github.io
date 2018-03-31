@@ -5,7 +5,7 @@ date: 2007-11-09 11:43:24 -0800
 comments: true
 category: Archive
 tags: []
-redirect_from: ["http://jeffhandley.com/archive/2007/11/09/an-extended-mvp-pattern-mvp-validation.aspx"].aspx
+redirect_from: ["http://jeffhandley.com/archive/2007/11/09/an-extended-mvp-pattern-mvp-validation.aspx"]
 author: 0
 ---
 <!-- more -->

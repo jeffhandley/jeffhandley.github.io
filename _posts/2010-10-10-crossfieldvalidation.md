@@ -5,7 +5,7 @@ date: 2010-10-10 08:29:55 -0700
 comments: true
 category: Archive
 tags: []
-redirect_from: ["http://jeffhandley.com/archive/2010/10/10/CrossFieldValidation.aspx", "http://jeffhandley.com/archive/2010/10/10/crossfieldvalidation.aspx"].aspx
+redirect_from: ["http://jeffhandley.com/archive/2010/10/10/CrossFieldValidation.aspx", "http://jeffhandley.com/archive/2010/10/10/crossfieldvalidation.aspx"]
 author: 0
 ---
 <!-- more -->

@@ -5,7 +5,7 @@ date: 2008-01-15 23:37:26 -0800
 comments: true
 category: Archive
 tags: []
-redirect_from: ["http://jeffhandley.com/archive/2008/01/15/tortoisesvn-global-ignores.aspx"].aspx
+redirect_from: ["http://jeffhandley.com/archive/2008/01/15/tortoisesvn-global-ignores.aspx"]
 author: 0
 ---
 <!-- more -->

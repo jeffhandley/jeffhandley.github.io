@@ -5,7 +5,7 @@ date: 2008-02-16 03:10:23 -0800
 comments: true
 category: Archive
 tags: []
-redirect_from: ["http://jeffhandley.com/archive/2008/02/15/open-a-vs-2008-solution-from-explorer.aspx"].aspx
+redirect_from: ["http://jeffhandley.com/archive/2008/02/15/open-a-vs-2008-solution-from-explorer.aspx"]
 author: 0
 ---
 <!-- more -->

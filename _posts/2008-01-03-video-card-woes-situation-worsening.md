@@ -5,7 +5,7 @@ date: 2008-01-03 06:45:21 -0800
 comments: true
 category: Archive
 tags: []
-redirect_from: ["http://jeffhandley.com/archive/2008/01/02/video-card-woes-situation-worsening.aspx"].aspx
+redirect_from: ["http://jeffhandley.com/archive/2008/01/02/video-card-woes-situation-worsening.aspx"]
 author: 0
 ---
 <!-- more -->

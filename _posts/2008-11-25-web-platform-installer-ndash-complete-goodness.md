@@ -5,7 +5,7 @@ date: 2008-11-25 06:33:36 -0800
 comments: true
 category: Archive
 tags: []
-redirect_from: ["http://jeffhandley.com/archive/2008/11/24/web-platform-installer-ndash-complete-goodness.aspx"].aspx
+redirect_from: ["http://jeffhandley.com/archive/2008/11/24/web-platform-installer-ndash-complete-goodness.aspx"]
 author: 0
 ---
 <!-- more -->

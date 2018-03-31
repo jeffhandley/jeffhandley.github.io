@@ -5,7 +5,7 @@ date: 2010-12-02 08:09:21 -0800
 comments: true
 category: Archive
 tags: []
-redirect_from: ["http://jeffhandley.com/archive/2010/12/02/ToolkitDecember2010.aspx", "http://jeffhandley.com/archive/2010/12/02/toolkitdecember2010.aspx"].aspx
+redirect_from: ["http://jeffhandley.com/archive/2010/12/02/ToolkitDecember2010.aspx", "http://jeffhandley.com/archive/2010/12/02/toolkitdecember2010.aspx"]
 author: 0
 ---
 <!-- more -->

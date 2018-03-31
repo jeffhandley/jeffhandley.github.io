@@ -5,7 +5,7 @@ date: 2008-08-13 07:29:48 -0700
 comments: true
 category: Archive
 tags: []
-redirect_from: ["http://jeffhandley.com/archive/2008/08/13/nin-concert-review.aspx"].aspx
+redirect_from: ["http://jeffhandley.com/archive/2008/08/13/nin-concert-review.aspx"]
 author: 0
 ---
 <!-- more -->

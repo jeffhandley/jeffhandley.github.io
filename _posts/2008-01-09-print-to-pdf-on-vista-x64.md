@@ -5,7 +5,7 @@ date: 2008-01-09 08:13:18 -0800
 comments: true
 category: Archive
 tags: []
-redirect_from: ["http://jeffhandley.com/archive/2008/01/09/print-to-pdf-on-vista-x64.aspx"].aspx
+redirect_from: ["http://jeffhandley.com/archive/2008/01/09/print-to-pdf-on-vista-x64.aspx"]
 author: 0
 ---
 <!-- more -->

@@ -5,7 +5,7 @@ date: 2009-08-08 02:44:39 -0700
 comments: true
 category: Archive
 tags: []
-redirect_from: ["http://jeffhandley.com/archive/2009/08/07/validationexception.aspx"].aspx
+redirect_from: ["http://jeffhandley.com/archive/2009/08/07/validationexception.aspx"]
 author: 0
 ---
 <!-- more -->

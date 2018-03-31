@@ -5,7 +5,7 @@ date: 2010-10-14 08:09:28 -0700
 comments: true
 category: Archive
 tags: []
-redirect_from: ["http://jeffhandley.com/archive/2010/10/14/PrivacyBreach.aspx", "http://jeffhandley.com/archive/2010/10/14/privacybreach.aspx"].aspx
+redirect_from: ["http://jeffhandley.com/archive/2010/10/14/PrivacyBreach.aspx", "http://jeffhandley.com/archive/2010/10/14/privacybreach.aspx"]
 author: 0
 ---
 <!-- more -->

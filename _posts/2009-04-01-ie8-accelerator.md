@@ -5,7 +5,7 @@ date: 2009-04-01 20:59:29 -0700
 comments: true
 category: Archive
 tags: []
-redirect_from: ["http://jeffhandley.com/archive/2009/04/01/ie8-accelerator.aspx"].aspx
+redirect_from: ["http://jeffhandley.com/archive/2009/04/01/ie8-accelerator.aspx"]
 author: 0
 ---
 <!-- more -->

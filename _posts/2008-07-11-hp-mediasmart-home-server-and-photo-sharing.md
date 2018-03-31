@@ -5,7 +5,7 @@ date: 2008-07-11 01:40:25 -0700
 comments: true
 category: Archive
 tags: []
-redirect_from: ["http://jeffhandley.com/archive/2008/07/10/hp-mediasmart-home-server-and-photo-sharing.aspx"].aspx
+redirect_from: ["http://jeffhandley.com/archive/2008/07/10/hp-mediasmart-home-server-and-photo-sharing.aspx"]
 author: 0
 ---
 <!-- more -->

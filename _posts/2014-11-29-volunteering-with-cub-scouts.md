@@ -5,7 +5,7 @@ date: 2014-11-29 06:56:24 -0800
 comments: true
 category: Archive
 tags: []
-redirect_from: ["http://jeffhandley.com/archive/2014/11/28/Volunteering-with-Cub-Scouts.aspx", "http://jeffhandley.com/archive/2014/11/28/volunteering-with-cub-scouts.aspx"].aspx
+redirect_from: ["http://jeffhandley.com/archive/2014/11/28/Volunteering-with-Cub-Scouts.aspx", "http://jeffhandley.com/archive/2014/11/28/volunteering-with-cub-scouts.aspx"]
 author: 0
 ---
 <!-- more -->

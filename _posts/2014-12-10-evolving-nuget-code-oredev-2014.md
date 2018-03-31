@@ -5,7 +5,7 @@ date: 2014-12-10 20:41:46 -0800
 comments: true
 category: Archive
 tags: []
-redirect_from: ["http://jeffhandley.com/archive/2014/12/10/evolving-nuget-code-oredev-2014.aspx"].aspx
+redirect_from: ["http://jeffhandley.com/archive/2014/12/10/evolving-nuget-code-oredev-2014.aspx"]
 author: 0
 ---
 <!-- more -->

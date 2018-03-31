@@ -5,7 +5,7 @@ date: 2010-01-21 08:14:35 -0800
 comments: true
 category: Archive
 tags: []
-redirect_from: ["http://jeffhandley.com/archive/2010/01/21/shipriaservicessourcecode.aspx"].aspx
+redirect_from: ["http://jeffhandley.com/archive/2010/01/21/shipriaservicessourcecode.aspx"]
 author: 0
 ---
 <!-- more -->

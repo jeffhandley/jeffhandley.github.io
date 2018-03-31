@@ -5,7 +5,7 @@ date: 2008-02-05 01:59:56 -0800
 comments: true
 category: Archive
 tags: []
-redirect_from: ["http://jeffhandley.com/archive/2008/02/04/video-card-woes---up-to-3-screens-down-to.aspx"].aspx
+redirect_from: ["http://jeffhandley.com/archive/2008/02/04/video-card-woes---up-to-3-screens-down-to.aspx"]
 author: 0
 ---
 <!-- more -->

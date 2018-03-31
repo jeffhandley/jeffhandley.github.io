@@ -5,7 +5,7 @@ date: 2008-07-09 21:07:57 -0700
 comments: true
 category: Archive
 tags: []
-redirect_from: ["http://jeffhandley.com/archive/2008/07/09/binding-to-nullable-values-in-xaml.aspx"].aspx
+redirect_from: ["http://jeffhandley.com/archive/2008/07/09/binding-to-nullable-values-in-xaml.aspx"]
 author: 0
 ---
 <!-- more -->

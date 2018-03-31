@@ -5,7 +5,7 @@ date: 2008-01-04 01:01:22 -0800
 comments: true
 category: Archive
 tags: []
-redirect_from: ["http://jeffhandley.com/archive/2008/01/03/the-problem-has-been-solved-but-another-has-surfaced.aspx"].aspx
+redirect_from: ["http://jeffhandley.com/archive/2008/01/03/the-problem-has-been-solved-but-another-has-surfaced.aspx"]
 author: 0
 ---
 <!-- more -->

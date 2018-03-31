@@ -5,7 +5,7 @@ date: 2011-09-07 06:31:01 -0700
 comments: true
 category: Archive
 tags: []
-redirect_from: ["http://jeffhandley.com/archive/2011/09/06/ViewModelValidation.aspx", "http://jeffhandley.com/archive/2011/09/06/viewmodelvalidation.aspx"].aspx
+redirect_from: ["http://jeffhandley.com/archive/2011/09/06/ViewModelValidation.aspx", "http://jeffhandley.com/archive/2011/09/06/viewmodelvalidation.aspx"]
 author: 0
 ---
 <!-- more -->

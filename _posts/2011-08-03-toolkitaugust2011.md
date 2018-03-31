@@ -5,7 +5,7 @@ date: 2011-08-03 03:53:00 -0700
 comments: true
 category: Archive
 tags: []
-redirect_from: ["http://jeffhandley.com/archive/2011/08/02/ToolkitAugust2011.aspx", "http://jeffhandley.com/archive/2011/08/02/toolkitaugust2011.aspx"].aspx
+redirect_from: ["http://jeffhandley.com/archive/2011/08/02/ToolkitAugust2011.aspx", "http://jeffhandley.com/archive/2011/08/02/toolkitaugust2011.aspx"]
 author: 0
 ---
 <!-- more -->

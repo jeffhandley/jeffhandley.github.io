@@ -5,7 +5,7 @@ date: 2009-11-16 11:09:48 -0800
 comments: true
 category: Archive
 tags: []
-redirect_from: ["http://jeffhandley.com/archive/2009/11/21/domaindatasource-backflips.aspx"].aspx
+redirect_from: ["http://jeffhandley.com/archive/2009/11/21/domaindatasource-backflips.aspx"]
 author: 0
 ---
 <!-- more -->

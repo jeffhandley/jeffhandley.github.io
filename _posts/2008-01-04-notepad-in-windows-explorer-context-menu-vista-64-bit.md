@@ -5,7 +5,7 @@ date: 2008-01-04 03:58:19 -0800
 comments: true
 category: Archive
 tags: []
-redirect_from: ["http://jeffhandley.com/archive/2008/01/03/notepad-in-windows-explorer-context-menu-vista-64-bit.aspx"].aspx
+redirect_from: ["http://jeffhandley.com/archive/2008/01/03/notepad-in-windows-explorer-context-menu-vista-64-bit.aspx"]
 author: 0
 ---
 <!-- more -->

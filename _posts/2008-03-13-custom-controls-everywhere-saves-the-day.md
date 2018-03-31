@@ -5,7 +5,7 @@ date: 2008-03-13 21:11:31 -0700
 comments: true
 category: Archive
 tags: []
-redirect_from: ["http://jeffhandley.com/archive/2008/03/13/custom-controls-everywhere-saves-the-day.aspx"].aspx
+redirect_from: ["http://jeffhandley.com/archive/2008/03/13/custom-controls-everywhere-saves-the-day.aspx"]
 author: 0
 ---
 <!-- more -->

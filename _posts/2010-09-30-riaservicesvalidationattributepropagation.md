@@ -5,7 +5,7 @@ date: 2010-09-30 09:37:56 -0700
 comments: true
 category: Archive
 tags: []
-redirect_from: ["http://jeffhandley.com/archive/2010/09/30/RiaServicesValidationAttributePropagation.aspx", "http://jeffhandley.com/archive/2010/09/30/riaservicesvalidationattributepropagation.aspx"].aspx
+redirect_from: ["http://jeffhandley.com/archive/2010/09/30/RiaServicesValidationAttributePropagation.aspx", "http://jeffhandley.com/archive/2010/09/30/riaservicesvalidationattributepropagation.aspx"]
 author: 0
 ---
 <!-- more -->

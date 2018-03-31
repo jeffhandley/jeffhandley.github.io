@@ -5,7 +5,7 @@ date: 2008-10-28 04:58:53 -0700
 comments: true
 category: Archive
 tags: []
-redirect_from: ["http://jeffhandley.com/archive/2008/10/27/binding-converters---visibilityconverter.aspx"].aspx
+redirect_from: ["http://jeffhandley.com/archive/2008/10/27/binding-converters---visibilityconverter.aspx"]
 author: 0
 ---
 <!-- more -->

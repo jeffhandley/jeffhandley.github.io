@@ -5,7 +5,7 @@ date: 2010-03-18 23:14:15 -0700
 comments: true
 category: Archive
 tags: []
-redirect_from: ["http://jeffhandley.com/archive/2010/03/18/custom-filter-parameter.aspx"].aspx
+redirect_from: ["http://jeffhandley.com/archive/2010/03/18/custom-filter-parameter.aspx"]
 author: 0
 ---
 <!-- more -->

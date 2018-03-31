@@ -5,7 +5,7 @@ date: 2008-01-23 02:28:06 -0800
 comments: true
 category: Archive
 tags: []
-redirect_from: ["http://jeffhandley.com/archive/2008/01/22/solve-the-80-problem.aspx"].aspx
+redirect_from: ["http://jeffhandley.com/archive/2008/01/22/solve-the-80-problem.aspx"]
 author: 0
 ---
 <!-- more -->

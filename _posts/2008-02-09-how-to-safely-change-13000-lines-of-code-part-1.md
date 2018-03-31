@@ -5,7 +5,7 @@ date: 2008-02-09 12:13:46 -0800
 comments: true
 category: Archive
 tags: []
-redirect_from: ["http://jeffhandley.com/archive/2008/02/09/how-to-safely-change-13000-lines-of-code-part-1.aspx"].aspx
+redirect_from: ["http://jeffhandley.com/archive/2008/02/09/how-to-safely-change-13000-lines-of-code-part-1.aspx"]
 author: 0
 ---
 <!-- more -->

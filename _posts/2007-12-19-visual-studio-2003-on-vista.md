@@ -5,7 +5,7 @@ date: 2007-12-19 02:47:33 -0800
 comments: true
 category: Archive
 tags: []
-redirect_from: ["http://jeffhandley.com/archive/2007/12/18/visual-studio-2003-on-vista.aspx"].aspx
+redirect_from: ["http://jeffhandley.com/archive/2007/12/18/visual-studio-2003-on-vista.aspx"]
 author: 0
 ---
 <!-- more -->

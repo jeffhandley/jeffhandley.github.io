@@ -5,7 +5,7 @@ date: 2007-11-21 18:01:55 -0800
 comments: true
 category: Archive
 tags: []
-redirect_from: ["http://jeffhandley.com/archive/2007/11/21/excels-search-function.aspx"].aspx
+redirect_from: ["http://jeffhandley.com/archive/2007/11/21/excels-search-function.aspx"]
 author: 0
 ---
 <!-- more -->

@@ -5,7 +5,7 @@ date: 2008-02-13 06:16:01 -0800
 comments: true
 category: Archive
 tags: []
-redirect_from: ["http://jeffhandley.com/archive/2008/02/12/self-validating-form-controls.aspx"].aspx
+redirect_from: ["http://jeffhandley.com/archive/2008/02/12/self-validating-form-controls.aspx"]
 author: 0
 ---
 <!-- more -->

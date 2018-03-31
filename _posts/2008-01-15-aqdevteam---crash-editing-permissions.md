@@ -5,7 +5,7 @@ date: 2008-01-15 01:45:44 -0800
 comments: true
 category: Archive
 tags: []
-redirect_from: ["http://jeffhandley.com/archive/2008/01/14/aqdevteam---crash-editing-permissions.aspx"].aspx
+redirect_from: ["http://jeffhandley.com/archive/2008/01/14/aqdevteam---crash-editing-permissions.aspx"]
 author: 0
 ---
 <!-- more -->
