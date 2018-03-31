@@ -14,7 +14,7 @@
       {% endif %}
     </div>
 
-    <div class="collapse navbar-collapse" id="main-navbar">
+    <span class="navbar-right">
       <a href="https://twitter.com/jeffhandley" title="Twitter">
         <span class="fa-stack fa-sm" aria-hidden="true" style="padding-top: 50px">
           <i class="fa fa-circle fa-stack-2x"></i>
@@ -22,6 +22,8 @@
         </span>
         <span class="sr-only">{{ element.name }}</span>
       </a>
+    </span>
+    <div class="collapse navbar-collapse" id="main-navbar">
       <ul class="nav navbar-nav navbar-right">
       {% for link in site.navbar-links %}
         {% if link[1].first %}
