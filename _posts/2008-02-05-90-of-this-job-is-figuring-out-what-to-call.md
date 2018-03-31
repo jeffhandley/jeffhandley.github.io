@@ -3,7 +3,6 @@ layout: post
 title: "90% of this job is figuring out what to call stuff"
 date: 2008-02-05 23:50:15 -0800
 comments: true
-category: Archive
 tags: ["Naming Conventions", "Nullable Types"]
 redirect_from: ["/archive/2008/02/05/90-of-this-job-is-figuring-out-what-to-call.aspx/"]
 author: "Jeff Handley"

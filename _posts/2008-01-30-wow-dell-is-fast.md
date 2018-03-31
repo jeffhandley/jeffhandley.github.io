@@ -3,7 +3,6 @@ layout: post
 title: "Wow, Dell is Fast"
 date: 2008-01-30 23:12:56 -0800
 comments: true
-category: Archive
 tags: ["Dell"]
 redirect_from: ["/archive/2008/01/30/wow-dell-is-fast.aspx/"]
 author: "Jeff Handley"

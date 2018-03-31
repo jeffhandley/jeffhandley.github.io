@@ -3,7 +3,6 @@ layout: post
 title: "A problem prevented the document from being scanned"
 date: 2007-11-13 04:41:23 -0800
 comments: true
-category: Archive
 tags: ["Vista", "Lexmark", "Scanner"]
 redirect_from: ["/archive/2007/11/12/a-problem-prevented-the-document-from-being-scanned.aspx/"]
 author: "Jeff Handley"

@@ -3,7 +3,6 @@ layout: post
 title: "INotifyPropertyChanged -- Searching for a Better Way"
 date: 2008-10-08 00:02:29 -0700
 comments: true
-category: Archive
 tags: ["Silverlight", "WPF", "DataBinding", "INotifyPropertyChanged"]
 redirect_from: ["/archive/2008/10/07/inotifypropertychanged----searching-for-a-better-way.aspx/"]
 author: "Jeff Handley"

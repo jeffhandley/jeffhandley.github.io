@@ -3,7 +3,6 @@ layout: post
 title: "Using ROW_NUMBER() to merge data"
 date: 2008-02-10 22:22:12 -0800
 comments: true
-category: Archive
 tags: ["SQL Server 2005", "Ranking Functions"]
 redirect_from: ["/archive/2008/02/10/using-row_number-to-merge-data.aspx/"]
 author: "Jeff Handley"

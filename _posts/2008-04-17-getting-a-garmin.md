@@ -3,7 +3,6 @@ layout: post
 title: "Getting a Garmin"
 date: 2008-04-17 17:08:42 -0700
 comments: true
-category: Archive
 tags: ["GPS", "Garmin", "nuvi", "maps"]
 redirect_from: ["/archive/2008/04/17/getting-a-garmin.aspx/"]
 author: "Jeff Handley"

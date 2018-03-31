@@ -3,7 +3,6 @@ layout: post
 title: "Criticism of my Extended MVP Pattern"
 date: 2007-11-20 01:50:13 -0800
 comments: true
-category: Archive
 tags: ["ASP.NET", "MVC", "MVP", "Validation", "Software Architecture"]
 redirect_from: ["/archive/2007/11/19/criticism-of-my-extended-mvp-pattern.aspx/"]
 author: "Jeff Handley"

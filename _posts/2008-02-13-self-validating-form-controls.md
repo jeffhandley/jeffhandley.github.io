@@ -3,7 +3,6 @@ layout: post
 title: "Self-Validating Form Controls"
 date: 2008-02-13 06:16:01 -0800
 comments: true
-category: Archive
 tags: ["ASP.NET", "Validation", "MVC", "MVP", "Custom Controls"]
 redirect_from: ["/archive/2008/02/12/self-validating-form-controls.aspx/"]
 author: "Jeff Handley"

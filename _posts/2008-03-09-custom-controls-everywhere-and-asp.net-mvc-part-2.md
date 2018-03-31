@@ -3,7 +3,6 @@ layout: post
 title: "Custom Controls Everywhere and ASP.NET MVC, part 2"
 date: 2008-03-09 00:25:33 -0800
 comments: true
-category: Archive
 tags: []
 redirect_from: ["/archive/2008/03/08/custom-controls-everywhere-and-asp.net-mvc-part-2.aspx/"]
 author: "Jeff Handley"

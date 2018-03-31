@@ -3,7 +3,6 @@ layout: post
 title: "Fastest Enhancement Ever!"
 date: 2008-01-30 08:08:38 -0800
 comments: true
-category: Archive
 tags: ["DotNetNuke", "Subversion"]
 redirect_from: ["/archive/2008/01/30/fastest-enhancement-ever.aspx/"]
 author: "Jeff Handley"

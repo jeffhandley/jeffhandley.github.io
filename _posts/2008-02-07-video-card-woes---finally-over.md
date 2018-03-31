@@ -3,7 +3,6 @@ layout: post
 title: "Video Card Woes - Finally Over"
 date: 2008-02-07 20:04:38 -0800
 comments: true
-category: Archive
 tags: ["Vista", "64-bit", "ATI", "nVidia", "VisionTek", "BFG Tech"]
 redirect_from: ["/archive/2008/02/07/video-card-woes---finally-over.aspx/"]
 author: "Jeff Handley"

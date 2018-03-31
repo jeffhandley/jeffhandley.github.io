@@ -3,7 +3,6 @@ layout: post
 title: "Vista Explorer Niceties"
 date: 2007-12-19 09:32:59 -0800
 comments: true
-category: Archive
 tags: ["Vista"]
 redirect_from: ["/archive/2007/12/19/vista-explorer-niceties.aspx/"]
 author: "Jeff Handley"

@@ -3,7 +3,6 @@ layout: post
 title: "Headless Horseplay - MediaSmart Home Server Status Indicators"
 date: 2008-08-13 14:29:04 -0700
 comments: true
-category: Archive
 tags: ["HP MediaSmart Server", "Windows Home Server", "WHS", "Family Photos"]
 redirect_from: ["/archive/2008/08/13/headless-horseplay---mediasmart-home-server-status-indicators-again.aspx/"]
 author: "Jeff Handley"

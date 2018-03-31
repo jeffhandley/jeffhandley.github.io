@@ -3,7 +3,6 @@ layout: post
 title: "TDD - Proof of Incorrectness (via Haacked)"
 date: 2007-12-05 02:46:03 -0800
 comments: true
-category: Archive
 tags: ["TDD"]
 redirect_from: ["/archive/2007/12/04/tdd---proof-of-incorrectness-via-haacked.aspx/"]
 author: "Jeff Handley"

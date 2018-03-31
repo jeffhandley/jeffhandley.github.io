@@ -3,7 +3,6 @@ layout: post
 title: "My anti-anti-virus advice"
 date: 2008-03-14 07:27:33 -0700
 comments: true
-category: Archive
 tags: ["Norton", "McAfee", "Anti-Virus", "Non-Admin"]
 redirect_from: ["/archive/2008/03/14/my-anti-anti-virus-advice.aspx/"]
 author: "Jeff Handley"

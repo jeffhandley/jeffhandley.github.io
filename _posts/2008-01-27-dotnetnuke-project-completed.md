@@ -3,7 +3,6 @@ layout: post
 title: "DotNetNuke: Project Completed"
 date: 2008-01-27 19:09:01 -0800
 comments: true
-category: Archive
 tags: ["DotNetNuke", "Content Management System"]
 redirect_from: ["/archive/2008/01/27/dotnetnuke-project-completed.aspx/"]
 author: "Jeff Handley"

@@ -3,7 +3,6 @@ layout: post
 title: "Assistance Needed: TV &amp; Home Server/Media Center"
 date: 2008-04-16 04:30:34 -0700
 comments: true
-category: Archive
 tags: ["Vista", "TV", "Media Center", "Home Server", "DVR"]
 redirect_from: ["/archive/2008/04/15/assistance-needed-tv-amp-home-servermedia-center.aspx/"]
 author: "Jeff Handley"

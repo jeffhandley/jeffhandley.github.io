@@ -3,7 +3,6 @@ layout: post
 title: "ViewData seems too constraining"
 date: 2008-01-25 06:06:35 -0800
 comments: true
-category: Archive
 tags: ["ASP.NET", "MVC"]
 redirect_from: ["/archive/2008/01/24/viewdata-seems-too-constraining.aspx/"]
 author: "Jeff Handley"

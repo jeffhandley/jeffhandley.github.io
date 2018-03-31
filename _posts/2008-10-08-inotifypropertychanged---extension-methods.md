@@ -3,7 +3,6 @@ layout: post
 title: "INotifyPropertyChanged - Extension Methods"
 date: 2008-10-08 04:05:11 -0700
 comments: true
-category: Archive
 tags: ["Silverlight", "WPF", "DataBinding", "INotifyPropertyChanged"]
 redirect_from: ["/archive/2008/10/07/inotifypropertychanged---extension-methods.aspx/"]
 author: "Jeff Handley"

@@ -3,7 +3,6 @@ layout: post
 title: "Terminals - Simply Awesome"
 date: 2007-11-21 03:28:31 -0800
 comments: true
-category: Archive
 tags: ["Remote Desktop", "Productivity"]
 redirect_from: ["/archive/2007/11/20/terminals---simply-awesome.aspx/"]
 author: "Jeff Handley"

@@ -3,7 +3,6 @@ layout: post
 title: "Cannot Debug Unit Tests in VS 2008"
 date: 2007-12-13 06:37:45 -0800
 comments: true
-category: Archive
 tags: ["TDD", "Visual Studio 2008"]
 redirect_from: ["/archive/2007/12/12/cannot-debug-unit-tests-in-vs-2008.aspx/"]
 author: "Jeff Handley"

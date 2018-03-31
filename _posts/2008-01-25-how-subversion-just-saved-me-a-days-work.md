@@ -3,7 +3,6 @@ layout: post
 title: "How Subversion just saved me a day's work"
 date: 2008-01-25 21:58:16 -0800
 comments: true
-category: Archive
 tags: ["Subversion", "AQdevTeam", "Deployments"]
 redirect_from: ["/archive/2008/01/25/how-subversion-just-saved-me-a-days-work.aspx/"]
 author: "Jeff Handley"

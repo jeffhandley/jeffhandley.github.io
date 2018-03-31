@@ -3,7 +3,6 @@ layout: post
 title: "Video Card Woes - Up to 3 screens, down to 3GB RAM"
 date: 2008-02-05 01:59:56 -0800
 comments: true
-category: Archive
 tags: ["nVidia", "ATI", "Vista", "64-bit"]
 redirect_from: ["/archive/2008/02/04/video-card-woes---up-to-3-screens-down-to.aspx/"]
 author: "Jeff Handley"

@@ -3,7 +3,6 @@ layout: post
 title: "DotNetNuke - First Impressions"
 date: 2008-01-26 12:31:32 -0800
 comments: true
-category: Archive
 tags: ["DotNetNuke", "Content Management System"]
 redirect_from: ["/archive/2008/01/26/dotnetnuke---first-impressions.aspx/"]
 author: "Jeff Handley"

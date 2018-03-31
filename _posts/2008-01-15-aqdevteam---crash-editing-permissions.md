@@ -3,7 +3,6 @@ layout: post
 title: "AQdevTeam - Crash Editing Permissions"
 date: 2008-01-15 01:45:44 -0800
 comments: true
-category: Archive
 tags: ["AQdevTeam"]
 redirect_from: ["/archive/2008/01/14/aqdevteam---crash-editing-permissions.aspx/"]
 author: "Jeff Handley"

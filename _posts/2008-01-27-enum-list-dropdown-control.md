@@ -3,7 +3,6 @@ layout: post
 title: "Enum List DropDown Control"
 date: 2008-01-27 13:29:15 -0800
 comments: true
-category: Archive
 tags: ["ASP.NET", "Visual Basic", "Enum", "DropDownList"]
 redirect_from: ["/archive/2008/01/27/enum-list-dropdown-control.aspx/"]
 author: "Jeff Handley"

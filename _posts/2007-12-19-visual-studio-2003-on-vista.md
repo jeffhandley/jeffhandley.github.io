@@ -3,7 +3,6 @@ layout: post
 title: "Visual Studio 2003 on Vista"
 date: 2007-12-19 02:47:33 -0800
 comments: true
-category: Archive
 tags: ["Visual Studio .NET 2003", "Vista"]
 redirect_from: ["/archive/2007/12/18/visual-studio-2003-on-vista.aspx/"]
 author: "Jeff Handley"

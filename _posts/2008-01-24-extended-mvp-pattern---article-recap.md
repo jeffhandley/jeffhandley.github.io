@@ -3,7 +3,6 @@ layout: post
 title: "Extended MVP Pattern - Article Recap"
 date: 2008-01-24 06:42:54 -0800
 comments: true
-category: Archive
 tags: ["MVP", "MVC", "Validation", "ASP.NET"]
 redirect_from: ["/archive/2008/01/23/extended-mvp-pattern---article-recap.aspx/"]
 author: "Jeff Handley"

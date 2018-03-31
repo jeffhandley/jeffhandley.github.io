@@ -3,7 +3,6 @@ layout: post
 title: "Accept Except, Except - Thumbnail creator fun with Linq"
 date: 2008-08-10 10:05:01 -0700
 comments: true
-category: Archive
 tags: ["Linq", "Family Photos", "TDD"]
 redirect_from: ["/archive/2008/08/10/accept-except-except---thumbnail-creator-fun-with-linq.aspx/"]
 author: "Jeff Handley"

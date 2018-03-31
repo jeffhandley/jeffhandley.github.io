@@ -3,7 +3,6 @@ layout: post
 title: "HelloWorld.ViewModel"
 date: 2008-10-27 18:08:35 -0700
 comments: true
-category: Archive
 tags: ["ViewModel", "WPF", "Silverlight", "Model-View-ViewModel"]
 redirect_from: ["/archive/2008/10/27/helloworld.viewmodel.aspx/"]
 author: "Jeff Handley"

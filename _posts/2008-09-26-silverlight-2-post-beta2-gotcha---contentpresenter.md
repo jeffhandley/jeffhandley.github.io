@@ -3,7 +3,6 @@ layout: post
 title: "Silverlight 2 Post Beta2 Gotcha - ContentPresenter"
 date: 2008-09-26 06:37:09 -0700
 comments: true
-category: Archive
 tags: []
 redirect_from: ["/archive/2008/09/25/silverlight-2-post-beta2-gotcha---contentpresenter.aspx/"]
 author: "Jeff Handley"

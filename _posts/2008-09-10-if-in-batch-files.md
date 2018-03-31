@@ -3,7 +3,6 @@ layout: post
 title: "IF in Batch Files"
 date: 2008-09-10 23:38:11 -0700
 comments: true
-category: Archive
 tags: ["DOS", "Batch Files"]
 redirect_from: ["/archive/2008/09/10/if-in-batch-files.aspx/"]
 author: "Jeff Handley"

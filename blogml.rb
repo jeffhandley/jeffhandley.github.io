@@ -156,7 +156,7 @@ module Jekyll
           puts "tags: #{tags}"
 
           # Remove technorati links
-          content = content.gsub!(/\s*<div class="wlWriterSmartContent".*?technorati.*?<\/div>\s*/, "")
+          content.gsub!(/\s*<div class="wlWriterSmartContent".*?technorati.*?<\/div>\s*/, "")
 
           #author = item.elements["authors"]
           #puts "author: #{author}"
@@ -182,7 +182,6 @@ layout: post
 title: "#{title}"
 date: #{timestamp.strftime("%Y-%m-%d %H:%M:%S %z")}
 comments: true
-category: Archive
 tags: #{tags}
 redirect_from: #{old_url}
 author: "Jeff Handley"

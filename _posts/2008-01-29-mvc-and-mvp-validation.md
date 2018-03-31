@@ -3,7 +3,6 @@ layout: post
 title: "MVC and MVP Validation"
 date: 2008-01-29 17:32:52 -0800
 comments: true
-category: Archive
 tags: ["MVC", "MVP", "Validation", "ASP.NET"]
 redirect_from: ["/archive/2008/01/29/mvc-and-mvp-validation.aspx/"]
 author: "Jeff Handley"

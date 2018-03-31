@@ -3,7 +3,6 @@ layout: post
 title: "Larry's Any Text File Indexer"
 date: 2008-01-15 01:41:01 -0800
 comments: true
-category: Archive
 tags: ["Google Desktop"]
 redirect_from: ["/archive/2008/01/14/larrys-any-text-file-indexer.aspx/"]
 author: "Jeff Handley"

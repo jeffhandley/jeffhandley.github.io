@@ -3,7 +3,6 @@ layout: post
 title: "How to safely change 13,000 lines of code, undo"
 date: 2008-03-21 05:24:55 -0700
 comments: true
-category: Archive
 tags: ["Nullable Types", "TDD", "Subversion"]
 redirect_from: ["/archive/2008/03/20/how-to-safely-change-13000-lines-of-code-undo.aspx/"]
 author: "Jeff Handley"

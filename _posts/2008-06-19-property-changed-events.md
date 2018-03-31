@@ -3,7 +3,6 @@ layout: post
 title: "Property Changed Events"
 date: 2008-06-19 20:47:45 -0700
 comments: true
-category: Archive
 tags: ["Silverlight", "WPF", "DataBinding"]
 redirect_from: ["/archive/2008/06/19/property-changed-events.aspx/"]
 author: "Jeff Handley"
