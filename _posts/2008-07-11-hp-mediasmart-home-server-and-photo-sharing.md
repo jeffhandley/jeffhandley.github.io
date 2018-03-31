@@ -3,6 +3,7 @@ layout: post
 title: "HP MediaSmart Home Server and Photo Sharing"
 date: 2008-07-11 01:40:25 -0700
 comments: true
+category: Archive
 tags: ["Windows Home Server", "HP MediaSmart Server", "Photo Sharing"]
 redirect_from: ["/archive/2008/07/10/hp-mediasmart-home-server-and-photo-sharing.aspx/"]
 author: "Jeff Handley"

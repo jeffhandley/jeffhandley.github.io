@@ -3,6 +3,7 @@ layout: post
 title: "Extended MVP Pattern - Domain Validation"
 date: 2008-01-15 09:20:17 -0800
 comments: true
+category: Archive
 tags: ["MVP", "Validation", "Factory Pattern", "Attributes", ".NET", "LLBLGen"]
 redirect_from: ["/archive/2008/01/15/extended-mvp-pattern---domain-validation.aspx/"]
 author: "Jeff Handley"

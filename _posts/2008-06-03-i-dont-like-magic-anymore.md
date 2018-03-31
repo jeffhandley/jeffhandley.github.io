@@ -3,6 +3,7 @@ layout: post
 title: "I don't like magic anymore"
 date: 2008-06-03 05:14:30 -0700
 comments: true
+category: Archive
 tags: ["LINQ", "Extension Methods"]
 redirect_from: ["/archive/2008/06/02/i-dont-like-magic-anymore.aspx/"]
 author: "Jeff Handley"

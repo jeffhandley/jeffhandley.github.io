@@ -3,6 +3,7 @@ layout: post
 title: "Business Web Applications and Porn Sites"
 date: 2008-01-25 22:59:15 -0800
 comments: true
+category: Archive
 tags: ["Silverlight"]
 redirect_from: ["/archive/2008/01/25/business-web-applications-and-porn-sites.aspx/"]
 author: "Jeff Handley"

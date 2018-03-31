@@ -3,6 +3,7 @@ layout: post
 title: "Pushups Challenge - I'll take the bait"
 date: 2008-08-11 04:28:44 -0700
 comments: true
+category: Archive
 tags: ["HundredPushUps"]
 redirect_from: ["/archive/2008/08/10/pushups-challenge---ill-take-the-bait.aspx/"]
 author: "Jeff Handley"

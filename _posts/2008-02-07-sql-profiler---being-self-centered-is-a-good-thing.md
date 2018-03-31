@@ -3,6 +3,7 @@ layout: post
 title: "SQL Profiler - Being self-centered is a good thing"
 date: 2008-02-07 23:44:37 -0800
 comments: true
+category: Archive
 tags: ["SQL Server", "Profiler"]
 redirect_from: ["/archive/2008/02/07/sql-profiler---being-self-centered-is-a-good-thing.aspx/"]
 author: "Jeff Handley"

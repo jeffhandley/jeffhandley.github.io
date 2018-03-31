@@ -3,6 +3,7 @@ layout: post
 title: "Custom Controls Everywhere and ASP.NET MVC, part 3"
 date: 2008-09-21 01:10:29 -0700
 comments: true
+category: Archive
 tags: ["ASP.NET", "ASP.NET MVC", "Custom Controls Everywhere", "MVC", "MVP", "Object Initializers"]
 redirect_from: ["/archive/2008/09/20/custom-controls-everywhere-and-asp.net-mvc-part-3.aspx/"]
 author: "Jeff Handley"

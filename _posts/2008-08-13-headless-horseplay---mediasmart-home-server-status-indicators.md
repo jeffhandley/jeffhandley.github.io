@@ -3,6 +3,7 @@ layout: post
 title: "Headless Horseplay - MediaSmart Home Server Status Indicators"
 date: 2008-08-13 04:43:49 -0700
 comments: true
+category: Archive
 tags: []
 redirect_from: ["/archive/2008/08/12/headless-horseplay---mediasmart-home-server-status-indicators.aspx/"]
 author: "Jeff Handley"

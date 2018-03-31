@@ -3,6 +3,7 @@ layout: post
 title: "Print to PDF on Vista (x64)"
 date: 2008-01-09 08:13:18 -0800
 comments: true
+category: Archive
 tags: ["Vista", "64-bit", "PDF"]
 redirect_from: ["/archive/2008/01/09/print-to-pdf-on-vista-x64.aspx/"]
 author: "Jeff Handley"

@@ -3,6 +3,7 @@ layout: post
 title: "Video Card Update - Vista Service Pack 1"
 date: 2008-02-19 21:44:18 -0800
 comments: true
+category: Archive
 tags: ["ATI", "Video Card", "Vista", "64-bit"]
 redirect_from: ["/archive/2008/02/19/video-card-update---vista-service-pack-1.aspx/"]
 author: "Jeff Handley"

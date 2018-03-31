@@ -3,6 +3,7 @@ layout: post
 title: "Custom Controls Everywhere and ASP.NET MVC, incomplete"
 date: 2008-09-07 08:28:29 -0700
 comments: true
+category: Archive
 tags: []
 redirect_from: ["/archive/2008/09/07/custom-controls-everywhere-and-asp.net-mvc-incomplete.aspx/"]
 author: "Jeff Handley"

@@ -3,6 +3,7 @@ layout: post
 title: "How to safely change 13,000 lines of code, part 1"
 date: 2008-02-09 12:13:46 -0800
 comments: true
+category: Archive
 tags: ["TDD", "DI", "Nullable Types"]
 redirect_from: ["/archive/2008/02/09/how-to-safely-change-13000-lines-of-code-part-1.aspx/"]
 author: "Jeff Handley"

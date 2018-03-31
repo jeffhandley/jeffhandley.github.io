@@ -3,6 +3,7 @@ layout: post
 title: "Starting to get LINQ"
 date: 2008-07-03 00:01:13 -0700
 comments: true
+category: Archive
 tags: ["LINQ"]
 redirect_from: ["/archive/2008/07/02/starting-to-get-linq.aspx/"]
 author: "Jeff Handley"

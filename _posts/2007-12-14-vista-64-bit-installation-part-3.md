@@ -3,6 +3,7 @@ layout: post
 title: "Vista 64-bit Installation (part 3)"
 date: 2007-12-14 20:04:18 -0800
 comments: true
+category: Archive
 tags: ["Vista", "64-bit"]
 redirect_from: ["/archive/2007/12/14/vista-64-bit-installation-part-3.aspx/"]
 author: "Jeff Handley"

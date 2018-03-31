@@ -3,6 +3,7 @@ layout: post
 title: "How to safely change 13,000 lines of code, part 2"
 date: 2008-02-16 07:28:12 -0800
 comments: true
+category: Archive
 tags: ["Nullable Types", ".NET 1.1", "ASP.NET", "Custom Controls Everywhere"]
 redirect_from: ["/archive/2008/02/15/how-to-safely-change-13000-lines-of-code-part-2.aspx/"]
 author: "Jeff Handley"

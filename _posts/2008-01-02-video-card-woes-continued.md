@@ -3,6 +3,7 @@ layout: post
 title: "Video Card Woes, continued"
 date: 2008-01-02 17:02:18 -0800
 comments: true
+category: Archive
 tags: ["ATI", "Radeon", "Vista", "64-bit"]
 redirect_from: ["/archive/2008/01/02/video-card-woes-continued.aspx/"]
 author: "Jeff Handley"

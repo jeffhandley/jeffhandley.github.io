@@ -3,6 +3,7 @@ layout: post
 title: "Barracuda IM Client on Vista"
 date: 2007-12-18 23:51:41 -0800
 comments: true
+category: Archive
 tags: ["Vista", "64-bit", "Barracuda IM"]
 redirect_from: ["/archive/2007/12/18/barracuda-im-client-on-vista.aspx/"]
 author: "Jeff Handley"

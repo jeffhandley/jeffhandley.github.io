@@ -3,6 +3,7 @@ layout: post
 title: "Stoked about the NIN concert"
 date: 2008-06-25 18:08:45 -0700
 comments: true
+category: Archive
 tags: ["Nine Inch Nails", "NIN", "Trent Reznor", "Lights in the Sky - Over North America"]
 redirect_from: ["/archive/2008/06/25/stoked-about-the-nin-concert.aspx/"]
 author: "Jeff Handley"

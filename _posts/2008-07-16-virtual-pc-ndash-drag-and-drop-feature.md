@@ -3,6 +3,7 @@ layout: post
 title: "Virtual PC &ndash; Drag and Drop Feature"
 date: 2008-07-16 23:53:00 -0700
 comments: true
+category: Archive
 tags: ["Virtual PC"]
 redirect_from: ["/archive/2008/07/16/virtual-pc-ndash-drag-and-drop-feature.aspx/"]
 author: "Jeff Handley"

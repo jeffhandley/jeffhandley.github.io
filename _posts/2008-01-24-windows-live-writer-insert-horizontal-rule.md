@@ -3,6 +3,7 @@ layout: post
 title: "Windows Live Writer: Insert Horizontal Rule"
 date: 2008-01-24 04:03:38 -0800
 comments: true
+category: Archive
 tags: ["Windows Live Writer", "Plugin"]
 redirect_from: ["/archive/2008/01/23/windows-live-writer-insert-horizontal-rule.aspx/"]
 author: "Jeff Handley"

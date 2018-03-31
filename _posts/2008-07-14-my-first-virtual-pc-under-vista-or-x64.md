@@ -3,6 +3,7 @@ layout: post
 title: "My first Virtual PC under Vista or x64"
 date: 2008-07-14 21:23:17 -0700
 comments: true
+category: Archive
 tags: ["Vista", "64-bit", "Virtual PC"]
 redirect_from: ["/archive/2008/07/14/my-first-virtual-pc-under-vista-or-x64.aspx/"]
 author: "Jeff Handley"

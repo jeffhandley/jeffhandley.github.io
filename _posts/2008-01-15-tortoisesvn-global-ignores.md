@@ -3,6 +3,7 @@ layout: post
 title: "TortoiseSVN Global Ignores"
 date: 2008-01-15 23:37:26 -0800
 comments: true
+category: Archive
 tags: ["TortoiseSVN", "Subversion"]
 redirect_from: ["/archive/2008/01/15/tortoisesvn-global-ignores.aspx/"]
 author: "Jeff Handley"

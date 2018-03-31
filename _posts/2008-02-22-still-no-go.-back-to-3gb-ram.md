@@ -3,6 +3,7 @@ layout: post
 title: "Still no go... back to 3GB RAM"
 date: 2008-02-22 01:53:40 -0800
 comments: true
+category: Archive
 tags: ["nVidia", "ATI", "Vista", "64-bit"]
 redirect_from: ["/archive/2008/02/21/still-no-go.-back-to-3gb-ram.aspx/"]
 author: "Jeff Handley"

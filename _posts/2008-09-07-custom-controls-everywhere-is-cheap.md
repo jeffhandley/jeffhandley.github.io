@@ -3,6 +3,7 @@ layout: post
 title: "Custom Controls Everywhere is Cheap!"
 date: 2008-09-07 07:56:40 -0700
 comments: true
+category: Archive
 tags: ["Custom Controls Everywhere", "ASP.NET", "WinForms"]
 redirect_from: ["/archive/2008/09/07/custom-controls-everywhere-is-cheap.aspx/"]
 author: "Jeff Handley"

@@ -3,6 +3,7 @@ layout: post
 title: "An even faster enhancement"
 date: 2008-01-30 08:24:45 -0800
 comments: true
+category: Archive
 tags: ["DotNetNuke"]
 redirect_from: ["/archive/2008/01/30/an-even-faster-enhancement.aspx/"]
 author: "Jeff Handley"

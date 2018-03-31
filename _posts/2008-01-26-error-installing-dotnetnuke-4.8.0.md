@@ -3,6 +3,7 @@ layout: post
 title: "Error Installing DotNetNuke 4.8.0"
 date: 2008-01-26 07:56:14 -0800
 comments: true
+category: Archive
 tags: ["DotNetNuke"]
 redirect_from: ["/archive/2008/01/25/error-installing-dotnetnuke-4.8.0.aspx/"]
 author: "Jeff Handley"

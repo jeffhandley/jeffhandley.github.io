@@ -3,6 +3,7 @@ layout: post
 title: "Video Card Woes - Finally Resolved... Nope"
 date: 2008-02-02 01:04:46 -0800
 comments: true
+category: Archive
 tags: ["nVidia", "BFG Tech"]
 redirect_from: ["/archive/2008/02/01/video-card-woes---finally-resolved.-nope.aspx/"]
 author: "Jeff Handley"

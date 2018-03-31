@@ -3,6 +3,7 @@ layout: post
 title: "Video Card Woes"
 date: 2007-12-21 22:10:00 -0800
 comments: true
+category: Archive
 tags: []
 redirect_from: ["/archive/2007/12/21/video-card-woes.aspx/"]
 author: "Jeff Handley"

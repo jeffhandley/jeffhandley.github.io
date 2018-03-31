@@ -3,6 +3,7 @@ layout: post
 title: "Never-ending video card woes"
 date: 2008-01-26 03:20:57 -0800
 comments: true
+category: Archive
 tags: ["Vista", "64-bit", "nVidia", "ATI"]
 redirect_from: ["/archive/2008/01/25/never-ending-video-card-woes.aspx/"]
 author: "Jeff Handley"

@@ -3,6 +3,7 @@ layout: post
 title: "Excel 2007 Conditional Formatting QuickStart"
 date: 2008-01-08 22:27:38 -0800
 comments: true
+category: Archive
 tags: ["Excel 2007"]
 redirect_from: ["/archive/2008/01/08/excel-2007-conditional-formatting-quickstart.aspx/"]
 author: "Jeff Handley"

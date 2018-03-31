@@ -3,6 +3,7 @@ layout: post
 title: "Silverlight 2 Gotcha - Tab Navigation in a Popup, Take 2"
 date: 2008-10-09 17:54:18 -0700
 comments: true
+category: Archive
 tags: ["Silverlight", "Silverlight 2 RC0", "XAML"]
 redirect_from: ["/archive/2008/10/09/silverlight-2-gotcha---tab-navigation-in-a-popup-take.aspx/"]
 author: "Jeff Handley"

@@ -3,6 +3,7 @@ layout: post
 title: "Custom Controls Everywhere &ndash; In XAML"
 date: 2008-07-08 00:05:20 -0700
 comments: true
+category: Archive
 tags: ["Custom Controls Everywhere", "XAML", "Attached Properties", "Attached Behaviors"]
 redirect_from: ["/archive/2008/07/07/custom-controls-everywhere-ndash-maybe-not-in-xaml.aspx/"]
 author: "Jeff Handley"

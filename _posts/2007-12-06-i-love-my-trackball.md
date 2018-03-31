@@ -3,6 +3,7 @@ layout: post
 title: "I love my Trackball"
 date: 2007-12-06 20:15:10 -0800
 comments: true
+category: Archive
 tags: ["Trackball", "Mouse", "Ergonomics"]
 redirect_from: ["/archive/2007/12/06/i-love-my-trackball.aspx/"]
 author: "Jeff Handley"

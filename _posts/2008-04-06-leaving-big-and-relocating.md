@@ -3,6 +3,7 @@ layout: post
 title: "Leaving BIG and Relocating"
 date: 2008-04-06 20:39:38 -0700
 comments: true
+category: Archive
 tags: ["Microsoft", "Silverlight", "Blue Badge", "Phil Haack", "Scott Hanselman", "Rob Conery", "Job Change", "Business Integration Group"]
 redirect_from: ["/archive/2008/04/06/leaving-big-and-relocating.aspx/"]
 author: "Jeff Handley"

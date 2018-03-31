@@ -3,6 +3,7 @@ layout: post
 title: "Still cannot open a VS 2008 solution from explorer"
 date: 2008-02-18 06:32:33 -0800
 comments: true
+category: Archive
 tags: ["Visual Studio", "VS 2008"]
 redirect_from: ["/archive/2008/02/17/still-cannot-open-a-vs-2008-solution-from-explorer.aspx/"]
 author: "Jeff Handley"

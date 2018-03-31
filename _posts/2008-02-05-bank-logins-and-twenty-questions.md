@@ -3,6 +3,7 @@ layout: post
 title: "Bank Logins and Twenty Questions"
 date: 2008-02-05 01:08:34 -0800
 comments: true
+category: Archive
 tags: ["Multi-Factor Authentication", "Security", "Passwords", "Online Banking"]
 redirect_from: ["/archive/2008/02/04/bank-logins-and-twenty-questions.aspx/"]
 author: "Jeff Handley"

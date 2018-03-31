@@ -3,6 +3,7 @@ layout: post
 title: "How To: Cause a Vista BSOD with VS 2008"
 date: 2008-02-11 00:25:58 -0800
 comments: true
+category: Archive
 tags: ["Vista", "BSOD", "VS 2008"]
 redirect_from: ["/archive/2008/02/10/how-to-cause-a-vista-bsod-with-vs-2008.aspx/"]
 author: "Jeff Handley"

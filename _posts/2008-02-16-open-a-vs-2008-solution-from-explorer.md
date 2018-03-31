@@ -3,6 +3,7 @@ layout: post
 title: "Open a VS 2008 solution from Explorer"
 date: 2008-02-16 03:10:23 -0800
 comments: true
+category: Archive
 tags: ["Visual Studio", "VS 2008"]
 redirect_from: ["/archive/2008/02/15/open-a-vs-2008-solution-from-explorer.aspx/"]
 author: "Jeff Handley"

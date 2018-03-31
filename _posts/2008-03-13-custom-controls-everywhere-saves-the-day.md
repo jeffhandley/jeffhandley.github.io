@@ -3,6 +3,7 @@ layout: post
 title: "Custom Controls Everywhere Saves the Day"
 date: 2008-03-13 21:11:31 -0700
 comments: true
+category: Archive
 tags: ["Custom Controls Everywhere", "Validation"]
 redirect_from: ["/archive/2008/03/13/custom-controls-everywhere-saves-the-day.aspx/"]
 author: "Jeff Handley"

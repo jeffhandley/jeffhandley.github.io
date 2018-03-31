@@ -3,6 +3,7 @@ layout: post
 title: "MVC/MVP Validation - How's it done?"
 date: 2007-11-13 20:25:11 -0800
 comments: true
+category: Archive
 tags: ["MVP", "MVC", "ASP.NET", ".NET", "Validation"]
 redirect_from: ["/archive/2007/11/13/mvcmvp-validation---hows-it-done.aspx/"]
 author: "Jeff Handley"

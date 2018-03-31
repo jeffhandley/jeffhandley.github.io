@@ -3,6 +3,7 @@ layout: post
 title: "Video Card Update (still unresolved)"
 date: 2008-01-05 00:44:06 -0800
 comments: true
+category: Archive
 tags: ["Vista", "64-bit", "Radeon", "VisionTek", "ATI"]
 redirect_from: ["/archive/2008/01/04/video-card-update-still-unresolved.aspx/"]
 author: "Jeff Handley"

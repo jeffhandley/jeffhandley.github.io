@@ -3,6 +3,7 @@ layout: post
 title: "New Workstation - Vista Business 64-bit Installation"
 date: 2007-12-14 18:26:21 -0800
 comments: true
+category: Archive
 tags: ["Vista", "64-bit"]
 redirect_from: ["/archive/2007/12/14/new-workstation---vista-business-64-bit-installation.aspx/"]
 author: "Jeff Handley"

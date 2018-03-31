@@ -3,6 +3,7 @@ layout: post
 title: "How to confuse the snot out of Remote Desktop in 5 easy steps"
 date: 2009-02-19 06:12:53 -0800
 comments: true
+category: Archive
 tags: ["Remote Desktop"]
 redirect_from: ["/archive/2009/02/18/how_to_confuse_the_snot_out_of_remote_desktop_in_5_easy_steps.aspx/"]
 author: "Jeff Handley"

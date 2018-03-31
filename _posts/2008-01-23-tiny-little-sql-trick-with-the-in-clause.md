@@ -3,6 +3,7 @@ layout: post
 title: "Tiny little SQL trick with the IN clause"
 date: 2008-01-23 22:22:45 -0800
 comments: true
+category: Archive
 tags: ["TSQL"]
 redirect_from: ["/archive/2008/01/23/tiny-little-sql-trick-with-the-in-clause.aspx/"]
 author: "Jeff Handley"

@@ -3,6 +3,7 @@ layout: post
 title: "Making IntelliSense work inside PlaceHolder"
 date: 2008-01-05 04:41:45 -0800
 comments: true
+category: Archive
 tags: ["Visual Studio .NET 2003", "IntelliSense"]
 redirect_from: ["/archive/2008/01/04/making-intellisense-work-inside-placeholder.aspx/"]
 author: "Jeff Handley"

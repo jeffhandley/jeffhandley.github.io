@@ -3,6 +3,7 @@ layout: post
 title: "Tweaking Registry for Taskbar in Vista"
 date: 2007-12-19 19:27:37 -0800
 comments: true
+category: Archive
 tags: ["Vista", "Taskbar"]
 redirect_from: ["/archive/2007/12/19/tweaking-registry-for-taskbar-in-vista.aspx/"]
 author: "Jeff Handley"

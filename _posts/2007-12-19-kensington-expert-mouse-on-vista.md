@@ -3,6 +3,7 @@ layout: post
 title: "Kensington Expert Mouse on Vista (or Windows 7)"
 date: 2007-12-19 07:46:04 -0800
 comments: true
+category: Archive
 tags: ["Ergonomics", "Vista", "64-bit", "Trackball"]
 redirect_from: ["/archive/2007/12/18/kensington-expert-mouse-on-vista.aspx/"]
 author: "Jeff Handley"

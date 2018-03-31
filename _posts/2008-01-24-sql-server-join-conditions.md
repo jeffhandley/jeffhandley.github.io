@@ -3,6 +3,7 @@ layout: post
 title: "SQL Server JOIN conditions"
 date: 2008-01-24 08:15:13 -0800
 comments: true
+category: Archive
 tags: ["TSQL", "SQL Server"]
 redirect_from: ["/archive/2008/01/24/sql-server-join-conditions.aspx/"]
 author: "Jeff Handley"

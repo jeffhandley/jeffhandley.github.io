@@ -3,6 +3,7 @@ layout: post
 title: "Binding to Nullable Values in XAML"
 date: 2008-07-09 21:07:57 -0700
 comments: true
+category: Archive
 tags: ["Silverlight", "WPF", "XAML", "Binding", "Nullable"]
 redirect_from: ["/archive/2008/07/09/binding-to-nullable-values-in-xaml.aspx/"]
 author: "Jeff Handley"
