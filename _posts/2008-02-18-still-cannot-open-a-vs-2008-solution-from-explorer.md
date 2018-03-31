@@ -5,7 +5,7 @@ date: 2008-02-18 06:32:33 -0800
 comments: true
 category: Archive
 tags: []
-redirect_from: ["/archive/2008/02/17/still-cannot-open-a-vs-2008-solution-from-explorer.aspx"]
+redirect_from: ["/archive/2008/02/17/still-cannot-open-a-vs-2008-solution-from-explorer.aspx/"]
 author: 0
 ---
 <!-- more -->

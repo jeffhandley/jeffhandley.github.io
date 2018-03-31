@@ -5,7 +5,7 @@ date: 2011-09-07 06:50:15 -0700
 comments: true
 category: Archive
 tags: []
-redirect_from: ["/archive/2011/09/06/RIA-Services-Validation-Available-on-GitHub.aspx", "/archive/2011/09/06/ria-services-validation-available-on-github.aspx"]
+redirect_from: ["/archive/2011/09/06/RIA-Services-Validation-Available-on-GitHub.aspx/", "/archive/2011/09/06/ria-services-validation-available-on-github.aspx"]
 author: 0
 ---
 <!-- more -->

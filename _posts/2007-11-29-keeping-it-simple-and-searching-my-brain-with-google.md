@@ -5,7 +5,7 @@ date: 2007-11-29 16:35:18 -0800
 comments: true
 category: Archive
 tags: []
-redirect_from: ["/archive/2007/11/29/keeping-it-simple-and-searching-my-brain-with-google.aspx"]
+redirect_from: ["/archive/2007/11/29/keeping-it-simple-and-searching-my-brain-with-google.aspx/"]
 author: 0
 ---
 <!-- more -->

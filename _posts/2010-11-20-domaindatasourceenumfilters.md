@@ -5,7 +5,7 @@ date: 2010-11-20 02:10:49 -0800
 comments: true
 category: Archive
 tags: []
-redirect_from: ["/archive/2010/11/19/DomainDataSourceEnumFilters.aspx", "/archive/2010/11/19/domaindatasourceenumfilters.aspx"]
+redirect_from: ["/archive/2010/11/19/DomainDataSourceEnumFilters.aspx/", "/archive/2010/11/19/domaindatasourceenumfilters.aspx"]
 author: 0
 ---
 <!-- more -->

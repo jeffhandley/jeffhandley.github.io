@@ -5,7 +5,7 @@ date: 2010-11-16 21:39:49 -0800
 comments: true
 category: Archive
 tags: []
-redirect_from: ["/archive/2010/11/16/DataAnnotationsSubset.aspx", "/archive/2010/11/16/dataannotationssubset.aspx"]
+redirect_from: ["/archive/2010/11/16/DataAnnotationsSubset.aspx/", "/archive/2010/11/16/dataannotationssubset.aspx"]
 author: 0
 ---
 <!-- more -->

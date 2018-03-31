@@ -5,7 +5,7 @@ date: 2009-01-13 21:30:25 -0800
 comments: true
 category: Archive
 tags: []
-redirect_from: ["/archive/2009/01/13/how-to-use-me.aspx"]
+redirect_from: ["/archive/2009/01/13/how-to-use-me.aspx/"]
 author: 0
 ---
 <!-- more -->

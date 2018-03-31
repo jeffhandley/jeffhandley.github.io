@@ -5,7 +5,7 @@ date: 2009-11-16 11:12:34 -0800
 comments: true
 category: Archive
 tags: []
-redirect_from: ["/archive/2009/11/16/domaindatasource-datapager-pagesize-pitfall.aspx"]
+redirect_from: ["/archive/2009/11/16/domaindatasource-datapager-pagesize-pitfall.aspx/"]
 author: 0
 ---
 <!-- more -->

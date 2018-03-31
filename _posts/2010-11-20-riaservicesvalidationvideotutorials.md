@@ -5,7 +5,7 @@ date: 2010-11-20 05:43:24 -0800
 comments: true
 category: Archive
 tags: []
-redirect_from: ["/archive/2010/11/19/RiaServicesValidationVideoTutorials.aspx", "/archive/2010/11/19/riaservicesvalidationvideotutorials.aspx"]
+redirect_from: ["/archive/2010/11/19/RiaServicesValidationVideoTutorials.aspx/", "/archive/2010/11/19/riaservicesvalidationvideotutorials.aspx"]
 author: 0
 ---
 <!-- more -->

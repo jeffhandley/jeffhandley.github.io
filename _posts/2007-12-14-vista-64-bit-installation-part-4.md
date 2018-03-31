@@ -5,7 +5,7 @@ date: 2007-12-14 20:48:30 -0800
 comments: true
 category: Archive
 tags: []
-redirect_from: ["/archive/2007/12/14/vista-64-bit-installation-part-4.aspx"]
+redirect_from: ["/archive/2007/12/14/vista-64-bit-installation-part-4.aspx/"]
 author: 0
 ---
 <!-- more -->

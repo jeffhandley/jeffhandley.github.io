@@ -5,7 +5,7 @@ date: 2013-12-10 00:09:02 -0800
 comments: true
 category: Archive
 tags: []
-redirect_from: ["/archive/2013/12/09/nuget-package-restore-misconceptions.aspx"]
+redirect_from: ["/archive/2013/12/09/nuget-package-restore-misconceptions.aspx/"]
 author: 0
 ---
 <!-- more -->

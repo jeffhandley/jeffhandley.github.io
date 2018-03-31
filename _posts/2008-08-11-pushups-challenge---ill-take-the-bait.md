@@ -5,7 +5,7 @@ date: 2008-08-11 04:28:44 -0700
 comments: true
 category: Archive
 tags: []
-redirect_from: ["/archive/2008/08/10/pushups-challenge---ill-take-the-bait.aspx"]
+redirect_from: ["/archive/2008/08/10/pushups-challenge---ill-take-the-bait.aspx/"]
 author: 0
 ---
 <!-- more -->

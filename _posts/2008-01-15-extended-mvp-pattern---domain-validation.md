@@ -5,7 +5,7 @@ date: 2008-01-15 09:20:17 -0800
 comments: true
 category: Archive
 tags: []
-redirect_from: ["/archive/2008/01/15/extended-mvp-pattern---domain-validation.aspx"]
+redirect_from: ["/archive/2008/01/15/extended-mvp-pattern---domain-validation.aspx/"]
 author: 0
 ---
 <!-- more -->

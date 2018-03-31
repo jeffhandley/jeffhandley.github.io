@@ -5,7 +5,7 @@ date: 2008-08-10 10:05:01 -0700
 comments: true
 category: Archive
 tags: []
-redirect_from: ["/archive/2008/08/10/accept-except-except---thumbnail-creator-fun-with-linq.aspx"]
+redirect_from: ["/archive/2008/08/10/accept-except-except---thumbnail-creator-fun-with-linq.aspx/"]
 author: 0
 ---
 <!-- more -->

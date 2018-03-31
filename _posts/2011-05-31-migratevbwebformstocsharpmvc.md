@@ -5,7 +5,7 @@ date: 2011-05-31 11:07:05 -0700
 comments: true
 category: Archive
 tags: []
-redirect_from: ["/archive/2011/05/31/MigrateVBWebFormsToCSharpMVC.aspx", "/archive/2011/05/31/migratevbwebformstocsharpmvc.aspx"]
+redirect_from: ["/archive/2011/05/31/MigrateVBWebFormsToCSharpMVC.aspx/", "/archive/2011/05/31/migratevbwebformstocsharpmvc.aspx"]
 author: 0
 ---
 <!-- more -->

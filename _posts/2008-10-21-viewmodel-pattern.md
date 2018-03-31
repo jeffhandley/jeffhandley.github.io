@@ -5,7 +5,7 @@ date: 2008-10-21 23:31:58 -0700
 comments: true
 category: Archive
 tags: []
-redirect_from: ["/archive/2008/10/21/viewmodel-pattern.aspx"]
+redirect_from: ["/archive/2008/10/21/viewmodel-pattern.aspx/"]
 author: 0
 ---
 <!-- more -->

@@ -5,7 +5,7 @@ date: 2008-09-29 05:18:41 -0700
 comments: true
 category: Archive
 tags: []
-redirect_from: ["/archive/2008/09/28/political-rant-ndash-blogger-blog-reopened.aspx"]
+redirect_from: ["/archive/2008/09/28/political-rant-ndash-blogger-blog-reopened.aspx/"]
 author: 0
 ---
 <!-- more -->

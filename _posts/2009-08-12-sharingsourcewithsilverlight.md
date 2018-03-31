@@ -5,7 +5,7 @@ date: 2009-08-12 16:10:04 -0700
 comments: true
 category: Archive
 tags: []
-redirect_from: ["/archive/2009/08/12/sharingsourcewithsilverlight.aspx"]
+redirect_from: ["/archive/2009/08/12/sharingsourcewithsilverlight.aspx/"]
 author: 0
 ---
 <!-- more -->

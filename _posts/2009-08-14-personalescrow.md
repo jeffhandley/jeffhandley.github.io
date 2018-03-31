@@ -5,7 +5,7 @@ date: 2009-08-14 11:26:42 -0700
 comments: true
 category: Archive
 tags: []
-redirect_from: ["/archive/2009/08/14/personalescrow.aspx"]
+redirect_from: ["/archive/2009/08/14/personalescrow.aspx/"]
 author: 0
 ---
 <!-- more -->

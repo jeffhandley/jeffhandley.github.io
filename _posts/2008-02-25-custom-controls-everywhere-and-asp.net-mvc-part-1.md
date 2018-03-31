@@ -5,7 +5,7 @@ date: 2008-02-25 02:05:15 -0800
 comments: true
 category: Archive
 tags: []
-redirect_from: ["/archive/2008/02/24/custom-controls-everywhere-and-asp.net-mvc-part-1.aspx"]
+redirect_from: ["/archive/2008/02/24/custom-controls-everywhere-and-asp.net-mvc-part-1.aspx/"]
 author: 0
 ---
 <!-- more -->

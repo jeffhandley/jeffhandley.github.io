@@ -5,7 +5,7 @@ date: 2010-03-16 02:24:10 -0700
 comments: true
 category: Archive
 tags: []
-redirect_from: ["/archive/2010/03/15/filters-parameters.aspx"]
+redirect_from: ["/archive/2010/03/15/filters-parameters.aspx/"]
 author: 0
 ---
 <!-- more -->

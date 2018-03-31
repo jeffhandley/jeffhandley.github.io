@@ -5,7 +5,7 @@ date: 2008-01-05 04:41:45 -0800
 comments: true
 category: Archive
 tags: []
-redirect_from: ["/archive/2008/01/04/making-intellisense-work-inside-placeholder.aspx"]
+redirect_from: ["/archive/2008/01/04/making-intellisense-work-inside-placeholder.aspx/"]
 author: 0
 ---
 <!-- more -->

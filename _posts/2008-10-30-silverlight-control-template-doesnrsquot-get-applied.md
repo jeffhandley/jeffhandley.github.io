@@ -5,7 +5,7 @@ date: 2008-10-30 01:15:02 -0700
 comments: true
 category: Archive
 tags: []
-redirect_from: ["/archive/2008/10/29/silverlight-control-template-doesnrsquot-get-applied.aspx"]
+redirect_from: ["/archive/2008/10/29/silverlight-control-template-doesnrsquot-get-applied.aspx/"]
 author: 0
 ---
 <!-- more -->

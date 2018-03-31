@@ -5,7 +5,7 @@ date: 2011-07-09 01:18:34 -0700
 comments: true
 category: Archive
 tags: []
-redirect_from: ["/archive/2011/07/08/RIAServicesEndpointsPoll.aspx", "/archive/2011/07/08/riaservicesendpointspoll.aspx"]
+redirect_from: ["/archive/2011/07/08/RIAServicesEndpointsPoll.aspx/", "/archive/2011/07/08/riaservicesendpointspoll.aspx"]
 author: 0
 ---
 <!-- more -->

@@ -5,7 +5,7 @@ date: 2011-08-11 07:28:25 -0700
 comments: true
 category: Archive
 tags: []
-redirect_from: ["/archive/2011/08/11/IGetNuGet-YouGetNuGet.aspx", "/archive/2011/08/11/igetnuget-yougetnuget.aspx"]
+redirect_from: ["/archive/2011/08/11/IGetNuGet-YouGetNuGet.aspx/", "/archive/2011/08/11/igetnuget-yougetnuget.aspx"]
 author: 0
 ---
 <!-- more -->

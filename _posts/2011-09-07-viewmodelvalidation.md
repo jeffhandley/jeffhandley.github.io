@@ -5,7 +5,7 @@ date: 2011-09-07 06:31:01 -0700
 comments: true
 category: Archive
 tags: []
-redirect_from: ["/archive/2011/09/06/ViewModelValidation.aspx", "/archive/2011/09/06/viewmodelvalidation.aspx"]
+redirect_from: ["/archive/2011/09/06/ViewModelValidation.aspx/", "/archive/2011/09/06/viewmodelvalidation.aspx"]
 author: 0
 ---
 <!-- more -->

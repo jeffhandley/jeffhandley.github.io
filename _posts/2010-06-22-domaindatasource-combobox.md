@@ -5,7 +5,7 @@ date: 2010-06-22 08:40:02 -0700
 comments: true
 category: Archive
 tags: []
-redirect_from: ["/archive/2010/06/22/DomainDataSource-ComboBox.aspx", "/archive/2010/06/22/domaindatasource-combobox.aspx"]
+redirect_from: ["/archive/2010/06/22/DomainDataSource-ComboBox.aspx/", "/archive/2010/06/22/domaindatasource-combobox.aspx"]
 author: 0
 ---
 <!-- more -->

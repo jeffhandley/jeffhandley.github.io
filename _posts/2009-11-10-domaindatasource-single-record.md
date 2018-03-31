@@ -5,7 +5,7 @@ date: 2009-11-10 18:27:26 -0800
 comments: true
 category: Archive
 tags: []
-redirect_from: ["/archive/2009/11/10/domaindatasource-single-record.aspx"]
+redirect_from: ["/archive/2009/11/10/domaindatasource-single-record.aspx/"]
 author: 0
 ---
 <!-- more -->

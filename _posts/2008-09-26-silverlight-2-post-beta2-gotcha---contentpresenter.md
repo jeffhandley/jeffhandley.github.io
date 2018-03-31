@@ -5,7 +5,7 @@ date: 2008-09-26 06:37:09 -0700
 comments: true
 category: Archive
 tags: []
-redirect_from: ["/archive/2008/09/25/silverlight-2-post-beta2-gotcha---contentpresenter.aspx"]
+redirect_from: ["/archive/2008/09/25/silverlight-2-post-beta2-gotcha---contentpresenter.aspx/"]
 author: 0
 ---
 <!-- more -->

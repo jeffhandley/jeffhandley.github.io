@@ -5,7 +5,7 @@ date: 2009-02-19 06:12:53 -0800
 comments: true
 category: Archive
 tags: []
-redirect_from: ["/archive/2009/02/18/how_to_confuse_the_snot_out_of_remote_desktop_in_5_easy_steps.aspx"]
+redirect_from: ["/archive/2009/02/18/how_to_confuse_the_snot_out_of_remote_desktop_in_5_easy_steps.aspx/"]
 author: 0
 ---
 <!-- more -->

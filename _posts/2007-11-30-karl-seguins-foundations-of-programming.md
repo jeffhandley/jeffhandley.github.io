@@ -5,7 +5,7 @@ date: 2007-11-30 03:50:20 -0800
 comments: true
 category: Archive
 tags: []
-redirect_from: ["/archive/2007/11/29/karl-seguins-foundations-of-programming.aspx"]
+redirect_from: ["/archive/2007/11/29/karl-seguins-foundations-of-programming.aspx/"]
 author: 0
 ---
 <!-- more -->

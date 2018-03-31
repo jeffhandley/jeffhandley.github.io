@@ -5,7 +5,7 @@ date: 2008-01-27 13:29:15 -0800
 comments: true
 category: Archive
 tags: []
-redirect_from: ["/archive/2008/01/27/enum-list-dropdown-control.aspx"]
+redirect_from: ["/archive/2008/01/27/enum-list-dropdown-control.aspx/"]
 author: 0
 ---
 <!-- more -->
