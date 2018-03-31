@@ -11,7 +11,7 @@ author: "Jeff Handley"
 <p>
 I've volunteered with the Cub Scouts for the last 5 years and it's been a great experience.  As I'm winding down my role in the pack, I was asked to write a testimonial about how rewarding it has been to be involved.  Here it is.
 </p>
-<p><code>
+<p>
 Spending my days working in an office on a computer, I generally declare that I'm not very handy.  As my sons showed interest in building and fixing things, I would often tell them that I was not capable of doing it.  But after 5 years of volunteering with Pack 561, I've learned that in fact, <u><b>I am handy, and I can build and fix things</b></u>!
 </p>
 <p>
@@ -32,5 +32,5 @@ Den Leader, Den 4 (2011-2014)<br />
 Derby Car Workshop Host (2012-2014)<br />
 Webmaster (2013-2014)<br />
 Honorary Scout (2009-2015)
-</code></p>
+</p>
 

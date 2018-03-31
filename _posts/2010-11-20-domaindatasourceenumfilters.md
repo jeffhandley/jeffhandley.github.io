@@ -49,11 +49,11 @@ author: "Jeff Handley"
 
 <p>With the final line that is commented out, if we tried to execute a load with that line in place, we’d get a load error with the following message:</p>
 
-<p><code> </p>
+<p> </p>
 
   <p>The FilterDescriptor with its PropertyPath equal to ‘Type’ cannot be evaluated.</p>
 
-  <p> </code></p>
+  <p> </p>
 
 <p>You’ll notice from the above code that the following value types are supported:</p>
 

@@ -44,7 +44,7 @@ author: "Jeff Handley"
 
 <p>Here's what Jeffrey laid out on the table:</p>
 
-<p><code><font size="1">There are some challenges with ViewData as it stands now:</font></p>
+<p><font size="1">There are some challenges with ViewData as it stands now:</font></p>
 
   <ul>
   <li><font size="1">A key is required for every object, both in the controller and view.
