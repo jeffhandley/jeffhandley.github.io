@@ -16,6 +16,11 @@ github:
   baseURL: "https://github.com/"
   icon: "fa-github"
 
+npm:
+  name: "npm"
+  baseURL: "https://www.npmjs.com/~"
+  icon: "fa-npm"
+
 twitter:
   name: "Twitter"
   baseURL: "https://twitter.com/"
