@@ -13,17 +13,17 @@ author: "Jeff Handley"
 <p>If you are using logical deletes - delete flags instead of record removal - SubSonic will support this. Our convention is to use "Deleted" or "IsDeleted" as the flag for this column, and that it's a bit field. If you have these fields in your database SubSonic will mark it appropriately on delete, or it will just delete the record. <br />
 </p>
 <p>You can use a permanent delete along with the logical deletes by using "Destroy()".</p>
-<p><font style="BACKGROUND-COLOR: #fcfaf0">I like what SubSonic did there; very clean.  But you still have to consider the active/deleted state with all queries throughout the entire system, as well as in joins to tables and lots of other aspects of everyday life.</font></p>
-<p><font style="BACKGROUND-COLOR: #fcfaf0">Permanently deleting records seems to happen a lot less frequently than deactivating records.  Yet only the permanent delete is built into SQL Server.  My idea is to implement the ability to deactivate records inside SQL, without permanently deleting them.  But in order to be a complete solution, you need to be able to still work with inactive records as needed.</font></p>
-<p><font style="BACKGROUND-COLOR: #fcfaf0">As I did last year, I'm going to pitch my idea by showing SQL statements that would utilize the features.  The Northwind schema is used.</font></p>
-<p><font style="BACKGROUND-COLOR: #fcfaf0">First, let's deactivate a record:</font></p>
+<p><font>I like what SubSonic did there; very clean.  But you still have to consider the active/deleted state with all queries throughout the entire system, as well as in joins to tables and lots of other aspects of everyday life.</font></p>
+<p><font>Permanently deleting records seems to happen a lot less frequently than deactivating records.  Yet only the permanent delete is built into SQL Server.  My idea is to implement the ability to deactivate records inside SQL, without permanently deleting them.  But in order to be a complete solution, you need to be able to still work with inactive records as needed.</font></p>
+<p><font>As I did last year, I'm going to pitch my idea by showing SQL statements that would utilize the features.  The Northwind schema is used.</font></p>
+<p><font>First, let's deactivate a record:</font></p>
 <div style="BORDER-RIGHT: gray 1px solid; PADDING-RIGHT: 4px; BORDER-TOP: gray 1px solid; PADDING-LEFT: 4px; FONT-SIZE: 8pt; PADDING-BOTTOM: 4px; MARGIN: 20px 0px 10px; OVERFLOW: auto; BORDER-LEFT: gray 1px solid; WIDTH: 97.5%; CURSOR: text; MAX-HEIGHT: 200px; LINE-HEIGHT: 12pt; PADDING-TOP: 4px; BORDER-BOTTOM: gray 1px solid; FONT-FAMILY: consolas, 'Courier New', courier, monospace; BACKGROUND-COLOR: #f4f4f4">
 <div style="PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-SIZE: 8pt; PADDING-BOTTOM: 0px; OVERFLOW: visible; WIDTH: 100%; COLOR: black; BORDER-TOP-STYLE: none; LINE-HEIGHT: 12pt; PADDING-TOP: 0px; FONT-FAMILY: consolas, 'Courier New', courier, monospace; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BACKGROUND-COLOR: #f4f4f4; BORDER-BOTTOM-STYLE: none">
 <pre style="PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-SIZE: 8pt; PADDING-BOTTOM: 0px; MARGIN: 0em; OVERFLOW: visible; WIDTH: 100%; COLOR: black; BORDER-TOP-STYLE: none; LINE-HEIGHT: 12pt; PADDING-TOP: 0px; FONT-FAMILY: consolas, 'Courier New', courier, monospace; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BACKGROUND-COLOR: white; BORDER-BOTTOM-STYLE: none"><span style="COLOR: #606060">   1:</span> DEACTIVATE    Employees</pre>
 <pre style="PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-SIZE: 8pt; PADDING-BOTTOM: 0px; MARGIN: 0em; OVERFLOW: visible; WIDTH: 100%; COLOR: black; BORDER-TOP-STYLE: none; LINE-HEIGHT: 12pt; PADDING-TOP: 0px; FONT-FAMILY: consolas, 'Courier New', courier, monospace; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BACKGROUND-COLOR: #f4f4f4; BORDER-BOTTOM-STYLE: none"><span style="COLOR: #606060">   2:</span> <span style="COLOR: #0000ff">WHERE</span>         employee_id = @employee_id</pre>
 </div>
 </div>
-<p><font style="BACKGROUND-COLOR: #fcfaf0"><br />
+<p><font><br />
 Next, let's reactivate that same record: (it happens, you know it does) <br />
 </font></p>
 <div style="BORDER-RIGHT: gray 1px solid; PADDING-RIGHT: 4px; BORDER-TOP: gray 1px solid; PADDING-LEFT: 4px; FONT-SIZE: 8pt; PADDING-BOTTOM: 4px; MARGIN: 20px 0px 10px; OVERFLOW: auto; BORDER-LEFT: gray 1px solid; WIDTH: 97.5%; CURSOR: text; MAX-HEIGHT: 200px; LINE-HEIGHT: 12pt; PADDING-TOP: 4px; BORDER-BOTTOM: gray 1px solid; FONT-FAMILY: consolas, 'Courier New', courier, monospace; BACKGROUND-COLOR: #f4f4f4">
@@ -32,7 +32,7 @@ Next, let's reactivate that same record: (it happens, you know it does) <br />
 <pre style="PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-SIZE: 8pt; PADDING-BOTTOM: 0px; MARGIN: 0em; OVERFLOW: visible; WIDTH: 100%; COLOR: black; BORDER-TOP-STYLE: none; LINE-HEIGHT: 12pt; PADDING-TOP: 0px; FONT-FAMILY: consolas, 'Courier New', courier, monospace; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BACKGROUND-COLOR: #f4f4f4; BORDER-BOTTOM-STYLE: none"><span style="COLOR: #606060">   2:</span> <span style="COLOR: #0000ff">WHERE</span>         employee_id = @employee_id</pre>
 </div>
 </div>
-<p><font style="BACKGROUND-COLOR: #fcfaf0"><br />
+<p><font><br />
 By default (but configurable per database of course), inactive records would NOT be included in queries.  So, the following statement would exclude any records that have been deactivated: <br />
 </font></p>
 <div style="BORDER-RIGHT: gray 1px solid; PADDING-RIGHT: 4px; BORDER-TOP: gray 1px solid; PADDING-LEFT: 4px; FONT-SIZE: 8pt; PADDING-BOTTOM: 4px; MARGIN: 20px 0px 10px; OVERFLOW: auto; BORDER-LEFT: gray 1px solid; WIDTH: 97.5%; CURSOR: text; MAX-HEIGHT: 200px; LINE-HEIGHT: 12pt; PADDING-TOP: 4px; BORDER-BOTTOM: gray 1px solid; FONT-FAMILY: consolas, 'Courier New', courier, monospace; BACKGROUND-COLOR: #f4f4f4">
