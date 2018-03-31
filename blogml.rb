@@ -145,20 +145,27 @@ module Jekyll
 
           # since BlogML doesn't support tags, and I haphazardly used categories as tags,
           # we are going to read categories and use them as tags.
-          tags = Array.new
-          item.elements.each("categories/category") do |category|
-            tags.push(cats[category.attributes["ref"]])
-          end
+          # tags = Array.new
+          # item.elements.each("categories/category") do |category|
+          #   tags.push(cats[category.attributes["ref"]])
+          # end
+
+          # Extract tags from technorati links
+          tags = content.scan(/(?<=rel="tag">).*?(?=<\/a>)/)
+
           puts "tags: #{tags}"
+
+          # Remove technorati links
+          content = content.gsub!(/\s*<div class="wlWriterSmartContent".*?technorati.*?<\/div>\s*/, "")
 
           #author = item.elements["authors"]
           #puts "author: #{author}"
 
-          author = String.new
-          item.elements.each("authors/author") do |author_name|
-            author = author_name.attributes["ref"].downcase
-          end
-          puts "author: #{author}"
+          # author = String.new
+          # item.elements.each("authors/author") do |author_name|
+          #   author = author_name.attributes["ref"].downcase
+          # end
+          # puts "author: #{author}"
 
           # puts "#{link} -> #{filename}"
           File.open(filename, "w") do |f|
@@ -175,10 +182,9 @@ layout: post
 title: "#{title}"
 date: #{timestamp.strftime("%Y-%m-%d %H:%M:%S %z")}
 comments: true
-category: Archive
 tags: #{tags}
 redirect_from: #{old_url}
-author: #{author}
+author: "Jeff Handley"
 ---
             HEADER
             # f.puts

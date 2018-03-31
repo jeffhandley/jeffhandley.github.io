@@ -3,10 +3,9 @@ layout: post
 title: "INotifyPropertyChanged -- Searching for a Better Way"
 date: 2008-10-08 00:02:29 -0700
 comments: true
-category: Archive
-tags: []
+tags: ["Silverlight", "WPF", "DataBinding", "INotifyPropertyChanged"]
 redirect_from: ["/archive/2008/10/07/inotifypropertychanged----searching-for-a-better-way.aspx/"]
-author: 0
+author: "Jeff Handley"
 ---
 <!-- more -->
 <p>I've been fiddling with different approaches for implementing INotifyPropertyChanged.  I <a href="http://blog.jeffhandley.com/archive/2008/06/19/property-changed-events.aspx">blogged one approach</a> awhile back, declaring my unhappiness with the pattern.  Neil Mosafi also talked about how <a href="http://neilmosafi.blogspot.com/2008/07/is-inotifypropertychanged-anti-pattern.html">INotifyPropertyChanged might be an anti-pattern</a>.  I keep searching for a better way.</p>  <p>At last night's <a href="http://www.hanselman.com/blog/October6thSeattleRedmondBellevueNerdDinner.aspx">Nerd Dinner</a>, <a href="http://twitter.com/Brian_Henderson">Brian Henderson</a> was talking to <a href="http://blogs.msdn.com/gblock/">Glenn Block</a> and me about this problem.  He suggested a language feature of some sort, with perhaps the feeling of generics.  He mentioned that there really isn't anything to make properties easier, other than the <a href="http://weblogs.asp.net/scottgu/archive/2007/03/08/new-c-orcas-language-features-automatic-properties-object-initializers-and-collection-initializers.aspx">automatic properties</a> of C#, but those aren't very flexible.</p>  <p>I crafted a syntax that I think is what Brian was driving at.  Here's what I came up with for declaring an automatic property that implements INotifyPropertyChanged.</p>  <div style="border-right: gray 1px solid; padding-right: 4px; border-top: gray 1px solid; padding-left: 4px; font-size: 8pt; padding-bottom: 4px; margin: 20px 0px 10px; overflow: auto; border-left: gray 1px solid; width: 97.5%; cursor: text; max-height: 200px; line-height: 12pt; padding-top: 4px; border-bottom: gray 1px solid; font-family: consolas, 'Courier New', courier, monospace; background-color: #f4f4f4">   <div style="padding-right: 0px; padding-left: 0px; font-size: 8pt; padding-bottom: 0px; overflow: visible; width: 100%; color: black; border-top-style: none; line-height: 12pt; padding-top: 0px; font-family: consolas, 'Courier New', courier, monospace; border-right-style: none; border-left-style: none; background-color: #f4f4f4; border-bottom-style: none">     <pre style="padding-right: 0px; padding-left: 0px; font-size: 8pt; padding-bottom: 0px; margin: 0em; overflow: visible; width: 100%; color: black; border-top-style: none; line-height: 12pt; padding-top: 0px; font-family: consolas, 'Courier New', courier, monospace; border-right-style: none; border-left-style: none; background-color: white; border-bottom-style: none"><span style="color: #0000ff">public</span> NotifyPropertyChanged&lt;<span style="color: #0000ff">int</span>&gt; BirthYear { get; set; }</pre>
@@ -93,6 +92,3 @@ author: 0
 <p> </p>
 
 <p>This doesn't quite feel right, because it's not the property template that implements INotifyPropertyChanged, but rather it's the class that has the property.  I could certainly see how some sort of language feature like this would be cool though.</p>
-
-<div class="wlWriterSmartContent" id="scid:0767317B-992E-4b12-91E0-4F059A8CECA8:dd193d6a-01fd-4fb9-b008-4975368f7540" style="padding-right: 0px; display: inline; padding-left: 0px; padding-bottom: 0px; margin: 0px; padding-top: 0px">Technorati Tags: <a href="http://technorati.com/tags/Silverlight" rel="tag">Silverlight</a>,<a href="http://technorati.com/tags/WPF" rel="tag">WPF</a>,<a href="http://technorati.com/tags/DataBinding" rel="tag">DataBinding</a>,<a href="http://technorati.com/tags/INotifyPropertyChanged" rel="tag">INotifyPropertyChanged</a></div>
-

@@ -3,10 +3,9 @@ layout: post
 title: "ViewData seems too constraining"
 date: 2008-01-25 06:06:35 -0800
 comments: true
-category: Archive
-tags: []
+tags: ["ASP.NET", "MVC"]
 redirect_from: ["/archive/2008/01/24/viewdata-seems-too-constraining.aspx/"]
-author: 0
+author: "Jeff Handley"
 ---
 <!-- more -->
 <p>I worked more last night on my ASP.NET MVC project.  Second time sitting down to work on it.  I spent the evening dealing with ViewData, trying to find the best way to wrap everything the UI needs into a nice ViewData object.  The night didn't end well.</p>  <p>As I <a href="http://blog.jeffhandley.com/archive/2008/01/17/asp.net-mvc---first-use.aspx" target="_blank">mentioned</a>, I'm implementing a wizard.  The user will select one or more products, and then they will be prompted with additional steps for each product selected.  I wanted the View to be able to do something like this:</p>  <div style="border-right: gray 1px solid; padding-right: 4px; border-top: gray 1px solid; padding-left: 4px; font-size: 8pt; padding-bottom: 4px; margin: 20px 0px 10px; overflow: auto; border-left: gray 1px solid; width: 97.5%; cursor: text; max-height: 200px; line-height: 12pt; padding-top: 4px; border-bottom: gray 1px solid; font-family: consolas, 'Courier New', courier, monospace; background-color: #f4f4f4">   <div style="padding-right: 0px; padding-left: 0px; font-size: 8pt; padding-bottom: 0px; overflow: visible; width: 100%; color: black; border-top-style: none; line-height: 12pt; padding-top: 0px; font-family: consolas, 'Courier New', courier, monospace; border-right-style: none; border-left-style: none; background-color: #f4f4f4; border-bottom-style: none">     <pre style="padding-right: 0px; padding-left: 0px; font-size: 8pt; padding-bottom: 0px; margin: 0em; overflow: visible; width: 100%; color: black; border-top-style: none; line-height: 12pt; padding-top: 0px; font-family: consolas, 'Courier New', courier, monospace; border-right-style: none; border-left-style: none; background-color: white; border-bottom-style: none"><span style="color: #606060">   1:</span> <span style="color: #0000ff">public</span> <span style="color: #0000ff">class</span> StaplerReview : ViewPage&lt;ProductWizard&lt;Stapler&gt;&gt;</pre>
@@ -133,6 +132,3 @@ author: 0
 </div>
 
 <p>I feel much better about this implementation.</p>
-
-<div class="wlWriterSmartContent" id="scid:0767317B-992E-4b12-91E0-4F059A8CECA8:1a30b3e6-06cd-4e3c-8b2b-282d0c745c58" style="padding-right: 0px; display: inline; padding-left: 0px; padding-bottom: 0px; margin: 0px; padding-top: 0px">Technorati Tags: <a href="http://technorati.com/tags/ASP.NET" rel="tag">ASP.NET</a>,<a href="http://technorati.com/tags/MVC" rel="tag">MVC</a></div>
-

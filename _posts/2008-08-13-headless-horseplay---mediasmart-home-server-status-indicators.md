@@ -3,10 +3,9 @@ layout: post
 title: "Headless Horseplay - MediaSmart Home Server Status Indicators"
 date: 2008-08-13 04:43:49 -0700
 comments: true
-category: Archive
 tags: []
 redirect_from: ["/archive/2008/08/12/headless-horseplay---mediasmart-home-server-status-indicators.aspx/"]
-author: 0
+author: "Jeff Handley"
 ---
 <!-- more -->
 <p>I am working on a Family Photos application that organizes digital pictures into a chronological structure.  I had <strike>created</strike> <em>thrown together</em> an application like this years ago, but it was no longer going to cut it, especially with the new Windows Home Server in the mix.  One key requirement for Family Photos is to very easily move pictures off of the SD card from the camera, queuing them up for organization, and allowing the SD card to be taken back and put back into the camera.  Our old process involved the following: </p>
@@ -292,5 +291,3 @@ The pattern I'm finding myself using is recording the original brightness and th
 <p><br />
 I foresee using this class for other Home Server processes I end up writing, so that the server can report its status, and I can glean it from the couch.  It'll be a balancing act between informative and annoying.  We'll have to see what the WAF factor is on this one!</p>
 <p> </p>
-<div class="wlWriterSmartContent" id="scid:0767317B-992E-4b12-91E0-4F059A8CECA8:6d1fad03-43fa-43bf-9351-8fe59d0cde97" style="PADDING-RIGHT: 0px; DISPLAY: inline; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px">Technorati Tags: <a rel="tag" href="http://technorati.com/tags/HP%20MediaSmart%20Server">HP MediaSmart Server</a>,<a rel="tag" href="http://technorati.com/tags/Windows%20Home%20Server">Windows Home Server</a>,<a rel="tag" href="http://technorati.com/tags/WHS">WHS</a>,<a rel="tag" href="http://technorati.com/tags/Family%20Photos">Family Photos</a></div>
-

@@ -3,10 +3,9 @@ layout: post
 title: "Custom Controls Everywhere and ASP.NET MVC, part 0"
 date: 2008-02-13 19:53:52 -0800
 comments: true
-category: Archive
 tags: []
 redirect_from: ["/archive/2008/02/13/custom-controls-everywhere-and-asp.net-mvc-part-0.aspx/"]
-author: 0
+author: "Jeff Handley"
 ---
 <!-- more -->
 <p>As I <a target="_blank" href="http://blog.jeffhandley.com/archive/2008/02/12/self-validating-form-controls.aspx">referenced</a> last night, I've been advocating "custom controls everywhere" for a long, long time.  I don't approve of using the &lt;asp:Textbox&gt; control or &lt;asp:DataGrid&gt; control, or pretty much any others.  Instead, these controls should be inherited, and the derived controls should be used.</p>
@@ -23,5 +22,3 @@ author: 0
     <li>Part 4 - Adding <u>client-side</u> validation to the concept </li>
 </ul>
 <p>Please tune in and watch where this goes.  I would love to hear candid comments and constructive criticism.  Heck, I even invite you to blast me for not knowing what the heck I'm talking about.  Hit me with whatever you got.  But in the end, I promise that I will have presented a means for encapsulating common HTML in a form similar to what we're used to in traditional ASP.NET.  And this approach will offer a means for customizing those controls for an application, ensuring a consistent user interface, improved developer efficiency, and better maintainability.</p>
-<div class="wlWriterSmartContent" id="scid:0767317B-992E-4b12-91E0-4F059A8CECA8:6795a2e4-6f66-4d45-9009-eba32f661986" style="PADDING-RIGHT: 0px; DISPLAY: inline; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px">Technorati Tags: <a rel="tag" href="http://technorati.com/tags/ASP.NET">ASP.NET</a>,<a rel="tag" href="http://technorati.com/tags/Custom%20Controls%20Everywhere">Custom Controls Everywhere</a>,<a rel="tag" href="http://technorati.com/tags/MVC">MVC</a>,<a rel="tag" href="http://technorati.com/tags/MVP">MVP</a></div>
-

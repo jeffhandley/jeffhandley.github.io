@@ -3,10 +3,9 @@ layout: post
 title: "HelloWorld.ViewModel"
 date: 2008-10-27 18:08:35 -0700
 comments: true
-category: Archive
-tags: []
+tags: ["ViewModel", "WPF", "Silverlight", "Model-View-ViewModel"]
 redirect_from: ["/archive/2008/10/27/helloworld.viewmodel.aspx/"]
-author: 0
+author: "Jeff Handley"
 ---
 <!-- more -->
 <p>A few folks asked me to provide a ViewModel sample of some sort.  I thought this was a great idea, since I don’t know that I had seen a straight-forward ViewModel sample yet.  So here it is: HelloWorld.ViewModel!</p>  <p> <a title="Open the live sample in Silverlight" href="/Files/HelloWorldViewModel.html" target="_blank"><img title="Click to launch Hello World ViewModel in Silverlight" style="display: inline; margin-left: 0px; margin-right: 0px" height="292" alt="Click to launch Hello World ViewModel in Silverlight" src="http://blog.jeffhandley.com/Images/PostImages/HelloWorld.ViewModel_121C6/HelloWorldViewModel.png" width="500" /></a>     <br />Click the image to view the Silverlight sample live.</p>  <p>Let’s start out by looking at the code for the ViewModel class, since that’s the file that I authored first.</p>  <div style="border-right: gray 1px solid; padding-right: 4px; border-top: gray 1px solid; padding-left: 4px; font-size: 8pt; padding-bottom: 4px; margin: 20px 0px 10px; overflow: auto; border-left: gray 1px solid; width: 97.5%; cursor: text; max-height: 2000px; line-height: 12pt; padding-top: 4px; border-bottom: gray 1px solid; font-family: consolas, 'Courier New', courier, monospace; background-color: #f4f4f4">   <div style="padding-right: 0px; padding-left: 0px; font-size: 8pt; padding-bottom: 0px; overflow: visible; width: 100%; color: black; border-top-style: none; line-height: 12pt; padding-top: 0px; font-family: consolas, 'Courier New', courier, monospace; border-right-style: none; border-left-style: none; background-color: #f4f4f4; border-bottom-style: none">     <pre style="padding-right: 0px; padding-left: 0px; font-size: 8pt; padding-bottom: 0px; margin: 0em; overflow: visible; width: 100%; color: black; border-top-style: none; line-height: 12pt; padding-top: 0px; font-family: consolas, 'Courier New', courier, monospace; border-right-style: none; border-left-style: none; background-color: white; border-bottom-style: none"><span style="color: #606060">   1:</span> <span style="color: #0000ff">using</span> System;</pre>
@@ -362,6 +361,3 @@ author: 0
 <p>You can download the source code for this application <a title="Source code for HelloWorldViewModel" href="/Files/HelloWorldViewModel.zip" target="_blank">here</a>.</p>
 
 <p></p>
-
-<div class="wlWriterSmartContent" id="scid:0767317B-992E-4b12-91E0-4F059A8CECA8:fdc02c73-38f5-44d2-805e-d9cd4385b840" style="padding-right: 0px; display: inline; padding-left: 0px; float: none; padding-bottom: 0px; margin: 0px; padding-top: 0px">Technorati Tags: <a href="http://technorati.com/tags/ViewModel" rel="tag">ViewModel</a>,<a href="http://technorati.com/tags/WPF" rel="tag">WPF</a>,<a href="http://technorati.com/tags/Silverlight" rel="tag">Silverlight</a>,<a href="http://technorati.com/tags/Model-View-ViewModel" rel="tag">Model-View-ViewModel</a></div>
-

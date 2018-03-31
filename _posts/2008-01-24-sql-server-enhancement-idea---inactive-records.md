@@ -3,10 +3,9 @@ layout: post
 title: "SQL Server Enhancement Idea - Inactive records"
 date: 2008-01-24 08:07:47 -0800
 comments: true
-category: Archive
 tags: []
 redirect_from: ["/archive/2008/01/24/sql-server-enhancement-idea---inactive-records.aspx/"]
-author: 0
+author: "Jeff Handley"
 ---
 <!-- more -->
 <p>About a year ago, I had an idea for a SQL Server enhancement that I never wrote about.  I crafted a few sample queries that would utilize the feature, and I shared them with some colleagues, but I never wrote an article about it.  Needless to say, it's been in the back of my head ever since, as an "unfinished task."</p>
@@ -175,5 +174,3 @@ Of course, it would be even better to be able to just put the 'case' statement i
 <p> </p>
 <p>With referential integrity in place, it's often difficult to delete data.  But with aging systems, users often need to clean up old data, hiding it indefinitely.  We need to be able to hide data without deleting it, so that we can retain historical data and integrity.  As common as this problem is, it seems like there should be a built-in solution.  A solution like what I've illustrated could save many developers a lot of time and potentially prevent a lot of bugs.</p>
 <p>If you like this idea, vote for it on <a target="_blank" href="https://connect.microsoft.com/SQLServer/feedback/ViewFeedback.aspx?FeedbackID=323858">Microsoft Connect</a>.</p>
-<div class="wlWriterSmartContent" id="scid:0767317B-992E-4b12-91E0-4F059A8CECA8:25491c66-04dc-4aff-ab05-4f49377ba75f" style="PADDING-RIGHT: 0px; DISPLAY: inline; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px">Technorati Tags: <a rel="tag" href="http://technorati.com/tags/TSQL">TSQL</a>,<a rel="tag" href="http://technorati.com/tags/SQL%20Server">SQL Server</a>,<a rel="tag" href="http://technorati.com/tags/Referential%20Integrity">Referential Integrity</a>,<a rel="tag" href="http://technorati.com/tags/Data">Data</a>,<a rel="tag" href="http://technorati.com/tags/Archive">Archive</a></div>
-

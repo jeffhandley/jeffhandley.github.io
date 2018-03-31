@@ -3,10 +3,9 @@ layout: post
 title: "Custom Controls Everywhere and ASP.NET MVC, part 2"
 date: 2008-03-09 00:25:33 -0800
 comments: true
-category: Archive
 tags: []
 redirect_from: ["/archive/2008/03/08/custom-controls-everywhere-and-asp.net-mvc-part-2.aspx/"]
-author: 0
+author: "Jeff Handley"
 ---
 <!-- more -->
 <p>This is part 2 of a <a href="http://blog.jeffhandley.com/archive/2008/02/13/custom-controls-everywhere-and-asp.net-mvc-part-0.aspx">4-part series</a> discussing a concept that I've long called "Custom Controls Everywhere" and how ASP.NET MVC affects it.  In <a target="_blank" href="http://blog.jeffhandley.com/archive/2008/02/24/custom-controls-everywhere-and-asp.net-mvc-part-1.aspx">part 1</a>, we went through a discussion of how ASP.NET MVC took away the capability to use Custom Controls Everywhere.  But in this article, we'll demonstrate a way to resurrect the concept within MVC.</p>
@@ -184,5 +183,3 @@ It doesn't matter that the 'type' attribute has already been added, the Attribut
 <h2>Wow, cool.  Now what?</h2>
 <p>There's still a lot to do here.  This series won't go to the extent of building self-validating controls or anything like that though.  The <a href="http://blog.jeffhandley.com/archive/2008/09/20/custom-controls-everywhere-and-asp.net-mvc-part-3.aspx">next article</a> will talk about what I'd like to see from the ASP.NET MVC framework to better enable us to utilize Custom Controls Everywhere.  Please continue to follow the series and show your support of the idea!  Again, I welcome any feedback of any kind!</p>
 <p><em>You can download the full code for this article <a title="Custom Controls in MVC" target="_blank" href="http://jeffhandley.com/Files/CustomControlsInMVC.zip">here</a>.  You can see that the forms with custom controls can successfully be submitted and processed by controllers.</em></p>
-<div class="wlWriterSmartContent" id="scid:0767317B-992E-4b12-91E0-4F059A8CECA8:d9c9de6a-e9c7-41ae-a007-5db3cb0f96c3" style="PADDING-RIGHT: 0px; DISPLAY: inline; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px">Technorati Tags: <a rel="tag" href="http://technorati.com/tags/ASP.NET">ASP.NET</a>,<a rel="tag" href="http://technorati.com/tags/Custom%20Controls%20Everywhere">Custom Controls Everywhere</a>,<a rel="tag" href="http://technorati.com/tags/MVC">MVC</a>,<a rel="tag" href="http://technorati.com/tags/MVP">MVP</a>,<a rel="tag" href="http://technorati.com/tags/Object%20Initializers">Object Initializers</a>,<a rel="tag" href="http://technorati.com/tags/Orcas">Orcas</a></div>
-

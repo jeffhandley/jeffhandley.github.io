@@ -3,10 +3,9 @@ layout: post
 title: "Accept Except, Except - Thumbnail creator fun with Linq"
 date: 2008-08-10 10:05:01 -0700
 comments: true
-category: Archive
-tags: []
+tags: ["Linq", "Family Photos", "TDD"]
 redirect_from: ["/archive/2008/08/10/accept-except-except---thumbnail-creator-fun-with-linq.aspx/"]
-author: 0
+author: "Jeff Handley"
 ---
 <!-- more -->
 <p>It is time to write a new version of my application to pull photos off a memory stick and organize them as I like them to be.  Our current version was a quick hack to get something working when we got our digital camera a couple of years ago.  It was hacked over and over, and it ended up being very tightly bound to a certain use case.  Our use case has now changed since we have a Windows Home Server.  It's time for a more robust solution that will survive future process changes.</p>  <p>I got to the ThumbnailCreator class, and I need to filter the list of files to process in 2 different fashions:</p>  <ol>   <li>Don't create thumbnails of photos that themselves are thumbnails </li>    <li>Optionally don't overwrite existing thumbnails </li> </ol>  <p>I want to respect these 2 rules so that I can point the Thumbnail creator at any folder and tell it to run, and get the results I want.  In the current version of my photo organization process, I have to keep moving the files to new folders to ensure that the sub-processes have clean working surfaces.  But in the new version, I want the sub-processes to adapt to the environment without causing trouble and without having to jump from folder to folder.</p>  <p>I determined I would need a method with the following signature:</p>  <div style="border-right: gray 1px solid; padding-right: 4px; border-top: gray 1px solid; padding-left: 4px; font-size: 8pt; padding-bottom: 4px; margin: 20px 0px 10px; overflow: auto; border-left: gray 1px solid; width: 97.5%; cursor: text; max-height: 600px; line-height: 12pt; padding-top: 4px; border-bottom: gray 1px solid; font-family: consolas, 'Courier New', courier, monospace; background-color: #f4f4f4">   <div style="padding-right: 0px; padding-left: 0px; font-size: 8pt; padding-bottom: 0px; overflow: visible; width: 100%; color: black; border-top-style: none; line-height: 12pt; padding-top: 0px; font-family: consolas, 'Courier New', courier, monospace; border-right-style: none; border-left-style: none; background-color: #f4f4f4; border-bottom-style: none">     <pre style="padding-right: 0px; padding-left: 0px; font-size: 8pt; padding-bottom: 0px; margin: 0em; overflow: visible; width: 100%; color: black; border-top-style: none; line-height: 12pt; padding-top: 0px; font-family: consolas, 'Courier New', courier, monospace; border-right-style: none; border-left-style: none; background-color: white; border-bottom-style: none"><span style="color: #606060">   1:</span> <span style="color: #0000ff">private</span> IEnumerable&lt;FileInfo&gt; GetPhotosToProcess(FileInfo[] photos)</pre>
@@ -129,10 +128,7 @@ author: 0
 <p>Something noteworthy though... The Contains statement executes against the original photos array rather than against photosToProcess, which is already filtered.  When I had photosToProcess.Contains, I got an infinite loop resulting in a stack overflow.</p>
 
 <p>
-  </p><div class="wlWriterSmartContent" id="scid:0767317B-992E-4b12-91E0-4F059A8CECA8:4754a6bc-f0aa-408b-8bdc-0c5741d5c9c4" style="padding-right: 0px; display: inline; padding-left: 0px; padding-bottom: 0px; margin: 0px; padding-top: 0px">Technorati Tags: <a href="http://technorati.com/tags/Linq" rel="tag">Linq</a>,<a href="http://technorati.com/tags/Family%20Photos" rel="tag">Family Photos</a>,<a href="http://technorati.com/tags/TDD" rel="tag">TDD</a></div>
-
-
-<p><strong>  </strong></p>
+  </p><p><strong>  </strong></p>
 
 <p><strong><font color="#d26941"></font></strong></p>
 

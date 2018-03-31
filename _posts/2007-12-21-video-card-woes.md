@@ -3,10 +3,9 @@ layout: post
 title: "Video Card Woes"
 date: 2007-12-21 22:10:00 -0800
 comments: true
-category: Archive
 tags: []
 redirect_from: ["/archive/2007/12/21/video-card-woes.aspx/"]
-author: 0
+author: "Jeff Handley"
 ---
 <!-- more -->
 <p>I sent this message to <a target="_blank" href="http://www.visiontek.com/">VisionTek</a>:</p>
@@ -22,5 +21,3 @@ Date: 11/1/2007 <br />
 <p>Please advise on how to run 2 of these cards. </p>
 <p>Thanks, <br />
 Jeff Handley</p>
-<div class="wlWriterSmartContent" id="scid:0767317B-992E-4b12-91E0-4F059A8CECA8:1f566781-eba6-435c-a545-d93083f05f60" style="PADDING-RIGHT: 0px; DISPLAY: inline; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px">Technorati Tags: <a rel="tag" href="http://technorati.com/tags/Vista">Vista</a>,<a rel="tag" href="http://technorati.com/tags/64-bit">64-bit</a>,<a rel="tag" href="http://technorati.com/tags/Radeon">Radeon</a>,<a rel="tag" href="http://technorati.com/tags/VisionTek">VisionTek</a></div>
-

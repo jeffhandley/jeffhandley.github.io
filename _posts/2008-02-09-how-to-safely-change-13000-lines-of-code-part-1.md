@@ -3,10 +3,9 @@ layout: post
 title: "How to safely change 13,000 lines of code, part 1"
 date: 2008-02-09 12:13:46 -0800
 comments: true
-category: Archive
-tags: []
+tags: ["TDD", "DI", "Nullable Types"]
 redirect_from: ["/archive/2008/02/09/how-to-safely-change-13000-lines-of-code-part-1.aspx/"]
-author: 0
+author: "Jeff Handley"
 ---
 <!-- more -->
 <p>I cranked out a bunch of code tonight for my new nullable types approach.  This is a .NET 1.1 solution, so it's pretty old school, but it was still fun.</p>  <p>I <a href="http://blog.jeffhandley.com/archive/2008/02/05/90-of-this-job-is-figuring-out-what-to-call.aspx" target="_blank">explained the problem</a> with our existing methods the other day.  Basically, we have a ton of helper functions for dealing with nulls and empty strings across all of the data types.  The methods are confusing and we haven't been using them correctly.  We need a more sensible approach.</p>  <p>After chatting with Marco, we came up with something like this:</p>  <div style="border-right: gray 1px solid; padding-right: 4px; border-top: gray 1px solid; padding-left: 4px; font-size: 8pt; padding-bottom: 4px; margin: 20px 0px 10px; overflow: auto; border-left: gray 1px solid; width: 97.5%; cursor: text; max-height: 200px; line-height: 12pt; padding-top: 4px; border-bottom: gray 1px solid; font-family: consolas, 'Courier New', courier, monospace; background-color: #f4f4f4">   <div style="padding-right: 0px; padding-left: 0px; font-size: 8pt; padding-bottom: 0px; overflow: visible; width: 100%; color: black; border-top-style: none; line-height: 12pt; padding-top: 0px; font-family: consolas, 'Courier New', courier, monospace; border-right-style: none; border-left-style: none; background-color: #f4f4f4; border-bottom-style: none">     <pre style="padding-right: 0px; padding-left: 0px; font-size: 8pt; padding-bottom: 0px; margin: 0em; overflow: visible; width: 100%; color: black; border-top-style: none; line-height: 12pt; padding-top: 0px; font-family: consolas, 'Courier New', courier, monospace; border-right-style: none; border-left-style: none; background-color: white; border-bottom-style: none"><span style="color: #606060">   1:</span> NullableGuid.FromDatabase(Value <span style="color: #0000ff">as</span> <span style="color: #0000ff">Object</span>) <span style="color: #0000ff">As</span> Guid</pre>
@@ -61,6 +60,3 @@ author: 0
 <p>I have not yet processed the search and replace.  I would've done it tonight, but some bozo on the project broke the build before he left for the night (he will be flogged on Monday).  So I'll have to wait until next week.  I'm very confident that the search and replace will safely change 13,000 lines of code, and the new nullable type methods will not be susceptible to misuse.</p>
 
 <p>I'll post a follow up next week after I process the search and replace, and I'll include some samples of the code.  Until then, wish me luck!</p>
-
-<div class="wlWriterSmartContent" id="scid:0767317B-992E-4b12-91E0-4F059A8CECA8:de3d6478-43b4-4953-a3be-c3f8b384274f" style="padding-right: 0px; display: inline; padding-left: 0px; padding-bottom: 0px; margin: 0px; padding-top: 0px">Technorati Tags: <a href="http://technorati.com/tags/TDD" rel="tag">TDD</a>,<a href="http://technorati.com/tags/DI" rel="tag">DI</a>,<a href="http://technorati.com/tags/Nullable%20Types" rel="tag">Nullable Types</a></div>
-

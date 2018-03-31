@@ -3,10 +3,9 @@ layout: post
 title: "INotifyPropertyChanged - Extension Methods"
 date: 2008-10-08 04:05:11 -0700
 comments: true
-category: Archive
-tags: []
+tags: ["Silverlight", "WPF", "DataBinding", "INotifyPropertyChanged"]
 redirect_from: ["/archive/2008/10/07/inotifypropertychanged---extension-methods.aspx/"]
-author: 0
+author: "Jeff Handley"
 ---
 <!-- more -->
 <p>One of the approaches I've tried using to combat the PropertyChangedEventHandler <a href="http://blog.jeffhandley.com/archive/2008/10/07/inotifypropertychanged----searching-for-a-better-way.aspx">nuisance</a> is an extension method on INotifyPropertyChanged.  Actually, a pair of them.  One accepts a single property name and the other accepts a param array of property names, so that events can be fired for multiple events succinctly.</p>  <div style="border-right: gray 1px solid; padding-right: 4px; border-top: gray 1px solid; padding-left: 4px; font-size: 8pt; padding-bottom: 4px; margin: 20px 0px 10px; overflow: auto; border-left: gray 1px solid; width: 97.5%; cursor: text; max-height: 200px; line-height: 12pt; padding-top: 4px; border-bottom: gray 1px solid; font-family: consolas, 'Courier New', courier, monospace; background-color: #f4f4f4">   <div style="padding-right: 0px; padding-left: 0px; font-size: 8pt; padding-bottom: 0px; overflow: visible; width: 100%; color: black; border-top-style: none; line-height: 12pt; padding-top: 0px; font-family: consolas, 'Courier New', courier, monospace; border-right-style: none; border-left-style: none; background-color: #f4f4f4; border-bottom-style: none">     <pre style="padding-right: 0px; padding-left: 0px; font-size: 8pt; padding-bottom: 0px; margin: 0em; overflow: visible; width: 100%; color: black; border-top-style: none; line-height: 12pt; padding-top: 0px; font-family: consolas, 'Courier New', courier, monospace; border-right-style: none; border-left-style: none; background-color: white; border-bottom-style: none"><span style="color: #606060">   1:</span> <span style="color: #008000">/// &lt;summary&gt;</span></pre>
@@ -272,6 +271,3 @@ author: 0
   <br />The syntax is more concise, but now we have to pass the object reference in, because there's no way to get the object that owns an event handler (that I can tell).</p>
 
 <p>I don't know which of these two approaches I like better.  They're both an improvement over putting the logic into every property setter though.</p>
-
-<div class="wlWriterSmartContent" id="scid:0767317B-992E-4b12-91E0-4F059A8CECA8:efb36171-1075-4854-b2b8-6fed94dd24a1" style="padding-right: 0px; display: inline; padding-left: 0px; padding-bottom: 0px; margin: 0px; padding-top: 0px">Technorati Tags: <a href="http://technorati.com/tags/Silverlight" rel="tag">Silverlight</a>,<a href="http://technorati.com/tags/WPF" rel="tag">WPF</a>,<a href="http://technorati.com/tags/DataBinding" rel="tag">DataBinding</a>,<a href="http://technorati.com/tags/INotifyPropertyChanged" rel="tag">INotifyPropertyChanged</a></div>
-

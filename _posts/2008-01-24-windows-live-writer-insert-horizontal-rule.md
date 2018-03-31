@@ -3,10 +3,9 @@ layout: post
 title: "Windows Live Writer: Insert Horizontal Rule"
 date: 2008-01-24 04:03:38 -0800
 comments: true
-category: Archive
-tags: []
+tags: ["Windows Live Writer", "Plugin"]
 redirect_from: ["/archive/2008/01/23/windows-live-writer-insert-horizontal-rule.aspx/"]
-author: 0
+author: "Jeff Handley"
 ---
 <!-- more -->
 <p>I've been inserting a few &lt;hr /&gt; tags into posts recently.  In order to do this, I've had to switch to HTML view and move the cursor to the right spot, and type the tag.  Then switch back and reset focus.  Grr!</p>  <p>Well, easily enough, I've created a Windows Live Writer Plug-in to do this.  <a href="http://www.west-wind.com/WebLog/default.aspx" target="_blank">Rick Strahl</a> had the <a href="http://www.west-wind.com/WebLog/posts/30318.aspx" target="_blank">winning post</a> that guided me through it.</p>  <p></p>  <hr />  <p></p>  <div style="border-right: gray 1px solid; padding-right: 4px; border-top: gray 1px solid; padding-left: 4px; font-size: 8pt; padding-bottom: 4px; margin: 20px 0px 10px; overflow: auto; border-left: gray 1px solid; width: 97.5%; cursor: text; max-height: 500px; line-height: 12pt; padding-top: 4px; border-bottom: gray 1px solid; font-family: consolas, 'Courier New', courier, monospace; background-color: #f4f4f4">   <div style="padding-right: 0px; padding-left: 0px; font-size: 8pt; padding-bottom: 0px; overflow: visible; width: 100%; color: black; border-top-style: none; line-height: 12pt; padding-top: 0px; font-family: consolas, 'Courier New', courier, monospace; border-right-style: none; border-left-style: none; background-color: #f4f4f4; border-bottom-style: none">     <pre style="padding-right: 0px; padding-left: 0px; font-size: 8pt; padding-bottom: 0px; margin: 0em; overflow: visible; width: 100%; color: black; border-top-style: none; line-height: 12pt; padding-top: 0px; font-family: consolas, 'Courier New', courier, monospace; border-right-style: none; border-left-style: none; background-color: white; border-bottom-style: none"><span style="color: #606060">   1:</span> <span style="color: #0000ff">using</span> WindowsLive.Writer.Api;</pre>
@@ -54,6 +53,3 @@ author: 0
     <pre style="padding-right: 0px; padding-left: 0px; font-size: 8pt; padding-bottom: 0px; margin: 0em; overflow: visible; width: 100%; color: black; border-top-style: none; line-height: 12pt; padding-top: 0px; font-family: consolas, 'Courier New', courier, monospace; border-right-style: none; border-left-style: none; background-color: #f4f4f4; border-bottom-style: none"><span style="color: #606060">  22:</span> }</pre>
   </div>
 </div>
-
-<div class="wlWriterSmartContent" id="scid:0767317B-992E-4b12-91E0-4F059A8CECA8:e9a3a853-8eb6-401c-86f6-1c9b5f1a6b86" style="padding-right: 0px; display: inline; padding-left: 0px; padding-bottom: 0px; margin: 0px; padding-top: 0px">Technorati Tags: <a href="http://technorati.com/tags/Windows%20Live%20Writer" rel="tag">Windows Live Writer</a>,<a href="http://technorati.com/tags/Plugin" rel="tag">Plugin</a></div>
-

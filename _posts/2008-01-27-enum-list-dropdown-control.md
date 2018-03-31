@@ -3,10 +3,9 @@ layout: post
 title: "Enum List DropDown Control"
 date: 2008-01-27 13:29:15 -0800
 comments: true
-category: Archive
-tags: []
+tags: ["ASP.NET", "Visual Basic", "Enum", "DropDownList"]
 redirect_from: ["/archive/2008/01/27/enum-list-dropdown-control.aspx/"]
-author: 0
+author: "Jeff Handley"
 ---
 <!-- more -->
 <p>I've been wanting to try this concept out for awhile, and I finally had a reasonable opportunity.  The idea was to slap a System.ComponentModel.Description attribute onto each field of an Enum, and then bind a dropdown list directly to the Enum.</p>  <p>I got it working and the code is pretty concise.  Please excuse the fact that I'm working in VB for this one; it's my DotNetNuke project, and I was already working in VB to edit some modules.  The code would be even prettier in C# I imagine.</p>  <p>First, let's decorate an enum. Import System.ComponentModel here.</p>  <div style="border-right: gray 1px solid; padding-right: 4px; border-top: gray 1px solid; padding-left: 4px; font-size: 8pt; padding-bottom: 4px; margin: 20px 0px 10px; overflow: auto; border-left: gray 1px solid; width: 97.5%; cursor: text; max-height: 200px; line-height: 12pt; padding-top: 4px; border-bottom: gray 1px solid; font-family: consolas, 'Courier New', courier, monospace; background-color: #f4f4f4">   <div style="padding-right: 0px; padding-left: 0px; font-size: 8pt; padding-bottom: 0px; overflow: visible; width: 100%; color: black; border-top-style: none; line-height: 12pt; padding-top: 0px; font-family: consolas, 'Courier New', courier, monospace; border-right-style: none; border-left-style: none; background-color: #f4f4f4; border-bottom-style: none">     <pre style="padding-right: 0px; padding-left: 0px; font-size: 8pt; padding-bottom: 0px; margin: 0em; overflow: visible; width: 100%; color: black; border-top-style: none; line-height: 12pt; padding-top: 0px; font-family: consolas, 'Courier New', courier, monospace; border-right-style: none; border-left-style: none; background-color: white; border-bottom-style: none"><span style="color: #606060">   1:</span> <span style="color: #0000ff">Public</span> <span style="color: #0000ff">Enum</span> RegionCode</pre>
@@ -282,6 +281,3 @@ author: 0
 </div>
 
 <p>I suspect that there are going to be some goofy bugs in here if this was hit with some complex scenarios.  But fortunately for me, this project won't have any complex scenarios.</p>
-
-<div class="wlWriterSmartContent" id="scid:0767317B-992E-4b12-91E0-4F059A8CECA8:bb104417-c089-4482-9832-122d846b379a" style="padding-right: 0px; display: inline; padding-left: 0px; padding-bottom: 0px; margin: 0px; padding-top: 0px">Technorati Tags: <a href="http://technorati.com/tags/ASP.NET" rel="tag">ASP.NET</a>,<a href="http://technorati.com/tags/Visual%20Basic" rel="tag">Visual Basic</a>,<a href="http://technorati.com/tags/Enum" rel="tag">Enum</a>,<a href="http://technorati.com/tags/DropDownList" rel="tag">DropDownList</a></div>
-

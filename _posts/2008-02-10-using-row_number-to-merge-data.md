@@ -3,10 +3,9 @@ layout: post
 title: "Using ROW_NUMBER() to merge data"
 date: 2008-02-10 22:22:12 -0800
 comments: true
-category: Archive
-tags: []
+tags: ["SQL Server 2005", "Ranking Functions"]
 redirect_from: ["/archive/2008/02/10/using-row_number-to-merge-data.aspx/"]
-author: 0
+author: "Jeff Handley"
 ---
 <!-- more -->
 <p>I just tackled a problem using SQL's <a href="http://msdn2.microsoft.com/en-us/library/ms189798.aspx" target="_blank">ROW_NUMBER()</a> function, and I'm happy with how it turned out.  It would have been pretty tricky in SQL 2000.</p>  <p>The problem at hand was merging 2 sets of data, copying data from one account into another account, where the records don't already exist.  The data contains a SortOrder field that must be unique within each account.  When I merge data from one account to another, I need to include the SortOrder field, but prevent duplicate values in the new account.</p>  <p>Let's set up a sample of the problem:</p>  <div style="border-right: gray 1px solid; padding-right: 4px; border-top: gray 1px solid; padding-left: 4px; font-size: 8pt; padding-bottom: 4px; margin: 20px 0px 10px; overflow: auto; border-left: gray 1px solid; width: 97.5%; cursor: text; max-height: 200px; line-height: 12pt; padding-top: 4px; border-bottom: gray 1px solid; font-family: consolas, 'Courier New', courier, monospace; background-color: #f4f4f4">   <div style="padding-right: 0px; padding-left: 0px; font-size: 8pt; padding-bottom: 0px; overflow: visible; width: 100%; color: black; border-top-style: none; line-height: 12pt; padding-top: 0px; font-family: consolas, 'Courier New', courier, monospace; border-right-style: none; border-left-style: none; background-color: #f4f4f4; border-bottom-style: none">     <pre style="padding-right: 0px; padding-left: 0px; font-size: 8pt; padding-bottom: 0px; margin: 0em; overflow: visible; width: 100%; color: black; border-top-style: none; line-height: 12pt; padding-top: 0px; font-family: consolas, 'Courier New', courier, monospace; border-right-style: none; border-left-style: none; background-color: white; border-bottom-style: none"><span style="color: #606060">   1:</span> <span style="color: #008000">-- CREATE OUR TABLE</span></pre>
@@ -176,6 +175,3 @@ author: 0
       <td valign="top" width="133">5</td>
     </tr>
   </tbody></table>
-
-<div class="wlWriterSmartContent" id="scid:0767317B-992E-4b12-91E0-4F059A8CECA8:23316a38-31ad-4645-9aee-766d4422406e" style="padding-right: 0px; display: inline; padding-left: 0px; padding-bottom: 0px; margin: 0px; padding-top: 0px">Technorati Tags: <a href="http://technorati.com/tags/SQL%20Server%202005" rel="tag">SQL Server 2005</a>,<a href="http://technorati.com/tags/Ranking%20Functions" rel="tag">Ranking Functions</a></div>
-

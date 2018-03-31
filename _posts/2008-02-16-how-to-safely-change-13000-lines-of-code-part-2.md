@@ -3,10 +3,9 @@ layout: post
 title: "How to safely change 13,000 lines of code, part 2"
 date: 2008-02-16 07:28:12 -0800
 comments: true
-category: Archive
-tags: []
+tags: ["Nullable Types", ".NET 1.1", "ASP.NET", "Custom Controls Everywhere"]
 redirect_from: ["/archive/2008/02/15/how-to-safely-change-13000-lines-of-code-part-2.aspx/"]
-author: 0
+author: "Jeff Handley"
 ---
 <!-- more -->
 <p>Frankly, this isn't going as well as I hoped it would.  I'm pretty happy with the naming convention that I <a href="http://blog.jeffhandley.com/archive/2008/02/09/how-to-safely-change-13000-lines-of-code-part-1.aspx" target="_blank">ended up with</a>, but the search and replace isn't going so well to this point.</p>  <p>I had estimated that 30% of the usage of the previous methods would be incorrect.  But then I stated that was a pessimistic estimate.  I don't have numbers, but so far it feels like we were wrong more often than we were right.  What's <em>kind of</em> reassuring is that in most places where mistakes were made, 2 mistakes were made, and, well, 2 wrongs made a right.  This allowed the application to work, even though the code wasn't what I would have wanted.</p>  <p>Here's what I mean by the 2 wrongs making a right:</p>  <div style="border-right: gray 1px solid; padding-right: 4px; border-top: gray 1px solid; padding-left: 4px; font-size: 8pt; padding-bottom: 4px; margin: 20px 0px 10px; overflow: auto; border-left: gray 1px solid; width: 97.5%; cursor: text; max-height: 200px; line-height: 12pt; padding-top: 4px; border-bottom: gray 1px solid; font-family: consolas, 'Courier New', courier, monospace; background-color: #f4f4f4">   <div style="padding-right: 0px; padding-left: 0px; font-size: 8pt; padding-bottom: 0px; overflow: visible; width: 100%; color: black; border-top-style: none; line-height: 12pt; padding-top: 0px; font-family: consolas, 'Courier New', courier, monospace; border-right-style: none; border-left-style: none; background-color: #f4f4f4; border-bottom-style: none">     <pre style="padding-right: 0px; padding-left: 0px; font-size: 8pt; padding-bottom: 0px; margin: 0em; overflow: visible; width: 100%; color: black; border-top-style: none; line-height: 12pt; padding-top: 0px; font-family: consolas, 'Courier New', courier, monospace; border-right-style: none; border-left-style: none; background-color: white; border-bottom-style: none"><span style="color: #606060">   1:</span> txtSectionNumber.Text = Formatting.IsStringEmptyString(CourseSection(<span style="color: #006080">"SectionNumber"</span>).ToString)</pre>
@@ -103,6 +102,3 @@ author: 0
 </ol>
 
 <p>I have finished implementing the NullableString class throughout the application.  I think I'll do the Guids next because I love Guids, and yesterday was Valentine's Day.</p>
-
-<div class="wlWriterSmartContent" id="scid:0767317B-992E-4b12-91E0-4F059A8CECA8:cc72488c-fa6f-43c3-8690-7a98d1e86e42" style="padding-right: 0px; display: inline; padding-left: 0px; padding-bottom: 0px; margin: 0px; padding-top: 0px">Technorati Tags: <a href="http://technorati.com/tags/Nullable%20Types" rel="tag">Nullable Types</a>,<a href="http://technorati.com/tags/.NET%201.1" rel="tag">.NET 1.1</a>,<a href="http://technorati.com/tags/ASP.NET" rel="tag">ASP.NET</a>,<a href="http://technorati.com/tags/Custom%20Controls%20Everywhere" rel="tag">Custom Controls Everywhere</a></div>
-

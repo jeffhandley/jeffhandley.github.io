@@ -3,10 +3,9 @@ layout: post
 title: "Silverlight 2 Post Beta2 Gotcha - ContentPresenter"
 date: 2008-09-26 06:37:09 -0700
 comments: true
-category: Archive
 tags: []
 redirect_from: ["/archive/2008/09/25/silverlight-2-post-beta2-gotcha---contentpresenter.aspx/"]
-author: 0
+author: "Jeff Handley"
 ---
 <!-- more -->
 <p>As I'm sure you already know, a Release Candidate for Silverlight 2 was <a target="_blank" href="http://weblogs.asp.net/scottgu/archive/2008/09/25/silverlight-2-release-candidate-now-available.aspx">published</a>.  ScottGu does an amazing job of covering a lot of information in his blog posts, and others like <a target="_blank" href="http://silverlight.net/blogs/msnow/archive/2008/09/25/silverlight-version-2-rc0-release.aspx">Mike Snow</a> have also provided some excellent detail.  As they repeatedly told you, go check out the <a target="_blank" href="http://download.microsoft.com/download/6/F/E/6FE1F43D-9D0C-4346-AD08-602DF9BCB3CF/BreakingChangesBetweenBeta2andRelease.doc">breaking changes document</a> that lists all breaking changes from Beta2 to this release candidate.</p>
@@ -40,5 +39,3 @@ author: 0
 <p>Now, go update your application to work against the release candidate!</p>
 <p><strong><em>Update: I posted this information to the <a href="http://silverlight.net/forums/p/30375/97511.aspx#97511">Silverlight Forums</a> as well<br />
 Another Update: <a href="http://silverlight.net/blogs/jesseliberty/archive/2008/09/28/rc0-amp-contentpresenter.aspx">Jesse Liberty posted</a> about this topic to, upon my request for more coverage on the topic</em></strong></p>
-<div class="wlWriterSmartContent" id="scid:0767317B-992E-4b12-91E0-4F059A8CECA8:aaccb9c4-8bd1-4614-b5f6-d96ca6c2ff38" style="PADDING-RIGHT: 0px; DISPLAY: inline; PADDING-LEFT: 0px; FLOAT: none; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px">Technorati Tags: <a rel="tag" href="http://technorati.com/tags/Silverlight">Silverlight</a>,<a rel="tag" href="http://technorati.com/tags/ContentPresenter">ContentPresenter</a>,<a rel="tag" href="http://technorati.com/tags/XAML">XAML</a>,<a rel="tag" href="http://technorati.com/tags/Silverlight%202%20RC0">Silverlight 2 RC0</a></div>
-

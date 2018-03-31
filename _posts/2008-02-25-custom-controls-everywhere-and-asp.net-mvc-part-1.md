@@ -3,10 +3,9 @@ layout: post
 title: "Custom Controls Everywhere and ASP.NET MVC, part 1"
 date: 2008-02-25 02:05:15 -0800
 comments: true
-category: Archive
 tags: []
 redirect_from: ["/archive/2008/02/24/custom-controls-everywhere-and-asp.net-mvc-part-1.aspx/"]
-author: 0
+author: "Jeff Handley"
 ---
 <!-- more -->
 <p>This is part 1 of a <a href="http://blog.jeffhandley.com/archive/2008/02/13/custom-controls-everywhere-and-asp.net-mvc-part-0.aspx">4-part series</a> discussing a concept that I've long called "Custom Controls Everywhere" and how ASP.NET MVC affects it.  This article will explain why I advocate the pattern and how ASP.NET MVC takes the capability away.</p>
@@ -88,5 +87,3 @@ There is a lot of work that has gone into these UI helpers, and they have some g
 <h2>Where does that leave us?</h2>
 <p>When I think of losing my <a href="http://blog.jeffhandley.com/archive/2008/02/12/self-validating-form-controls.aspx">self-validating controls</a>, I am sad.  The loss of Custom Controls Everywhere really makes me feel like ASP.NET MVC is a huge step backward.  I've refused to throw in the towel though; so in the <a href="http://blog.jeffhandley.com/archive/2008/03/08/custom-controls-everywhere-and-asp.net-mvc-part-2.aspx">next article</a> of this series, I'll demonstrate a way to bring Custom Controls Everywhere back to life within MVC.  Then part 3 of the series will discuss how the MVC framework could be changed to promote the concept.  Part 4 will extend on that, showing how validation could be baked in too.</p>
 <p>Please stay tuned and provide any thoughts or feedback that you have.</p>
-<div class="wlWriterSmartContent" id="scid:0767317B-992E-4b12-91E0-4F059A8CECA8:b8f06323-c73c-4bed-b3c7-c84f89d1b11f" style="PADDING-RIGHT: 0px; DISPLAY: inline; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px">Technorati Tags: <a rel="tag" href="http://technorati.com/tags/ASP.NET">ASP.NET</a>,<a rel="tag" href="http://technorati.com/tags/Custom%20Controls%20Everywhere">Custom Controls Everywhere</a>,<a rel="tag" href="http://technorati.com/tags/MVC">MVC</a>,<a rel="tag" href="http://technorati.com/tags/MVP">MVP</a></div>
-

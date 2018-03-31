@@ -3,10 +3,9 @@ layout: post
 title: "Silverlight 2 Gotcha - Tab Navigation in a Popup, Take 2"
 date: 2008-10-09 17:54:18 -0700
 comments: true
-category: Archive
-tags: []
+tags: ["Silverlight", "Silverlight 2 RC0", "XAML"]
 redirect_from: ["/archive/2008/10/09/silverlight-2-gotcha---tab-navigation-in-a-popup-take.aspx/"]
-author: 0
+author: "Jeff Handley"
 ---
 <!-- more -->
 <p>After I <a href="http://blog.jeffhandley.com/archive/2008/10/07/silverlight-2-gotcha---tab-navigation-in-a-popup.aspx" target="_blank">posted</a> about how to regain tab navigation in a popup, <a href="http://blog.jeffhandley.com/archive/2008/10/07/silverlight-2-gotcha---tab-navigation-in-a-popup.aspx#234" target="_blank">Ian commented</a> that the workaround had some flaws.  First, he lost intellisense inside the &lt;UserControl&gt; and second, which is more painful, he could not refer to any controls inside the child &lt;UserControl&gt; from the page's code-behind.</p>  <p>Well, I found a more suitable workaround.  Instead of using a &lt;UserControl&gt; to set the TabNagation, you can use a &lt;ContentControl&gt; instead.  Here's the updated workaround code:</p>  <div style="border-right: gray 1px solid; padding-right: 4px; border-top: gray 1px solid; padding-left: 4px; font-size: 8pt; padding-bottom: 4px; margin: 20px 0px 10px; overflow: auto; border-left: gray 1px solid; width: 97.5%; cursor: text; max-height: 200px; line-height: 12pt; padding-top: 4px; border-bottom: gray 1px solid; font-family: consolas, 'Courier New', courier, monospace; background-color: #f4f4f4">   <div style="padding-right: 0px; padding-left: 0px; font-size: 8pt; padding-bottom: 0px; overflow: visible; width: 100%; color: black; border-top-style: none; line-height: 12pt; padding-top: 0px; font-family: consolas, 'Courier New', courier, monospace; border-right-style: none; border-left-style: none; background-color: #f4f4f4; border-bottom-style: none">     <pre style="padding-right: 0px; padding-left: 0px; font-size: 8pt; padding-bottom: 0px; margin: 0em; overflow: visible; width: 100%; color: black; border-top-style: none; line-height: 12pt; padding-top: 0px; font-family: consolas, 'Courier New', courier, monospace; border-right-style: none; border-left-style: none; background-color: white; border-bottom-style: none"><span style="color: #606060">   1:</span> <span style="color: #0000ff">&lt;</span><span style="color: #800000">UserControl</span> <span style="color: #ff0000">x:Class</span><span style="color: #0000ff">="PopupTabbing.Page"</span></pre>
@@ -53,6 +52,3 @@ author: 0
 
 <p>
   <br />Thanks to Ian for pointing out the problems with the workaround!</p>
-
-<div class="wlWriterSmartContent" id="scid:0767317B-992E-4b12-91E0-4F059A8CECA8:a32981ac-aa55-46a1-a856-ae70d2679d3f" style="padding-right: 0px; display: inline; padding-left: 0px; padding-bottom: 0px; margin: 0px; padding-top: 0px">Technorati Tags: <a href="http://technorati.com/tags/Silverlight" rel="tag">Silverlight</a>,<a href="http://technorati.com/tags/Silverlight%202%20RC0" rel="tag">Silverlight 2 RC0</a>,<a href="http://technorati.com/tags/XAML" rel="tag">XAML</a></div>
-

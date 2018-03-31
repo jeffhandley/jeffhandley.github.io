@@ -3,10 +3,9 @@ layout: post
 title: "Custom Controls Everywhere and ASP.NET MVC, incomplete"
 date: 2008-09-07 08:28:29 -0700
 comments: true
-category: Archive
 tags: []
 redirect_from: ["/archive/2008/09/07/custom-controls-everywhere-and-asp.net-mvc-incomplete.aspx/"]
-author: 0
+author: "Jeff Handley"
 ---
 <!-- more -->
 <p>I appreciate all of the interest in <a target="_blank" href="http://blog.jeffhandley.com/archive/2008/02/13/custom-controls-everywhere-and-asp.net-mvc-part-0.aspx">this article series</a> and I apologize that I've not finished it yet.  I'd like to offer my excuse, although you might not see it as a valid one.  And I'll share my plans for completing the article series.</p>
@@ -16,5 +15,3 @@ author: 0
 <p>Procrastination has snowballed as it always does though.  I've not yet watched the Storefront series, and it's progressed so much now that I don't foresee getting time to get caught up.  I am not evaluating ASP.NET MVC as part of my job anymore either, so that makes it especially difficult to keep up with it--and they've put out a ton of new stuff since I last saw it.</p>
 <p>I don't want to leave you hanging though, so I want to finish the series, but with a huge disclaimer... I'll merely be posting undeveloped thoughts from more than 6 months ago.  I won't have working code and what I talk about might be completely obsolete based on the newer releases of ASP.NET MVC.  But maybe it won't be stale and it will still be helpful, who knows?  So when I do post, I hope that those of you who have kept up with ASP.NET MVC will set the record straight as necessary.</p>
 <p><strong>Update</strong>: See <a href="http://blog.jeffhandley.com/archive/2008/09/20/custom-controls-everywhere-and-asp.net-mvc-part-3.aspx">Part 3</a>.</p>
-<div class="wlWriterSmartContent" id="scid:0767317B-992E-4b12-91E0-4F059A8CECA8:df5996f9-6b3e-49a5-9c75-94c93104bd00" style="PADDING-RIGHT: 0px; DISPLAY: inline; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px">Technorati Tags: <a rel="tag" href="http://technorati.com/tags/ASP.NET">ASP.NET</a>,<a rel="tag" href="http://technorati.com/tags/Custom%20Controls%20Everywhere">Custom Controls Everywhere</a>,<a rel="tag" href="http://technorati.com/tags/MVC">MVC</a></div>
-
