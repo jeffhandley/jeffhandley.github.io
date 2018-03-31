@@ -11,3 +11,14 @@ permalink: /404.html
 
   <img src="{{ site.baseurl }}/img/404-southpark.jpg" />
 </div>
+<script>
+
+    if (location.pathname.indexOf('/tags/') === 0) {
+        var tag = location.pathname.replace(/\/tags\/(.*?)\/default.aspx/, "$1");
+
+        if (tag) {
+            location.replace('/tags#' + tag);
+        }
+    }
+
+</script>
