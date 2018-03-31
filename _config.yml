@@ -26,13 +26,8 @@ navbar-links:
   About Me: "aboutme"
   Tag Index: "tags"
   Resources:
-    - Strickland Validation: "http://strickland.io/"
-    - Øredev 2014:
-      - Evolving the nuget.org Architecture: "https://vimeo.com/111285814"
-      - Transitioning from OData to JSON-LD: "https://vimeo.com/111831403"
-    - Øredev 2015:
-      - Learning Node After a Career on Microsoft: "https://vimeo.com/144799382"
-      - Building Line of Business Apps with Universal React/Node: "https://vimeo.com/144986222"
+    - Strickland: "http://strickland.io/"
+    - Conferences: "conferences"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
