@@ -5,7 +5,7 @@ date: 2011-09-03 22:42:56 -0700
 comments: true
 category: Archive
 tags: []
-redirect_from: ["http://jeffhandley.github.io/archive/2011/09/03/BATDisabled.aspx", "http://jeffhandley.github.io/archive/2011/09/03/batdisabled.aspx"]
+redirect_from: ["/archive/2011/09/03/BATDisabled.aspx", "/archive/2011/09/03/batdisabled.aspx"]
 author: 0
 ---
 <!-- more -->

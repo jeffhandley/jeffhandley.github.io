@@ -5,7 +5,7 @@ date: 2009-09-08 20:41:23 -0700
 comments: true
 category: Archive
 tags: []
-redirect_from: ["http://jeffhandley.github.io/archive/2009/09/08/facebook-calls-anthony-a-redneck.aspx"]
+redirect_from: ["/archive/2009/09/08/facebook-calls-anthony-a-redneck.aspx"]
 author: 0
 ---
 <!-- more -->

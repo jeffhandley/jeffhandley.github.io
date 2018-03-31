@@ -5,7 +5,7 @@ date: 2010-02-25 07:42:43 -0800
 comments: true
 category: Archive
 tags: []
-redirect_from: ["http://jeffhandley.github.io/archive/2010/02/24/validationresultmembernames.aspx"]
+redirect_from: ["/archive/2010/02/24/validationresultmembernames.aspx"]
 author: 0
 ---
 <!-- more -->

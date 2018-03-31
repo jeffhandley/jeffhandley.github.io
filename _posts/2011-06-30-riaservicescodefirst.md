@@ -5,7 +5,7 @@ date: 2011-06-30 08:00:51 -0700
 comments: true
 category: Archive
 tags: []
-redirect_from: ["http://jeffhandley.github.io/archive/2011/06/30/RIAServicesCodeFirst.aspx", "http://jeffhandley.github.io/archive/2011/06/30/riaservicescodefirst.aspx"]
+redirect_from: ["/archive/2011/06/30/RIAServicesCodeFirst.aspx", "/archive/2011/06/30/riaservicescodefirst.aspx"]
 author: 0
 ---
 <!-- more -->

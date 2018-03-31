@@ -5,7 +5,7 @@ date: 2010-11-19 00:54:30 -0800
 comments: true
 category: Archive
 tags: []
-redirect_from: ["http://jeffhandley.github.io/archive/2010/11/18/RiaServicesSP1InstallationNote.aspx", "http://jeffhandley.github.io/archive/2010/11/18/riaservicessp1installationnote.aspx"]
+redirect_from: ["/archive/2010/11/18/RiaServicesSP1InstallationNote.aspx", "/archive/2010/11/18/riaservicessp1installationnote.aspx"]
 author: 0
 ---
 <!-- more -->

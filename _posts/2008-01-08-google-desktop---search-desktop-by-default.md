@@ -5,7 +5,7 @@ date: 2008-01-08 17:47:10 -0800
 comments: true
 category: Archive
 tags: []
-redirect_from: ["http://jeffhandley.github.io/archive/2008/01/08/google-desktop---search-desktop-by-default.aspx"]
+redirect_from: ["/archive/2008/01/08/google-desktop---search-desktop-by-default.aspx"]
 author: 0
 ---
 <!-- more -->

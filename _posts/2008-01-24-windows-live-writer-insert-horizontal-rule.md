@@ -5,7 +5,7 @@ date: 2008-01-24 04:03:38 -0800
 comments: true
 category: Archive
 tags: []
-redirect_from: ["http://jeffhandley.github.io/archive/2008/01/23/windows-live-writer-insert-horizontal-rule.aspx"]
+redirect_from: ["/archive/2008/01/23/windows-live-writer-insert-horizontal-rule.aspx"]
 author: 0
 ---
 <!-- more -->

@@ -5,7 +5,7 @@ date: 2007-12-18 23:51:41 -0800
 comments: true
 category: Archive
 tags: []
-redirect_from: ["http://jeffhandley.github.io/archive/2007/12/18/barracuda-im-client-on-vista.aspx"]
+redirect_from: ["/archive/2007/12/18/barracuda-im-client-on-vista.aspx"]
 author: 0
 ---
 <!-- more -->

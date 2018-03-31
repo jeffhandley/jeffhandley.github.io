@@ -5,7 +5,7 @@ date: 2010-03-13 01:38:39 -0800
 comments: true
 category: Archive
 tags: []
-redirect_from: ["http://jeffhandley.github.io/archive/2010/03/12/lookupdata.aspx"]
+redirect_from: ["/archive/2010/03/12/lookupdata.aspx"]
 author: 0
 ---
 <!-- more -->

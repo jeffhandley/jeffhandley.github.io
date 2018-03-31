@@ -5,7 +5,7 @@ date: 2008-07-15 08:01:48 -0700
 comments: true
 category: Archive
 tags: []
-redirect_from: ["http://jeffhandley.github.io/archive/2008/07/15/rant-bowling-alley-frustration.aspx"]
+redirect_from: ["/archive/2008/07/15/rant-bowling-alley-frustration.aspx"]
 author: 0
 ---
 <!-- more -->

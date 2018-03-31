@@ -5,7 +5,7 @@ date: 2010-10-28 09:44:19 -0700
 comments: true
 category: Archive
 tags: []
-redirect_from: ["http://jeffhandley.github.io/archive/2010/10/28/RiaServicesT4WalkUp.aspx", "http://jeffhandley.github.io/archive/2010/10/28/riaservicest4walkup.aspx"]
+redirect_from: ["/archive/2010/10/28/RiaServicesT4WalkUp.aspx", "/archive/2010/10/28/riaservicest4walkup.aspx"]
 author: 0
 ---
 <!-- more -->

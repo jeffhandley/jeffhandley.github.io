@@ -5,7 +5,7 @@ date: 2010-09-26 06:12:46 -0700
 comments: true
 category: Archive
 tags: []
-redirect_from: ["http://jeffhandley.github.io/archive/2010/09/25/RiaServicesCustomValidationMethods.aspx", "http://jeffhandley.github.io/archive/2010/09/25/riaservicescustomvalidationmethods.aspx"]
+redirect_from: ["/archive/2010/09/25/RiaServicesCustomValidationMethods.aspx", "/archive/2010/09/25/riaservicescustomvalidationmethods.aspx"]
 author: 0
 ---
 <!-- more -->

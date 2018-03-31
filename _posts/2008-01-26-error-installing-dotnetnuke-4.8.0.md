@@ -5,7 +5,7 @@ date: 2008-01-26 07:56:14 -0800
 comments: true
 category: Archive
 tags: []
-redirect_from: ["http://jeffhandley.github.io/archive/2008/01/25/error-installing-dotnetnuke-4.8.0.aspx"]
+redirect_from: ["/archive/2008/01/25/error-installing-dotnetnuke-4.8.0.aspx"]
 author: 0
 ---
 <!-- more -->

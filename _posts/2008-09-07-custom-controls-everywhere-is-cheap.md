@@ -5,7 +5,7 @@ date: 2008-09-07 07:56:40 -0700
 comments: true
 category: Archive
 tags: []
-redirect_from: ["http://jeffhandley.github.io/archive/2008/09/07/custom-controls-everywhere-is-cheap.aspx"]
+redirect_from: ["/archive/2008/09/07/custom-controls-everywhere-is-cheap.aspx"]
 author: 0
 ---
 <!-- more -->

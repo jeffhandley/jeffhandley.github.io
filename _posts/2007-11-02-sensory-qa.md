@@ -5,7 +5,7 @@ date: 2007-11-02 20:06:57 -0700
 comments: true
 category: Archive
 tags: []
-redirect_from: ["http://jeffhandley.github.io/archive/2007/11/02/sensory-qa.aspx"]
+redirect_from: ["/archive/2007/11/02/sensory-qa.aspx"]
 author: 0
 ---
 <!-- more -->

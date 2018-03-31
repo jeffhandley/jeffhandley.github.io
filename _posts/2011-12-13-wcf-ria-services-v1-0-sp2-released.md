@@ -5,7 +5,7 @@ date: 2011-12-13 07:04:51 -0800
 comments: true
 category: Archive
 tags: []
-redirect_from: ["http://jeffhandley.github.io/archive/2011/12/12/WCF-RIA-Services-V1-0-SP2-Released.aspx", "http://jeffhandley.github.io/archive/2011/12/12/wcf-ria-services-v1-0-sp2-released.aspx"]
+redirect_from: ["/archive/2011/12/12/WCF-RIA-Services-V1-0-SP2-Released.aspx", "/archive/2011/12/12/wcf-ria-services-v1-0-sp2-released.aspx"]
 author: 0
 ---
 <!-- more -->

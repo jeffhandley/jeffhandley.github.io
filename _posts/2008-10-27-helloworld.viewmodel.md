@@ -5,7 +5,7 @@ date: 2008-10-27 18:08:35 -0700
 comments: true
 category: Archive
 tags: []
-redirect_from: ["http://jeffhandley.github.io/archive/2008/10/27/helloworld.viewmodel.aspx"]
+redirect_from: ["/archive/2008/10/27/helloworld.viewmodel.aspx"]
 author: 0
 ---
 <!-- more -->

@@ -5,7 +5,7 @@ date: 2008-08-13 14:29:04 -0700
 comments: true
 category: Archive
 tags: []
-redirect_from: ["http://jeffhandley.github.io/archive/2008/08/13/headless-horseplay---mediasmart-home-server-status-indicators-again.aspx"]
+redirect_from: ["/archive/2008/08/13/headless-horseplay---mediasmart-home-server-status-indicators-again.aspx"]
 author: 0
 ---
 <!-- more -->

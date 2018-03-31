@@ -5,7 +5,7 @@ date: 2008-02-11 00:25:58 -0800
 comments: true
 category: Archive
 tags: []
-redirect_from: ["http://jeffhandley.github.io/archive/2008/02/10/how-to-cause-a-vista-bsod-with-vs-2008.aspx"]
+redirect_from: ["/archive/2008/02/10/how-to-cause-a-vista-bsod-with-vs-2008.aspx"]
 author: 0
 ---
 <!-- more -->

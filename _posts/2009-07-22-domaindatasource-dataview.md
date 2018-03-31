@@ -5,7 +5,7 @@ date: 2009-07-22 00:41:35 -0700
 comments: true
 category: Archive
 tags: []
-redirect_from: ["http://jeffhandley.github.io/archive/2009/07/21/domaindatasource-dataview.aspx"]
+redirect_from: ["/archive/2009/07/21/domaindatasource-dataview.aspx"]
 author: 0
 ---
 <!-- more -->

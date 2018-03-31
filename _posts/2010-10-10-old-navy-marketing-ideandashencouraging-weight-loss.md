@@ -5,7 +5,7 @@ date: 2010-10-10 05:22:41 -0700
 comments: true
 category: Archive
 tags: []
-redirect_from: ["http://jeffhandley.github.io/archive/2010/10/09/Old-Navy-Marketing-IdeandashEncouraging-Weight-Loss.aspx", "http://jeffhandley.github.io/archive/2010/10/09/old-navy-marketing-ideandashencouraging-weight-loss.aspx"]
+redirect_from: ["/archive/2010/10/09/Old-Navy-Marketing-IdeandashEncouraging-Weight-Loss.aspx", "/archive/2010/10/09/old-navy-marketing-ideandashencouraging-weight-loss.aspx"]
 author: 0
 ---
 <!-- more -->

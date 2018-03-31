@@ -5,7 +5,7 @@ date: 2007-12-13 06:37:45 -0800
 comments: true
 category: Archive
 tags: []
-redirect_from: ["http://jeffhandley.github.io/archive/2007/12/12/cannot-debug-unit-tests-in-vs-2008.aspx"]
+redirect_from: ["/archive/2007/12/12/cannot-debug-unit-tests-in-vs-2008.aspx"]
 author: 0
 ---
 <!-- more -->

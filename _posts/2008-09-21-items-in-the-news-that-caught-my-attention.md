@@ -5,7 +5,7 @@ date: 2008-09-21 05:11:13 -0700
 comments: true
 category: Archive
 tags: []
-redirect_from: ["http://jeffhandley.github.io/archive/2008/09/20/items-in-the-news-that-caught-my-attention.aspx"]
+redirect_from: ["/archive/2008/09/20/items-in-the-news-that-caught-my-attention.aspx"]
 author: 0
 ---
 <!-- more -->

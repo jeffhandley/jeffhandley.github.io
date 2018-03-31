@@ -5,7 +5,7 @@ date: 2008-01-25 21:58:16 -0800
 comments: true
 category: Archive
 tags: []
-redirect_from: ["http://jeffhandley.github.io/archive/2008/01/25/how-subversion-just-saved-me-a-days-work.aspx"]
+redirect_from: ["/archive/2008/01/25/how-subversion-just-saved-me-a-days-work.aspx"]
 author: 0
 ---
 <!-- more -->

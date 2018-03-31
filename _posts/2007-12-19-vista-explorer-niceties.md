@@ -5,7 +5,7 @@ date: 2007-12-19 09:32:59 -0800
 comments: true
 category: Archive
 tags: []
-redirect_from: ["http://jeffhandley.github.io/archive/2007/12/19/vista-explorer-niceties.aspx"]
+redirect_from: ["/archive/2007/12/19/vista-explorer-niceties.aspx"]
 author: 0
 ---
 <!-- more -->

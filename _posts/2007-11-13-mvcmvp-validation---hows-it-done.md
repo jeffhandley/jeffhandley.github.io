@@ -5,7 +5,7 @@ date: 2007-11-13 20:25:11 -0800
 comments: true
 category: Archive
 tags: []
-redirect_from: ["http://jeffhandley.github.io/archive/2007/11/13/mvcmvp-validation---hows-it-done.aspx"]
+redirect_from: ["/archive/2007/11/13/mvcmvp-validation---hows-it-done.aspx"]
 author: 0
 ---
 <!-- more -->

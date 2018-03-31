@@ -5,7 +5,7 @@ date: 2008-12-10 07:19:34 -0800
 comments: true
 category: Archive
 tags: []
-redirect_from: ["http://jeffhandley.github.io/archive/2008/12/09/consenting-adults-and-public-displays-of-affection.aspx"]
+redirect_from: ["/archive/2008/12/09/consenting-adults-and-public-displays-of-affection.aspx"]
 author: 0
 ---
 <!-- more -->

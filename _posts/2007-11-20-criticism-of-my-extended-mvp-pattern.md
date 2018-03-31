@@ -5,7 +5,7 @@ date: 2007-11-20 01:50:13 -0800
 comments: true
 category: Archive
 tags: []
-redirect_from: ["http://jeffhandley.github.io/archive/2007/11/19/criticism-of-my-extended-mvp-pattern.aspx"]
+redirect_from: ["/archive/2007/11/19/criticism-of-my-extended-mvp-pattern.aspx"]
 author: 0
 ---
 <!-- more -->

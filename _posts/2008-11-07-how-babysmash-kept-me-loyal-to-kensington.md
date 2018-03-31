@@ -5,7 +5,7 @@ date: 2008-11-07 01:46:14 -0800
 comments: true
 category: Archive
 tags: []
-redirect_from: ["http://jeffhandley.github.io/archive/2008/11/06/how-babysmash-kept-me-loyal-to-kensington.aspx"]
+redirect_from: ["/archive/2008/11/06/how-babysmash-kept-me-loyal-to-kensington.aspx"]
 author: 0
 ---
 <!-- more -->
