@@ -178,7 +178,7 @@ date: #{timestamp.strftime("%Y-%m-%d %H:%M:%S %z")}
 comments: true
 category: Archive
 tags: #{tags}
-redirect_from: #{old_url}.aspx
+redirect_from: #{old_url}
 author: #{author}
 ---
             HEADER
