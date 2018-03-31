@@ -5,7 +5,7 @@ date: 2012-12-13 18:42:03 -0800
 comments: true
 category: Archive
 tags: []
-redirect_from: ["http://jeffhandley.com/archive/2012/12/13/Bulk-Publishing-NuGet-Packages.aspx", "http://jeffhandley.com/archive/2012/12/13/bulk-publishing-nuget-packages.aspx"]
+redirect_from: ["http://jeffhandley.github.io/archive/2012/12/13/Bulk-Publishing-NuGet-Packages.aspx", "http://jeffhandley.github.io/archive/2012/12/13/bulk-publishing-nuget-packages.aspx"]
 author: 0
 ---
 <!-- more -->

@@ -5,7 +5,7 @@ date: 2008-07-16 23:53:00 -0700
 comments: true
 category: Archive
 tags: []
-redirect_from: ["http://jeffhandley.com/archive/2008/07/16/virtual-pc-ndash-drag-and-drop-feature.aspx"]
+redirect_from: ["http://jeffhandley.github.io/archive/2008/07/16/virtual-pc-ndash-drag-and-drop-feature.aspx"]
 author: 0
 ---
 <!-- more -->

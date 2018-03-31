@@ -5,7 +5,7 @@ date: 2008-01-24 06:42:54 -0800
 comments: true
 category: Archive
 tags: []
-redirect_from: ["http://jeffhandley.com/archive/2008/01/23/extended-mvp-pattern---article-recap.aspx"]
+redirect_from: ["http://jeffhandley.github.io/archive/2008/01/23/extended-mvp-pattern---article-recap.aspx"]
 author: 0
 ---
 <!-- more -->

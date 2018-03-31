@@ -5,7 +5,7 @@ date: 2008-02-07 20:04:38 -0800
 comments: true
 category: Archive
 tags: []
-redirect_from: ["http://jeffhandley.com/archive/2008/02/07/video-card-woes---finally-over.aspx"]
+redirect_from: ["http://jeffhandley.github.io/archive/2008/02/07/video-card-woes---finally-over.aspx"]
 author: 0
 ---
 <!-- more -->

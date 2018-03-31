@@ -5,7 +5,7 @@ date: 2010-06-22 08:40:02 -0700
 comments: true
 category: Archive
 tags: []
-redirect_from: ["http://jeffhandley.com/archive/2010/06/22/DomainDataSource-ComboBox.aspx", "http://jeffhandley.com/archive/2010/06/22/domaindatasource-combobox.aspx"]
+redirect_from: ["http://jeffhandley.github.io/archive/2010/06/22/DomainDataSource-ComboBox.aspx", "http://jeffhandley.github.io/archive/2010/06/22/domaindatasource-combobox.aspx"]
 author: 0
 ---
 <!-- more -->

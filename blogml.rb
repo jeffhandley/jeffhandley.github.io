@@ -136,7 +136,7 @@ module Jekyll
           # old_url = name
           # htaccess.puts "RewriteRule ^#{name}$ "
           # for GitHub pages, we need to setup an alias
-          old_url = [ item.attributes["post-url"] ]
+          old_url = [ item.attributes["post-url"].gsub!(/jeffhandley\.com/,"jeffhandley.github.io") ]
           if item.attributes["post-url"] != item.attributes["post-url"].downcase
             old_url.push(item.attributes["post-url"].downcase)
           end

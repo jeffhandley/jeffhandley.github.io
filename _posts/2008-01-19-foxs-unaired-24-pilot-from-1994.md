@@ -5,7 +5,7 @@ date: 2008-01-19 09:03:59 -0800
 comments: true
 category: Archive
 tags: []
-redirect_from: ["http://jeffhandley.com/archive/2008/01/19/foxs-unaired-24-pilot-from-1994.aspx"]
+redirect_from: ["http://jeffhandley.github.io/archive/2008/01/19/foxs-unaired-24-pilot-from-1994.aspx"]
 author: 0
 ---
 <!-- more -->

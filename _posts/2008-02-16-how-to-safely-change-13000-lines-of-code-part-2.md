@@ -5,7 +5,7 @@ date: 2008-02-16 07:28:12 -0800
 comments: true
 category: Archive
 tags: []
-redirect_from: ["http://jeffhandley.com/archive/2008/02/15/how-to-safely-change-13000-lines-of-code-part-2.aspx"]
+redirect_from: ["http://jeffhandley.github.io/archive/2008/02/15/how-to-safely-change-13000-lines-of-code-part-2.aspx"]
 author: 0
 ---
 <!-- more -->

@@ -5,7 +5,7 @@ date: 2016-05-02 06:02:03 -0700
 comments: true
 category: Archive
 tags: []
-redirect_from: ["http://jeffhandley.com/archive/2016/05/01/why-do-i-hate-this-code.aspx"]
+redirect_from: ["http://jeffhandley.github.io/archive/2016/05/01/why-do-i-hate-this-code.aspx"]
 author: 0
 ---
 <!-- more -->

@@ -5,7 +5,7 @@ date: 2010-03-15 20:20:20 -0700
 comments: true
 category: Archive
 tags: []
-redirect_from: ["http://jeffhandley.com/archive/2010/03/15/contososales-mix10.aspx"]
+redirect_from: ["http://jeffhandley.github.io/archive/2010/03/15/contososales-mix10.aspx"]
 author: 0
 ---
 <!-- more -->

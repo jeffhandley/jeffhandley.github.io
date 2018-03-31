@@ -5,7 +5,7 @@ date: 2007-12-19 07:46:04 -0800
 comments: true
 category: Archive
 tags: []
-redirect_from: ["http://jeffhandley.com/archive/2007/12/18/kensington-expert-mouse-on-vista.aspx"]
+redirect_from: ["http://jeffhandley.github.io/archive/2007/12/18/kensington-expert-mouse-on-vista.aspx"]
 author: 0
 ---
 <!-- more -->

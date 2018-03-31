@@ -5,7 +5,7 @@ date: 2010-10-25 07:49:27 -0700
 comments: true
 category: Archive
 tags: []
-redirect_from: ["http://jeffhandley.com/archive/2010/10/25/RiaServicesValidationContext.aspx", "http://jeffhandley.com/archive/2010/10/25/riaservicesvalidationcontext.aspx"]
+redirect_from: ["http://jeffhandley.github.io/archive/2010/10/25/RiaServicesValidationContext.aspx", "http://jeffhandley.github.io/archive/2010/10/25/riaservicesvalidationcontext.aspx"]
 author: 0
 ---
 <!-- more -->

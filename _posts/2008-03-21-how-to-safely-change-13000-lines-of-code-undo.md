@@ -5,7 +5,7 @@ date: 2008-03-21 05:24:55 -0700
 comments: true
 category: Archive
 tags: []
-redirect_from: ["http://jeffhandley.com/archive/2008/03/20/how-to-safely-change-13000-lines-of-code-undo.aspx"]
+redirect_from: ["http://jeffhandley.github.io/archive/2008/03/20/how-to-safely-change-13000-lines-of-code-undo.aspx"]
 author: 0
 ---
 <!-- more -->

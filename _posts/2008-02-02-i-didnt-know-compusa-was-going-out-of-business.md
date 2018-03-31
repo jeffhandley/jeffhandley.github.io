@@ -5,7 +5,7 @@ date: 2008-02-02 11:03:17 -0800
 comments: true
 category: Archive
 tags: []
-redirect_from: ["http://jeffhandley.com/archive/2008/02/02/i-didnt-know-compusa-was-going-out-of-business.aspx"]
+redirect_from: ["http://jeffhandley.github.io/archive/2008/02/02/i-didnt-know-compusa-was-going-out-of-business.aspx"]
 author: 0
 ---
 <!-- more -->

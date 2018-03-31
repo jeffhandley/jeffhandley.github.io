@@ -5,7 +5,7 @@ date: 2010-05-24 22:39:41 -0700
 comments: true
 category: Archive
 tags: []
-redirect_from: ["http://jeffhandley.com/archive/2010/05/24/riaservicesv1andbeyond.aspx"]
+redirect_from: ["http://jeffhandley.github.io/archive/2010/05/24/riaservicesv1andbeyond.aspx"]
 author: 0
 ---
 <!-- more -->

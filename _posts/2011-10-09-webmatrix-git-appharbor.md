@@ -5,7 +5,7 @@ date: 2011-10-09 06:25:28 -0700
 comments: true
 category: Archive
 tags: []
-redirect_from: ["http://jeffhandley.com/archive/2011/10/08/WebMatrix-Git-AppHarbor.aspx", "http://jeffhandley.com/archive/2011/10/08/webmatrix-git-appharbor.aspx"]
+redirect_from: ["http://jeffhandley.github.io/archive/2011/10/08/WebMatrix-Git-AppHarbor.aspx", "http://jeffhandley.github.io/archive/2011/10/08/webmatrix-git-appharbor.aspx"]
 author: 0
 ---
 <!-- more -->

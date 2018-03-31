@@ -5,7 +5,7 @@ date: 2009-11-18 09:42:12 -0800
 comments: true
 category: Archive
 tags: []
-redirect_from: ["http://jeffhandley.com/archive/2009/11/18/contososales.aspx"]
+redirect_from: ["http://jeffhandley.github.io/archive/2009/11/18/contososales.aspx"]
 author: 0
 ---
 <!-- more -->

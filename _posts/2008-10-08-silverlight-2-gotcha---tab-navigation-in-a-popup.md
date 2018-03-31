@@ -5,7 +5,7 @@ date: 2008-10-08 03:44:44 -0700
 comments: true
 category: Archive
 tags: []
-redirect_from: ["http://jeffhandley.com/archive/2008/10/07/silverlight-2-gotcha---tab-navigation-in-a-popup.aspx"]
+redirect_from: ["http://jeffhandley.github.io/archive/2008/10/07/silverlight-2-gotcha---tab-navigation-in-a-popup.aspx"]
 author: 0
 ---
 <!-- more -->

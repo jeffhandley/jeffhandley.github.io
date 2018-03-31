@@ -5,7 +5,7 @@ date: 2008-09-26 16:46:43 -0700
 comments: true
 category: Archive
 tags: []
-redirect_from: ["http://jeffhandley.com/archive/2008/09/26/silverlight-2-post-beta2-gotcha---layout-cycle-detected.aspx"]
+redirect_from: ["http://jeffhandley.github.io/archive/2008/09/26/silverlight-2-post-beta2-gotcha---layout-cycle-detected.aspx"]
 author: 0
 ---
 <!-- more -->

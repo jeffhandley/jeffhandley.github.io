@@ -5,7 +5,7 @@ date: 2008-01-30 23:12:56 -0800
 comments: true
 category: Archive
 tags: []
-redirect_from: ["http://jeffhandley.com/archive/2008/01/30/wow-dell-is-fast.aspx"]
+redirect_from: ["http://jeffhandley.github.io/archive/2008/01/30/wow-dell-is-fast.aspx"]
 author: 0
 ---
 <!-- more -->

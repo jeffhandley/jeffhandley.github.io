@@ -5,7 +5,7 @@ date: 2015-05-20 17:23:01 -0700
 comments: true
 category: Archive
 tags: []
-redirect_from: ["http://jeffhandley.com/archive/2015/05/20/quickreactions.aspx"]
+redirect_from: ["http://jeffhandley.github.io/archive/2015/05/20/quickreactions.aspx"]
 author: 0
 ---
 <!-- more -->
