@@ -1,0 +1,12 @@
+---
+layout: post
+title: ".NET Remoting Configuration File"
+date: '2006-08-23T10:58:00.000-07:00'
+author: Jeff Handley
+tags: 
+modified_time: '2006-08-23T10:58:04.330-07:00'
+blogger_id: tag:blogger.com,1999:blog-10056400.post-115635588386710570
+blogger_orig_url: http://jeffhandley.blogspot.com/2006/08/net-remoting-configuration-file.html
+---
+
+<p>I've arrived at having a .NET Remoting server and having my Proxy layer call into the server to talk to the back-end system.&nbsp; I like defining the .NET Remoting configuration in a config file for both the server and the client -- this is working quite well.</p> <p>This leaves my Proxy with very simple code like the following:</p><!-- code formatted by http://manoli.net/csharpformat/ --><pre class="csharpcode"><span class="kwrd">public</span> <span class="kwrd">class</span> MyProxy<br />{<br /><span class="kwrd">  public</span> <span class="kwrd">static</span> MyEntity GetByID(Guid ID)<br />  {<br />    RemotingConfiguration.Configure(<span class="str">"Proxy.config"</span>, <span class="kwrd">false</span>);<br />    MyManager manager = <span class="kwrd">new</span> MyManager();<br /><br />    <span class="kwrd">return</span> manager.GetByID(ID);<br />  }<br />}<br /></pre><br /><p>However, what I don't like is that I need to be able to read in the Proxy.config file from the executing assembly's folder, which means the Proxy.config file has to be part of the executing assembly's project.&nbsp; I want my Proxy layer to have its own app.config file that gets built as Proxy.dll.config and then injected into the bin folder for any assembly that references the Proxy.</p><br /><p>Anyone been able to pull this off?</p>

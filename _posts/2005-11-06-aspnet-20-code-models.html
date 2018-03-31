@@ -1,0 +1,12 @@
+---
+layout: post
+title: ASP.NET 2.0 Code Models
+date: '2005-11-06T16:39:00.000-08:00'
+author: Jeff Handley
+tags: 
+modified_time: '2005-11-06T16:58:18.613-08:00'
+blogger_id: tag:blogger.com,1999:blog-10056400.post-113132509860151506
+blogger_orig_url: http://jeffhandley.blogspot.com/2005/11/aspnet-20-code-models.html
+---
+
+I was reading <a href="http://www.dotavery.com/blog" target="Avery">James Avery's blog</a> entry about <a href="http://dotavery.com/blog/archive/2005/11/06/5890.aspx" target="Avery">ASP.NET 2.0 Url Rewriting crippled to the point of uselessness</a>.  This gave me a kick in the ass to blog about my frustrations with ASP.NET 2.0.<br /><br />Is it just me, or is ASP.NET 2.0 completely incompatible with the code-behind model in ASP.NET 1.x?  From what I've been able to tell, if you want to convert an ASP.NET 1.x NET application that uses code-behind, you have to refactor all of the pages to use code-beside before it will run.<br /><br />I remember reading during pre-Beta days for ASP.NET 2.0 that the following 3 models would be supported in 2.0:<br /><br />1. Code-Inside (&lt;script runat="server"&gt; within your ASPX)<br /><br />2. Code-Behind (ASPX inherits from code-behind as it does in 1.x)<br /><br />3. Code-Beside (ASPX and code-beside utilize partial classes to act as the same class, inherting from System.Web.UI.Page)<br /><br />From what I can tell, code-behind is completely gone now. Can someone prove me wrong?

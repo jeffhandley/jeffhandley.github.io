@@ -1,0 +1,12 @@
+---
+layout: post
+title: aspnet_state.exe crash during shutdown
+date: '2006-02-22T21:34:00.000-08:00'
+author: Jeff Handley
+tags: 
+modified_time: '2006-03-09T12:59:32.716-08:00'
+blogger_id: tag:blogger.com,1999:blog-10056400.post-114067317213100275
+blogger_orig_url: http://jeffhandley.blogspot.com/2006/02/aspnetstateexe-crash-during-shutdown.html
+---
+
+Look at me posting something about ASP.NET on my blog!  Been awhile.<br /><br />So I have installed VS Team System for Software Developers on my TabletPC and my office workstation.  Both machines also run VS.NET 2003 for Enterprise Architects.  On both machines, every time a restart or shut down (Windows XP TabletPC Edition/Windows XP Pro), I get an error that memory could not be read for aspnet_state.exe.<br /><br />I've googled around and found no solutions, but others are experiencing this.  Some co-workers experience it occasionally.<br /><br />The only "fix" I have come up with is to hack the registry settings for the ASP.NET State Service and point it to the .NET Version 1.1 instance.  With that in place, the errors go away.<br /><br />Anyone else seen this and have any solutions?  I know that the error doesn't really matter -- it doesn't even get logged -- but it just bothers me.  On a clean build, I shouldn't get errors -- that's like having the check engine light on in a new car and just ignoring it.<br /><br /><br /><b><u>UPDATE:</u></b><br />Here's what I hacked in the registry to get this error to go away.  Insert legal crap that prevents me from being responsible if you crash your system by messing up your registry... no warranties here whatsoever... yada yada yada...<br /><br /><br />HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Services\aspnet_state\DisplayName<br />- Change to "ASP.NET State Service (1.1)"<br />- This is just for my sanity<br /><br />HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Services\aspnet_state\ImagePath<br />- Change to "%SystemRoot%\Microsoft.NET\Framework\v1.1.4322\aspnet_state.exe"<br />- This points the service to the .NET 1.1 version of the state service

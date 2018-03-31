@@ -1,0 +1,12 @@
+---
+layout: post
+title: WCF Troubles
+date: '2006-08-21T15:12:00.000-07:00'
+author: Jeff Handley
+tags: 
+modified_time: '2006-08-21T15:16:19.633-07:00'
+blogger_id: tag:blogger.com,1999:blog-10056400.post-115619832444825929
+blogger_orig_url: http://jeffhandley.blogspot.com/2006/08/wcf-troubles.html
+---
+
+<p>I started playing with Windows Communication Foundation (WCF) today. I hit some pretty immediate problems that I'm still trying to work through.</p><p>I thought a good first step would be to try out a Microsoft Virtual Lab for WCF. There's one called <a href="http://msdn.microsoft.com/virtuallabs/wcf/default.aspx" target="_blank">The Fundamentals of Programming the Windows Communication Foundation</a> that sounded just right. I went through and got to where you're supposed to have a host (console) application running that makes the service available. However, when I try to run the app, I get the following error:</p><blockquote><p>Service 'DerivativesCalculatorService.DerivativesCalculatorServiceType' has zero application (non-infrastructure) endpoints. This might be because no configuration file was found for your application, or because no service element matching the service name could be found in the configuration file, or because no endpoints were defined in the service element.</p></blockquote><p>There was some inconsistency in the lab manual on what namespace should be used for the projects, but I checked to make sure I had all of that lined up correctly and I did. I then tried to repeat the lab on my own machine and ended up arriving at the same problem.</p><p>I programmatically added the endpoint and removed the endpoint declaration from the app.config file, and now I get the following error:</p><blockquote><p>The ChannelDispatcher at '<a href="http://localhost:8000/Derivatives/Calculate">http://localhost:8000/Derivatives/Calculate</a> with contract(s) '"IDerivativesCalculator"' is unable to open its IChannelListener.</p></blockquote><p>The lab was created against Beta 2, at which time WCF was going to be part of .NET 2.0/WinFx, and now WCF is part of .NET 3.0. But I couldn't even get the lab to run in the virtual lab, so I'm either doing something wrong or the lab is just wrong.</p><p>Anyone have a better quickstart that they can recommend?</p><p><hr /><br /><p>Update: The ChannelDispatcher error I got went away when I ran the host as an Admin.  <a href="http://blogs.msdn.com/aaron_margosis/archive/2004/07/24/193721.aspx" target="_blank">MakeMeAdmin </a>to the rescue.</p>
