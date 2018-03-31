@@ -1,5 +1,6 @@
 ---
 layout: page
+title: About Me
 ---
 
 My name is Jeff Handley. I've been creating web applications for over 20 years. I grew up on the Microsoft stack but now I focus on Node, React, Redux, and GraphQL. I have passion for implementing large web applications that provide end-user productivity and delight.
