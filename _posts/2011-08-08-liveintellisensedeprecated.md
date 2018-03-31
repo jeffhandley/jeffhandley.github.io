@@ -12,14 +12,14 @@ author: "Jeff Handley"
 <h3>What is Live IntelliSense?</h3>
 <p>The easiest way to define the feature is by giving an example of how it applies.  Imagine the following steps are followed when using RIA Services:</p>
 <ol>
-    <li>Add a new DomainService class - call it CustomerService </li>
-    <li>Within CustomerService, add a method: public IQueryable&lt;Customer&gt; GetCustomers() { … } </li>
-    <li><em>Without building</em>, open up a file within your Silverlight project and either A) start typing code, or B) open the Data Sources window </li>
-    <li>You will find that CustomerContext is available, with a GetCustomersQuery method available <em>(Live IntelliSense did this for you)</em> </li>
-    <li>Use GetCustomersQuery and then build </li>
-    <li>Go back into CustomerService and rename GetCustomers to GetActiveCustomers </li>
-    <li><em>Without building</em>, go back into your Silverlight project and you should see a build error stating that GetCustomersQuery cannot be found <em>(Live IntelliSense did this for you)</em> </li>
-    <li>Change the code to reference GetActiveCustomersQuery, and continue working </li>
+  <li>Add a new DomainService class - call it CustomerService </li>
+  <li>Within CustomerService, add a method: public IQueryable&lt;Customer&gt; GetCustomers() { … } </li>
+  <li><em>Without building</em>, open up a file within your Silverlight project and either A) start typing code, or B) open the Data Sources window </li>
+  <li>You will find that CustomerContext is available, with a GetCustomersQuery method available <em>(Live IntelliSense did this for you)</em> </li>
+  <li>Use GetCustomersQuery and then build </li>
+  <li>Go back into CustomerService and rename GetCustomers to GetActiveCustomers </li>
+  <li><em>Without building</em>, go back into your Silverlight project and you should see a build error stating that GetCustomersQuery cannot be found <em>(Live IntelliSense did this for you)</em> </li>
+  <li>Change the code to reference GetActiveCustomersQuery, and continue working </li>
 </ol>
 <h3>Why is it being deprecated?</h3>
 <p>The primary reason for deprecating this feature is performance within Visual Studio.  RIA Services Live IntelliSense would kick in any time you changed context from your Web project to a Silverlight project.  With a RIA Services link between those two projects, a background compilation would kick off to update IntelliSense to match what your Web project’s Domain Services exposed.  When working in a large solution, this background compilation could take seconds and slow you down.</p>

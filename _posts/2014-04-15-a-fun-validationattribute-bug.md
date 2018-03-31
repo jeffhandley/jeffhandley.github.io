@@ -29,7 +29,7 @@ I tweeted about a bug that I recently helped fix in System.ComponentModel.DataAn
 .csharpcode .asp { background-color: #ffff00; }
 .csharpcode .html { color: #800000; }
 .csharpcode .attr { color: #ff0000; }
-.csharpcode .alt 
+.csharpcode .alt
 {
 	background-color: #f4f4f4;
 	width: 100%;
@@ -57,7 +57,7 @@ I tweeted about a bug that I recently helped fix in System.ComponentModel.DataAn
 .csharpcode .asp { background-color: #ffff00; }
 .csharpcode .html { color: #800000; }
 .csharpcode .attr { color: #ff0000; }
-.csharpcode .alt 
+.csharpcode .alt
 {
 	background-color: #f4f4f4;
 	width: 100%;
@@ -68,18 +68,18 @@ I tweeted about a bug that I recently helped fix in System.ComponentModel.DataAn
 
 <p>Of course we couldn’t add a new abstract method to a class, as that would break existing implementations.  So instead, we looked into adding the following:</p><pre class="csharpcode"><span class="kwrd">public</span> <span class="kwrd">virtual</span> ValidationResult IsValid(<span class="kwrd">object</span> <span class="kwrd">value</span>, ValidationContext validationContext) {
     ValidationResult result = ValidationResult.Success;
-    
-    <span class="kwrd">if</span> (!<span class="kwrd">this</span>.IsValid(<span class="kwrd">value</span>)) {
-        <span class="kwrd">string</span>[] memberNames = validationContext.MemberName != <span class="kwrd">null</span> ? <span class="kwrd">new</span> <span class="kwrd">string</span>[] {
+
+  <span class="kwrd">if</span> (!<span class="kwrd">this</span>.IsValid(<span class="kwrd">value</span>)) {
+  <span class="kwrd">string</span>[] memberNames = validationContext.MemberName != <span class="kwrd">null</span> ? <span class="kwrd">new</span> <span class="kwrd">string</span>[] {
             validationContext.MemberName
         } : <span class="kwrd">null</span>;
-        
+
         result = <span class="kwrd">new</span> ValidationResult(
-            <span class="kwrd">this</span>.FormatErrorMessage(validationContext.DisplayName),
+  <span class="kwrd">this</span>.FormatErrorMessage(validationContext.DisplayName),
             memberNames);
     }
 
-     <span class="kwrd">return</span> result;
+   <span class="kwrd">return</span> result;
 }</pre>
 <style type="text/css"><![CDATA[csharpcode, .csharpcode pre
 {
@@ -98,7 +98,7 @@ I tweeted about a bug that I recently helped fix in System.ComponentModel.DataAn
 .csharpcode .asp { background-color: #ffff00; }
 .csharpcode .html { color: #800000; }
 .csharpcode .attr { color: #ff0000; }
-.csharpcode .alt 
+.csharpcode .alt
 {
 	background-color: #f4f4f4;
 	width: 100%;
@@ -109,8 +109,8 @@ I tweeted about a bug that I recently helped fix in System.ComponentModel.DataAn
 
 <p> </p>
 <p>This introduced a new problem: new attributes that want to use the ValidationContext must now override both overloads of IsValid, and that would be rather confusing.  We wanted new attributes to only have to override the ValidationContext-based IsValid overload and add documentation that the old boolean-based IsValid method should not be overridden—changing it from abstract to virtual.  We’d change that method to the following:</p><pre class="csharpcode"><span class="kwrd">public</span> <span class="kwrd">virtual</span> <span class="kwrd">bool</span> IsValid(<span class="kwrd">object</span> <span class="kwrd">value</span>) {
-    <span class="rem">// Call the ValidationContext-based method and if it's successful, return true</span>
-    <span class="kwrd">return</span> <span class="kwrd">this</span>.IsValid(<span class="kwrd">value</span>, validationContext: <span class="kwrd">null</span>) == ValidationResult.Success;
+  <span class="rem">// Call the ValidationContext-based method and if it's successful, return true</span>
+  <span class="kwrd">return</span> <span class="kwrd">this</span>.IsValid(<span class="kwrd">value</span>, validationContext: <span class="kwrd">null</span>) == ValidationResult.Success;
 }</pre>
 <style type="text/css"><![CDATA[csharpcode, .csharpcode pre
 {
@@ -129,7 +129,7 @@ I tweeted about a bug that I recently helped fix in System.ComponentModel.DataAn
 .csharpcode .asp { background-color: #ffff00; }
 .csharpcode .html { color: #800000; }
 .csharpcode .attr { color: #ff0000; }
-.csharpcode .alt 
+.csharpcode .alt
 {
 	background-color: #f4f4f4;
 	width: 100%;
@@ -173,16 +173,16 @@ I tweeted about a bug that I recently helped fix in System.ComponentModel.DataAn
 <span class="kwrd">internal</span>
 <span class="preproc">#endif</span>
 <span class="kwrd">virtual</span> <span class="kwrd">bool</span> IsValid(<span class="kwrd">object</span> <span class="kwrd">value</span>) {
-    <span class="kwrd">lock</span> (<span class="kwrd">this</span>._syncLock) {
-        <span class="kwrd">if</span> (<span class="kwrd">this</span>._isCallingOverload) {
-            <span class="kwrd">throw</span> <span class="kwrd">new</span> NotImplementedException(DataAnnotationsResources.ValidationAttribute_IsValid_NotImplemented);
+  <span class="kwrd">lock</span> (<span class="kwrd">this</span>._syncLock) {
+  <span class="kwrd">if</span> (<span class="kwrd">this</span>._isCallingOverload) {
+  <span class="kwrd">throw</span> <span class="kwrd">new</span> NotImplementedException(DataAnnotationsResources.ValidationAttribute_IsValid_NotImplemented);
         } <span class="kwrd">else</span> {
-            <span class="kwrd">this</span>._isCallingOverload = <span class="kwrd">true</span>;
+  <span class="kwrd">this</span>._isCallingOverload = <span class="kwrd">true</span>;
 
-            <span class="kwrd">try</span> {
-                <span class="kwrd">return</span> <span class="kwrd">this</span>.IsValid(<span class="kwrd">value</span>, <span class="kwrd">null</span>) == <span class="kwrd">null</span>;
+  <span class="kwrd">try</span> {
+  <span class="kwrd">return</span> <span class="kwrd">this</span>.IsValid(<span class="kwrd">value</span>, <span class="kwrd">null</span>) == <span class="kwrd">null</span>;
             } <span class="kwrd">finally</span> {
-                <span class="kwrd">this</span>._isCallingOverload = <span class="kwrd">false</span>;
+  <span class="kwrd">this</span>._isCallingOverload = <span class="kwrd">false</span>;
             }
         }
     }
@@ -227,22 +227,22 @@ I tweeted about a bug that I recently helped fix in System.ComponentModel.DataAn
 <span class="rem">/// &lt;/exception&gt;</span>
 <span class="preproc">#endif</span>
 <span class="kwrd">protected</span> <span class="kwrd">virtual</span> ValidationResult IsValid(<span class="kwrd">object</span> <span class="kwrd">value</span>, ValidationContext validationContext) {
-    <span class="kwrd">lock</span> (<span class="kwrd">this</span>._syncLock) {
-        <span class="kwrd">if</span> (<span class="kwrd">this</span>._isCallingOverload) {
-            <span class="kwrd">throw</span> <span class="kwrd">new</span> NotImplementedException(DataAnnotationsResources.ValidationAttribute_IsValid_NotImplemented);
+  <span class="kwrd">lock</span> (<span class="kwrd">this</span>._syncLock) {
+  <span class="kwrd">if</span> (<span class="kwrd">this</span>._isCallingOverload) {
+  <span class="kwrd">throw</span> <span class="kwrd">new</span> NotImplementedException(DataAnnotationsResources.ValidationAttribute_IsValid_NotImplemented);
         } <span class="kwrd">else</span> {
-            <span class="kwrd">this</span>._isCallingOverload = <span class="kwrd">true</span>;
+  <span class="kwrd">this</span>._isCallingOverload = <span class="kwrd">true</span>;
 
-            <span class="kwrd">try</span> {
+  <span class="kwrd">try</span> {
                 ValidationResult result = ValidationResult.Success;
 
-                <span class="kwrd">if</span> (!<span class="kwrd">this</span>.IsValid(<span class="kwrd">value</span>)) {
-                    <span class="kwrd">string</span>[] memberNames = validationContext.MemberName != <span class="kwrd">null</span> ? <span class="kwrd">new</span> <span class="kwrd">string</span>[] { validationContext.MemberName } : <span class="kwrd">null</span>;
+  <span class="kwrd">if</span> (!<span class="kwrd">this</span>.IsValid(<span class="kwrd">value</span>)) {
+  <span class="kwrd">string</span>[] memberNames = validationContext.MemberName != <span class="kwrd">null</span> ? <span class="kwrd">new</span> <span class="kwrd">string</span>[] { validationContext.MemberName } : <span class="kwrd">null</span>;
                     result = <span class="kwrd">new</span> ValidationResult(<span class="kwrd">this</span>.FormatErrorMessage(validationContext.DisplayName), memberNames);
                 }
-                <span class="kwrd">return</span> result;
+  <span class="kwrd">return</span> result;
             } <span class="kwrd">finally</span> {
-                <span class="kwrd">this</span>._isCallingOverload = <span class="kwrd">false</span>;
+  <span class="kwrd">this</span>._isCallingOverload = <span class="kwrd">false</span>;
             }
         }
     }
@@ -266,7 +266,7 @@ I tweeted about a bug that I recently helped fix in System.ComponentModel.DataAn
 .csharpcode .asp { background-color: #ffff00; }
 .csharpcode .html { color: #800000; }
 .csharpcode .attr { color: #ff0000; }
-.csharpcode .alt 
+.csharpcode .alt
 {
 	background-color: #f4f4f4;
 	width: 100%;
@@ -284,48 +284,48 @@ I tweeted about a bug that I recently helped fix in System.ComponentModel.DataAn
 <span class="kwrd">private</span> <span class="kwrd">bool</span> _hasBaseIsValidWithContext = <span class="kwrd">false</span>;
 
 <span class="kwrd">virtual</span> <span class="kwrd">bool</span> IsValid(<span class="kwrd">object</span> <span class="kwrd">value</span>) {
-    <span class="rem">// Track that this overload wasn't overridden</span>
-    <span class="kwrd">if</span> (!_hasBaseIsValid) {
+  <span class="rem">// Track that this overload wasn't overridden</span>
+  <span class="kwrd">if</span> (!_hasBaseIsValid) {
         _hasBaseIsValid = <span class="kwrd">true</span>;
     }
 
-    <span class="rem">// That means that the other overload must be overridden</span>
-    <span class="rem">// And if it hasn't been, then throw a NotImplementedException</span>
-    <span class="kwrd">if</span> (_hasBaseIsValidWithContext) {
-        <span class="kwrd">throw</span> <span class="kwrd">new</span> NotImplementedException(DataAnnotationsResources.ValidationAttribute_IsValid_NotImplemented);
+  <span class="rem">// That means that the other overload must be overridden</span>
+  <span class="rem">// And if it hasn't been, then throw a NotImplementedException</span>
+  <span class="kwrd">if</span> (_hasBaseIsValidWithContext) {
+  <span class="kwrd">throw</span> <span class="kwrd">new</span> NotImplementedException(DataAnnotationsResources.ValidationAttribute_IsValid_NotImplemented);
     }
 
-    <span class="rem">// We know the other overload was overridden</span>
-    <span class="rem">// So call it to produce the result</span>
-    <span class="kwrd">return</span> <span class="kwrd">this</span>.IsValid(<span class="kwrd">value</span>, <span class="kwrd">null</span>) == <span class="kwrd">null</span>;
+  <span class="rem">// We know the other overload was overridden</span>
+  <span class="rem">// So call it to produce the result</span>
+  <span class="kwrd">return</span> <span class="kwrd">this</span>.IsValid(<span class="kwrd">value</span>, <span class="kwrd">null</span>) == <span class="kwrd">null</span>;
 }
 
 <span class="kwrd">virtual</span> ValidationResult IsValid(<span class="kwrd">object</span> <span class="kwrd">value</span>, ValidationContext validationContext) {
-    <span class="rem">// Track that this overload wasn't overridden</span>
-    <span class="kwrd">if</span> (!_hasBaseIsValidWithContext) {
+  <span class="rem">// Track that this overload wasn't overridden</span>
+  <span class="kwrd">if</span> (!_hasBaseIsValidWithContext) {
         _hasBaseIsValidWithContext = <span class="kwrd">true</span>;
     }
 
-    <span class="rem">// That means that the other overload must be overridden</span>
-    <span class="rem">// And if it hasn't been, then throw a NotImplementedException</span>
-    <span class="kwrd">if</span> (_hasBaseIsValid) {
-        <span class="kwrd">throw</span> <span class="kwrd">new</span> NotImplementedException(DataAnnotationsResources.ValidationAttribute_IsValid_NotImplemented);
+  <span class="rem">// That means that the other overload must be overridden</span>
+  <span class="rem">// And if it hasn't been, then throw a NotImplementedException</span>
+  <span class="kwrd">if</span> (_hasBaseIsValid) {
+  <span class="kwrd">throw</span> <span class="kwrd">new</span> NotImplementedException(DataAnnotationsResources.ValidationAttribute_IsValid_NotImplemented);
     }
 
-    <span class="rem">// We know the other overload was overridden</span>
-    <span class="rem">// So call it to produce the result</span>
+  <span class="rem">// We know the other overload was overridden</span>
+  <span class="rem">// So call it to produce the result</span>
     ValidationResult result = ValidationResult.Success;
 
-    <span class="kwrd">if</span> (!<span class="kwrd">this</span>.IsValid(<span class="kwrd">value</span>)) {
-    <span class="kwrd">string</span>[] memberNames = validationContext.MemberName != <span class="kwrd">null</span> ? <span class="kwrd">new</span> <span class="kwrd">string</span>[] {
+  <span class="kwrd">if</span> (!<span class="kwrd">this</span>.IsValid(<span class="kwrd">value</span>)) {
+  <span class="kwrd">string</span>[] memberNames = validationContext.MemberName != <span class="kwrd">null</span> ? <span class="kwrd">new</span> <span class="kwrd">string</span>[] {
         validationContext.MemberName
     } : <span class="kwrd">null</span>;
 
     result = <span class="kwrd">new</span> ValidationResult(
-        <span class="kwrd">this</span>.FormatErrorMessage(validationContext.DisplayName),
+  <span class="kwrd">this</span>.FormatErrorMessage(validationContext.DisplayName),
         memberNames);
 
-    <span class="kwrd">return</span> result;
+  <span class="kwrd">return</span> result;
 }
 </pre>
 <p>
@@ -346,7 +346,7 @@ I tweeted about a bug that I recently helped fix in System.ComponentModel.DataAn
 .csharpcode .asp { background-color: #ffff00; }
 .csharpcode .html { color: #800000; }
 .csharpcode .attr { color: #ff0000; }
-.csharpcode .alt 
+.csharpcode .alt
 {
 	background-color: #f4f4f4;
 	width: 100%;

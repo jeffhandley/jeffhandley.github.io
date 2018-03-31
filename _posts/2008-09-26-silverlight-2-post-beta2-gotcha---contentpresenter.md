@@ -12,24 +12,24 @@ author: "Jeff Handley"
 <p>If you have a Silverlight application that runs against Beta2, please take immediate action to get it moved (in a test environment) to the RC bits.  There were a bunch of breaking changes (all for the better) and some of them might adversely affect your applications.  Since there isn't a release date for Silverlight 2 yet, I would recommend working quickly to make sure you are ready whenever it is released.  It's impossible to estimate how long it will take to complete the migration, so if you put it off, you might find yourself with a broken application once the final release is put out.</p>
 <p>With all of that said, there is one gotcha that I want to highlight for you tonight.  This one caused some trouble for me when porting an application from Beta 2 to the newer bits.  I'm talking about the base class change to ContentPresenter.  In Beta2, ContentPresenter derived from Control; in the new bits, it derives from FrameworkElement.  This might not sound impactful, but it really is.  For starters, here's the list of properties that are now removed from ContentPresenter because of this change:</p>
 <ul>
-    <li>Background </li>
-    <li>BorderBrush </li>
-    <li>BorderThickness </li>
-    <li>DefaultStyleKey </li>
-    <li>FontFamily </li>
-    <li>FontSize </li>
-    <li>FontStretch </li>
-    <li>FontStyle </li>
-    <li>FontWeight </li>
-    <li>Foreground </li>
-    <li>HorizontalContentAlignment </li>
-    <li>IsEnabled </li>
-    <li>IsTabStop </li>
-    <li>Padding </li>
-    <li>TabIndex </li>
-    <li>TabNavigation </li>
-    <li>Template </li>
-    <li>VerticalContentAlignment </li>
+  <li>Background </li>
+  <li>BorderBrush </li>
+  <li>BorderThickness </li>
+  <li>DefaultStyleKey </li>
+  <li>FontFamily </li>
+  <li>FontSize </li>
+  <li>FontStretch </li>
+  <li>FontStyle </li>
+  <li>FontWeight </li>
+  <li>Foreground </li>
+  <li>HorizontalContentAlignment </li>
+  <li>IsEnabled </li>
+  <li>IsTabStop </li>
+  <li>Padding </li>
+  <li>TabIndex </li>
+  <li>TabNavigation </li>
+  <li>Template </li>
+  <li>VerticalContentAlignment </li>
 </ul>
 <p>That's a pretty long list!  And to make matters worse, I think that every single ContentPresenter I encountered in the app I ported was using at least half of these properties.  That meant that the XAML had to be updated so that these properties were set on a container control that included the ContentPresenter.  In some cases, that was straight-forward, but in others, it wasn't as simple.</p>
 <p>Now, for the real kick in the pants... If you have some of these properties set on a ContentPresenter, within your XAML, your application will build just fine.  It might even run and begin to function.  But eventually, the parser will try to load this portion of the XAML and it will barf.  You will get really bizarre errors like this: <em>Catastrophic failure (Exception from HRESULT: 0x8000FFFF (E_UNEXPECTED))</em>.  The stack trace will look very scary and it will point you nowhere near your ContentPresenter.</p>

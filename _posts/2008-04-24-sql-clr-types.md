@@ -20,13 +20,13 @@ author: "Jeff Handley"
 <div> </div>
 <div><strong>Approach</strong> (it's been almost 2 years since I wrote this code, so I don't remember details)</div>
 <ol>
-    <li>Create a custom type that has fields for each aspect of the records that need to be analyzed during the calculation</li>
-    <li>Create a custom aggregate of that custom type that returns the scalar result</li>
-    <li>Create a shared method on the custom type that accepts parameters to match the fields and returns a new instance of the type (a factory basically)</li>
-    <li>Create a stored procedure (or direct SQL) that selects the fields from the tables that store the fields from the custom type, which may or may not root from the same table</li>
-    <li>Use the fields from that select to pass the values into the shared method that returns and instance of the custom type</li>
-    <li>Use the custom aggregate, aggregating the custom types</li>
-    <li>Return the result</li>
+  <li>Create a custom type that has fields for each aspect of the records that need to be analyzed during the calculation</li>
+  <li>Create a custom aggregate of that custom type that returns the scalar result</li>
+  <li>Create a shared method on the custom type that accepts parameters to match the fields and returns a new instance of the type (a factory basically)</li>
+  <li>Create a stored procedure (or direct SQL) that selects the fields from the tables that store the fields from the custom type, which may or may not root from the same table</li>
+  <li>Use the fields from that select to pass the values into the shared method that returns and instance of the custom type</li>
+  <li>Use the custom aggregate, aggregating the custom types</li>
+  <li>Return the result</li>
 </ol>
 <div> </div>
 <div>This approach worked wonderfully, for about a half-dozen processes on a project a couple of years ago.  Once I had the pattern down, I found that the pattern was very, very powerful, and insanely fast.  IIRC, you can even tell the aggregate to abort if you hit a scenario where no further records would impact the results.  I remember specifically sorting the resultset so that the aggregate would get the data in the most eager manner, where it could most often abort very soon.</div>

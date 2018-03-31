@@ -110,25 +110,25 @@ author: "Jeff Handley"
 
 <ol>
   <ol>
-    <li><a href="http://jeffhandley.com/archive/2010/09/22/RiaServicesStandardValidators.aspx">Standard Validators</a></li>
+  <li><a href="http://jeffhandley.com/archive/2010/09/22/RiaServicesStandardValidators.aspx">Standard Validators</a></li>
 
-    <li><a href="http://jeffhandley.com/archive/2010/09/25/RiaServicesCustomValidationMethods.aspx">Custom Validation Methods</a></li>
+  <li><a href="http://jeffhandley.com/archive/2010/09/25/RiaServicesCustomValidationMethods.aspx">Custom Validation Methods</a></li>
 
-    <li><a href="http://jeffhandley.com/archive/2010/09/26/RiaServicesCustomReusableValidators.aspx">Custom Reusable Validators</a></li>
+  <li><a href="http://jeffhandley.com/archive/2010/09/26/RiaServicesCustomReusableValidators.aspx">Custom Reusable Validators</a></li>
 
-    <li><a href="http://jeffhandley.com/archive/2010/09/30/RiaServicesValidationAttributePropagation.aspx">Attribute Propagation</a></li>
+  <li><a href="http://jeffhandley.com/archive/2010/09/30/RiaServicesValidationAttributePropagation.aspx">Attribute Propagation</a></li>
 
-    <li><a href="http://jeffhandley.com/archive/2010/10/06/RiaServicesValidationTriggers.aspx">Validation Triggers</a></li>
+  <li><a href="http://jeffhandley.com/archive/2010/10/06/RiaServicesValidationTriggers.aspx">Validation Triggers</a></li>
 
-    <li><a href="http://jeffhandley.com/archive/2010/10/10/CrossFieldValidation.aspx">Cross-Field Validation</a></li>
+  <li><a href="http://jeffhandley.com/archive/2010/10/10/CrossFieldValidation.aspx">Cross-Field Validation</a></li>
 
-    <li><a href="http://jeffhandley.com/archive/2010/10/12/EntityLevelValidation.aspx">Entity-Level Validation</a></li>
+  <li><a href="http://jeffhandley.com/archive/2010/10/12/EntityLevelValidation.aspx">Entity-Level Validation</a></li>
 
-    <li><a href="http://jeffhandley.com/archive/2010/10/25/RiaServicesValidationContext.aspx">Providing ValidationContext</a></li>
+  <li><a href="http://jeffhandley.com/archive/2010/10/25/RiaServicesValidationContext.aspx">Providing ValidationContext</a></li>
 
-    <li><a href="http://jeffhandley.com/archive/2010/10/25/CrossEntityValidation.aspx">Using ValidationContext (Cross-Entity Validation)</a></li>
+  <li><a href="http://jeffhandley.com/archive/2010/10/25/CrossEntityValidation.aspx">Using ValidationContext (Cross-Entity Validation)</a></li>
 
-    <li><a href="http://jeffhandley.com/archive/2011/09/06/ViewModelValidation.aspx">ViewModel Validation with Entity Rules</a></li>
+  <li><a href="http://jeffhandley.com/archive/2011/09/06/ViewModelValidation.aspx">ViewModel Validation with Entity Rules</a></li>
   </ol>
 </ol>
 

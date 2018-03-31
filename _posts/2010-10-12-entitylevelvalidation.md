@@ -35,15 +35,15 @@ author: "Jeff Handley"
 <p>It can be tricky to differentiate between cross-field validation and entity-level validation.  In fact, the PreventExpensiveMeetings example is performing cross-field validation.  It’s validating values across the Start, End, MinimumAttendees, and MaximumAttendees fields.  Previously, we saw validation rules defined that validated the Start/End property pairs and the MinimumAttendees/MaximumAttendees properties.  Each of those validators was applied to both properties and users got notification of errors as soon as one of the fields was put into conflict with the other.  The PreventExpensiveMeetings scenario is different for a few reasons though, and these are what I look for when deciding whether to implement validation at the property-level or the entity-level.</p>
 
 <ol>
-  <li><strong>There’s no certain data entry path that will lead to the validation error.</strong>  Because PreventExpensiveMeetings is based on 4 disjoint fields, it is unclear what property we’d want to declare the validation rule for.  The model is unaware of what order the user will enter values in, so we cannot simply put the validation rule on the “last” field.  We could apply the validator to all four properties, but this leads to a few issues. 
+  <li><strong>There’s no certain data entry path that will lead to the validation error.</strong>  Because PreventExpensiveMeetings is based on 4 disjoint fields, it is unclear what property we’d want to declare the validation rule for.  The model is unaware of what order the user will enter values in, so we cannot simply put the validation rule on the “last” field.  We could apply the validator to all four properties, but this leads to a few issues.
 
-    <ol>
-      <li>The value parameter could represent either a DateTime or an Integer, depending on which member is being validated.  This will complicate the validation code. </li>
+  <ol>
+  <li>The value parameter could represent either a DateTime or an Integer, depending on which member is being validated.  This will complicate the validation code. </li>
 
-      <li>Because property validation occurs before the value is set on the property, you must use the value parameter conditionally, based on ValidationContext.MemberName, further complicating the code. </li>
+  <li>Because property validation occurs before the value is set on the property, you must use the value parameter conditionally, based on ValidationContext.MemberName, further complicating the code. </li>
 
-      <li>The validation attribute would be repeated on your model, which causes a headache and can lead to maintenance mistakes. </li>
-    </ol>
+  <li>The validation attribute would be repeated on your model, which causes a headache and can lead to maintenance mistakes. </li>
+  </ol>
   </li>
 
   <li><strong>There’s no clear user guidance on how to correct the error.</strong>  If users hit this error, would you advise them to shorten the meeting, or decrease the number of attendees?  Furthermore, would you suggest changing the Start time or the End time; or the Minimum Attendees, or the Maximum Attendees?  Sometimes, only the end user knows how to correct complex errors. </li>
@@ -90,7 +90,7 @@ author: "Jeff Handley"
 <p><font size="2" />
 
   </p><p>
-    <br />The key is having something on the TextBox bound to the Meeting instance using a {Binding} without a Path.  This binding can exist on any property, not just Text; in this case, I used the DataContext property.  Of course, this XAML is contrived and won’t actually set up the ability to edit a meeting.  But using this TextBox declaration in a different context, my page shows the following when I end editing on the meeting:</p>
+  <br />The key is having something on the TextBox bound to the Meeting instance using a {Binding} without a Path.  This binding can exist on any property, not just Text; in this case, I used the DataContext property.  Of course, this XAML is contrived and won’t actually set up the ability to edit a meeting.  But using this TextBox declaration in a different context, my page shows the following when I end editing on the meeting:</p>
 
   <p><img style="background-image: none; border-right-width: 0px; padding-left: 0px; padding-right: 0px; display: inline; border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px; padding-top: 0px" title="Entity-Level Validation" border="0" alt="Entity-Level Validation" src="http://jeffhandley.com/images/jeffhandley_com/Windows-Live-Writer/RIA-Services-Validation-Entity-Level-Val_1436B/image_f0645387-e05f-49e8-957b-a3b8f65de8bc.png" width="380" height="313" /></p>
 
@@ -103,27 +103,27 @@ author: "Jeff Handley"
   <p>This article is part of an in-depth series on RIA Services Validation.  Here’s the full series:</p>
 
   <ol>
-    <ol>
-      <li><a href="http://jeffhandley.com/archive/2010/09/22/RiaServicesStandardValidators.aspx">Standard Validators</a></li>
+  <ol>
+  <li><a href="http://jeffhandley.com/archive/2010/09/22/RiaServicesStandardValidators.aspx">Standard Validators</a></li>
 
-      <li><a href="http://jeffhandley.com/archive/2010/09/25/RiaServicesCustomValidationMethods.aspx">Custom Validation Methods</a></li>
+  <li><a href="http://jeffhandley.com/archive/2010/09/25/RiaServicesCustomValidationMethods.aspx">Custom Validation Methods</a></li>
 
-      <li><a href="http://jeffhandley.com/archive/2010/09/26/RiaServicesCustomReusableValidators.aspx">Custom Reusable Validators</a></li>
+  <li><a href="http://jeffhandley.com/archive/2010/09/26/RiaServicesCustomReusableValidators.aspx">Custom Reusable Validators</a></li>
 
-      <li><a href="http://jeffhandley.com/archive/2010/09/30/RiaServicesValidationAttributePropagation.aspx">Attribute Propagation</a></li>
+  <li><a href="http://jeffhandley.com/archive/2010/09/30/RiaServicesValidationAttributePropagation.aspx">Attribute Propagation</a></li>
 
-      <li><a href="http://jeffhandley.com/archive/2010/10/06/RiaServicesValidationTriggers.aspx">Validation Triggers</a></li>
+  <li><a href="http://jeffhandley.com/archive/2010/10/06/RiaServicesValidationTriggers.aspx">Validation Triggers</a></li>
 
-      <li><a href="http://jeffhandley.com/archive/2010/10/10/CrossFieldValidation.aspx">Cross-Field Validation</a></li>
+  <li><a href="http://jeffhandley.com/archive/2010/10/10/CrossFieldValidation.aspx">Cross-Field Validation</a></li>
 
-      <li><a href="http://jeffhandley.com/archive/2010/10/12/EntityLevelValidation.aspx">Entity-Level Validation</a></li>
+  <li><a href="http://jeffhandley.com/archive/2010/10/12/EntityLevelValidation.aspx">Entity-Level Validation</a></li>
 
-      <li><a href="http://jeffhandley.com/archive/2010/10/25/RiaServicesValidationContext.aspx">Providing ValidationContext</a></li>
+  <li><a href="http://jeffhandley.com/archive/2010/10/25/RiaServicesValidationContext.aspx">Providing ValidationContext</a></li>
 
-      <li><a href="http://jeffhandley.com/archive/2010/10/25/CrossEntityValidation.aspx">Using ValidationContext (Cross-Entity Validation)</a></li>
+  <li><a href="http://jeffhandley.com/archive/2010/10/25/CrossEntityValidation.aspx">Using ValidationContext (Cross-Entity Validation)</a></li>
 
-      <li><a href="http://jeffhandley.com/archive/2011/09/06/ViewModelValidation.aspx">ViewModel Validation with Entity Rules</a></li>
-    </ol>
+  <li><a href="http://jeffhandley.com/archive/2011/09/06/ViewModelValidation.aspx">ViewModel Validation with Entity Rules</a></li>
+  </ol>
   </ol>
 
   <p><strong><em>[9/6/2011] The source code for everything shown during the series is <a href="http://jeffhandley.com/archive/2011/09/06/RIA-Services-Validation-Available-on-GitHub.aspx">available on GitHub</a>.</em></strong></p>

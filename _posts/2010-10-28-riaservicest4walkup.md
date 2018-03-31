@@ -75,9 +75,9 @@ author: "Jeff Handley"
 <ol>
   <li>Comment out the <strong>DomainServiceClientCodeGenerator</strong> attribute on the custom class; or </li>
 
-  <li>Open the Silverlight project file back up and supply a <strong>RiaClientCodeGeneratorName</strong> property using the full type name of the CodeDomClientCodeGenerator class:  <br /><font size="1"><font face="Consolas"><span><font color="#0000ff">&lt;</font></span><span><font color="#a31515">RiaClientCodeGeneratorName</font></span><span><font color="#0000ff">&gt;</font></span><font color="#000000">Microsoft.ServiceModel.DomainServices.Tools.CodeDomClientCodeGenerator</font><span><font color="#0000ff">&lt;/</font></span><span><font color="#a31515">RiaClientCodeGeneratorName</font></span><span><font color="#0000ff">&gt;</font></span></font> 
+  <li>Open the Silverlight project file back up and supply a <strong>RiaClientCodeGeneratorName</strong> property using the full type name of the CodeDomClientCodeGenerator class:  <br /><font size="1"><font face="Consolas"><span><font color="#0000ff">&lt;</font></span><span><font color="#a31515">RiaClientCodeGeneratorName</font></span><span><font color="#0000ff">&gt;</font></span><font color="#000000">Microsoft.ServiceModel.DomainServices.Tools.CodeDomClientCodeGenerator</font><span><font color="#0000ff">&lt;/</font></span><span><font color="#a31515">RiaClientCodeGeneratorName</font></span><span><font color="#0000ff">&gt;</font></span></font>
 
-      <br /></font></li>
+  <br /></font></li>
 </ol>
 
 <p>Notice that for this generator, only the class name is required and not the fully-qualified name.  You’ll only need the fully-qualified name for our T4 <strong>CSharpClientCodeGenerator</strong>.</p>
