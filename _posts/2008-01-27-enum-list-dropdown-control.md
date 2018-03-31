@@ -256,7 +256,7 @@ author: "Jeff Handley"
 
 <p>Here's the result.  I chose to have the value of the dropdown be the enum field name rather than its value, because that felt cleaner.</p>
 
-<p><img height="180" alt="image" src="http://blog.jeffhandley.com/Images/PostImages/EnumListDropDownControl_49E4/image.png" width="225" /> </p>
+<p><img height="180" alt="image" src="/img/postimages/EnumListDropDownControl_49E4/image.png" width="225" /> </p>
 
 <div style="border-right: gray 1px solid; padding-right: 4px; border-top: gray 1px solid; padding-left: 4px; font-size: 8pt; padding-bottom: 4px; margin: 20px 0px 10px; overflow: auto; border-left: gray 1px solid; width: 97.5%; cursor: text; max-height: 200px; line-height: 12pt; padding-top: 4px; border-bottom: gray 1px solid; font-family: consolas, 'Courier New', courier, monospace; background-color: #f4f4f4">
   <div style="padding-right: 0px; padding-left: 0px; font-size: 8pt; padding-bottom: 0px; overflow: visible; width: 100%; color: black; border-top-style: none; line-height: 12pt; padding-top: 0px; font-family: consolas, 'Courier New', courier, monospace; border-right-style: none; border-left-style: none; background-color: #f4f4f4; border-bottom-style: none">

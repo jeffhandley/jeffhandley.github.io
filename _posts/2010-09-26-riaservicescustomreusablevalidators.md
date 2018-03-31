@@ -151,21 +151,21 @@ author: "Jeff Handley"
 
   <p>Here’s what we get in the UI with these new validators, by simply editing the form values:</p>
 
-  <p><img style="background-image: none; border-right-width: 0px; padding-left: 0px; padding-right: 0px; display: inline; border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px; padding-top: 0px" title="Start cannot be in the past" border="0" alt="Start cannot be in the past" src="http://jeffhandley.com/images/jeffhandley_com/WindowsLiveWriter/RIAServicesValidation_14EEB/image%5B3%5D_d91359ca-7911-4f40-96cd-bd493555208a.png" width="480" height="96" /></p>
+  <p><img style="background-image: none; border-right-width: 0px; padding-left: 0px; padding-right: 0px; display: inline; border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px; padding-top: 0px" title="Start cannot be in the past" border="0" alt="Start cannot be in the past" src="/img/postimages/RIAServicesValidation_14EEB/image%5B3%5D_d91359ca-7911-4f40-96cd-bd493555208a.png" width="480" height="96" /></p>
 
-  <p><img style="background-image: none; border-right-width: 0px; padding-left: 0px; padding-right: 0px; display: inline; border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px; padding-top: 0px" title="If you're asking for more than an hour of time, provide an agenda." border="0" alt="If you're asking for more than an hour of time, provide an agenda." src="http://jeffhandley.com/images/jeffhandley_com/WindowsLiveWriter/RIAServicesValidation_14EEB/image_32f034f8-46c0-48e2-974f-ad47b55dba14.png" width="556" height="311" /></p>
+  <p><img style="background-image: none; border-right-width: 0px; padding-left: 0px; padding-right: 0px; display: inline; border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px; padding-top: 0px" title="If you're asking for more than an hour of time, provide an agenda." border="0" alt="If you're asking for more than an hour of time, provide an agenda." src="/img/postimages/RIAServicesValidation_14EEB/image_32f034f8-46c0-48e2-974f-ad47b55dba14.png" width="556" height="311" /></p>
 
   <p><em>Notice that all three fields light up with the single error.  Editing any of the three fields will make the errors clear from all three fields.</em></p>
 
   <p> </p>
 
-  <p><img style="background-image: none; border-right-width: 0px; padding-left: 0px; padding-right: 0px; display: inline; border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px; padding-top: 0px" title="No one can ever find this room; please be sure to include directions." border="0" alt="No one can ever find this room; please be sure to include directions." src="http://jeffhandley.com/images/jeffhandley_com/WindowsLiveWriter/RIAServicesValidation_14EEB/image_2a74cfd7-325f-4782-9e74-7151f4ca10bb.png" width="563" height="235" /></p>
+  <p><img style="background-image: none; border-right-width: 0px; padding-left: 0px; padding-right: 0px; display: inline; border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px; padding-top: 0px" title="No one can ever find this room; please be sure to include directions." border="0" alt="No one can ever find this room; please be sure to include directions." src="/img/postimages/RIAServicesValidation_14EEB/image_2a74cfd7-325f-4782-9e74-7151f4ca10bb.png" width="563" height="235" /></p>
 
   <p><em>And the same is true here; both Location and Details light up when the hard-to-find room is entered but no details are entered.</em></p>
 
   <p> </p>
 
-  <p><img style="background-image: none; border-right-width: 0px; padding-left: 0px; padding-right: 0px; display: inline; border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px; padding-top: 0px" title="All errors cleared" border="0" alt="All errors cleared" src="http://jeffhandley.com/images/jeffhandley_com/WindowsLiveWriter/RIAServicesValidation_14EEB/image_50d5155c-f82a-4d38-b7a9-88dd7e6466dd.png" width="349" height="243" /></p>
+  <p><img style="background-image: none; border-right-width: 0px; padding-left: 0px; padding-right: 0px; display: inline; border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px; padding-top: 0px" title="All errors cleared" border="0" alt="All errors cleared" src="/img/postimages/RIAServicesValidation_14EEB/image_50d5155c-f82a-4d38-b7a9-88dd7e6466dd.png" width="349" height="243" /></p>
 
   <p><em>Once Details are entered, all of the errors are cleared.</em></p>
 

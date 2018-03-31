@@ -62,7 +62,7 @@ author: "Jeff Handley"
 
 <p>When we run the application, we can now enter an invalid meeting location and get an error message that integrates directly into our UI just like every other validator.</p>
 
-<p><img style="background-image: none; border-right-width: 0px; padding-left: 0px; padding-right: 0px; display: inline; border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px; padding-top: 0px" title="That is not a valid location" border="0" alt="That is not a valid location" src="http://jeffhandley.com/images/jeffhandley_com/Windows-Live-Writer/RIA-Services-Validation-Cross-Entity-Val_CE8/image_c50b84e0-e1b4-4c84-b9f1-f3867cdf4c04.png" width="602" height="57" /></p>
+<p><img style="background-image: none; border-right-width: 0px; padding-left: 0px; padding-right: 0px; display: inline; border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px; padding-top: 0px" title="That is not a valid location" border="0" alt="That is not a valid location" src="/img/postimages/RIA-Services-Validation-Cross-Entity-Val_CE8/image_c50b84e0-e1b4-4c84-b9f1-f3867cdf4c04.png" width="602" height="57" /></p>
 
 <p> </p>
 
@@ -100,7 +100,7 @@ author: "Jeff Handley"
 
 <p>And now, when we attempt to save a meeting that would result in a meeting being double-booked, we get an integrated validation error.</p>
 
-<p><img style="background-image: none; border-right-width: 0px; padding-left: 0px; padding-right: 0px; display: inline; border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px; padding-top: 0px" title="image" border="0" alt="image" src="http://jeffhandley.com/images/jeffhandley_com/Windows-Live-Writer/RIA-Services-Validation-Cross-Entity-Val_CE8/image_0194f5e1-b47b-4fb7-9784-1ae0817a3ec3.png" width="517" height="394" /></p>
+<p><img style="background-image: none; border-right-width: 0px; padding-left: 0px; padding-right: 0px; display: inline; border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px; padding-top: 0px" title="image" border="0" alt="image" src="/img/postimages/RIA-Services-Validation-Cross-Entity-Val_CE8/image_0194f5e1-b47b-4fb7-9784-1ae0817a3ec3.png" width="517" height="394" /></p>
 
 <p>But if the user clicks the “Allow Over Booking” button, then the validation rule is turned off, and the meeting can be saved.</p>
 

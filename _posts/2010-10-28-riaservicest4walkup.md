@@ -20,7 +20,7 @@ author: "Jeff Handley"
 
 <p>As a matter of fact, with my RudeValidation solution, after I flipped the switch, I got build errors.  I have found a bug already.  <em>Hey, I told you these were experimental bits!</em>  Here’s what I saw after my first T4 compile.</p>
 
-<p><img style="background-image: none; border-right-width: 0px; padding-left: 0px; padding-right: 0px; display: inline; border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px; padding-top: 0px" title="Build errors from T4 code generation" border="0" alt="Build errors from T4 code generation" src="http://jeffhandley.com/images/jeffhandley_com/Windows-Live-Writer/RIA-Services-T4-Code-Generation-Walk-Up-_14833/image_347ae6eb-c3a7-4469-b38d-30b3abdfbd5f.png" width="652" height="269" /></p>
+<p><img style="background-image: none; border-right-width: 0px; padding-left: 0px; padding-right: 0px; display: inline; border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px; padding-top: 0px" title="Build errors from T4 code generation" border="0" alt="Build errors from T4 code generation" src="/img/postimages/RIA-Services-T4-Code-Generation-Walk-Up-_14833/image_347ae6eb-c3a7-4469-b38d-30b3abdfbd5f.png" width="652" height="269" /></p>
 
 <p>As you can see, my custom ValidationAttributes accept parameters of enum types, and the enum values are not being qualified properly.  Oh well, I guess this T4 stuff won’t work for me, huh?  Wait!  I have control over the generated code… maybe I can fix this!</p>
 

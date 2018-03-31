@@ -217,7 +217,7 @@ author: "Jeff Handley"
 
 <p><strong>We’re done</strong>. Three steps and we now have fully-functioning async validation.  Run your app, register a user, log out, and then try to register the same username again and you’ll see the validation error pop up.</p>
 
-<p><img style="display: inline" title="image" alt="image" src="http://jeffhandley.com/images/jeffhandley_com/WindowsLiveWriter/AsyncValidationwithRIAServices_F219/image_f8e43fc6-ca4a-4828-b68b-390b7f266fb1.png" width="592" height="413" /> </p>
+<p><img style="display: inline" title="image" alt="image" src="/img/postimages/AsyncValidationwithRIAServices_F219/image_f8e43fc6-ca4a-4828-b68b-390b7f266fb1.png" width="592" height="413" /> </p>
 
 <h3>Validation Failures from the Server</h3>
 

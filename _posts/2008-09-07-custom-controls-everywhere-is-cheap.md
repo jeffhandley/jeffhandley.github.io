@@ -115,7 +115,7 @@ author: "Jeff Handley"
 <p>
   <br />The important line is the &lt;%@ Register ... %&gt; where we register the "Controls" namespace.  Feel free to make this whatever you want, I just used Controls for illustration.</p>
 
-<p><img height="162" alt="CustomControlsEverywhere-IntellisenseInASPX" src="http://blog.jeffhandley.com/Images/PostImages/CustomControlsEverywhereisCheap_D32/CustomControlsEverywhereIntellisenseInASPX.png" width="240" align="right" /> What's great is that after you build your solution, and wait a few seconds for Intellisense to catch up, you get the same help with your custom controls that you get with the stock controls.</p>
+<p><img height="162" alt="CustomControlsEverywhere-IntellisenseInASPX" src="/img/postimages/CustomControlsEverywhereisCheap_D32/CustomControlsEverywhereIntellisenseInASPX.png" width="240" align="right" /> What's great is that after you build your solution, and wait a few seconds for Intellisense to catch up, you get the same help with your custom controls that you get with the stock controls.</p>
 
 <p>One of the common pitfalls is namespace collisions.  If you stick with TextBox, DropDownList, Button, etc. for your custom control names, you'll run into collisions within your code-behind.  But since your control has the stock control as its base class, this often doesn't matter--it only comes into play when you try to access a new property or method on your control that the stock control doesn't have.  But this situation is very manageable and it doesn't take long to get used to it.</p>
 

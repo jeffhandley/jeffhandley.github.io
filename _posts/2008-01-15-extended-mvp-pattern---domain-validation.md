@@ -208,13 +208,13 @@ author: "Jeff Handley"
 
 <p>The validation engine is completely decoupled from the user interface (or user experience as we called it), but using dependency injection techniques, the UI is capable of being extremely rich.  In fact, I had stated that the projects using this MVP pattern had the richest UI of any applications I've built.  Here's a screen grab for our simple customer edit form.  In this example, the cursor was hovering over the "First Name" label (not the textbox, but the label).</p>
 
-<p><img style="border-top-width: 0px; border-left-width: 0px; border-bottom-width: 0px; border-right-width: 0px" height="209" alt="Customer Edit form using Extended MVP Pattern - Validation Rules: Required, Field Type: Text, Length cannot exceed 20" src="http://jeffhandley.com/Images/PostImages/ExtendedMVPPatternDomainValidation_12C9/image.png" width="477" border="0" /> </p>
+<p><img style="border-top-width: 0px; border-left-width: 0px; border-bottom-width: 0px; border-right-width: 0px" height="209" alt="Customer Edit form using Extended MVP Pattern - Validation Rules: Required, Field Type: Text, Length cannot exceed 20" src="/img/postimages/ExtendedMVPPatternDomainValidation_12C9/image.png" width="477" border="0" /> </p>
 
 <p>For all fields on all forms, we are able to show information to the user about what the validation rules are.  We show this up-front and without consuming any valuable real estate or cluttering up the UI.  The customer loved this.</p>
 
 <p>We also show the user error messages when validation rules are broken.  As soon as we hit Save, we get this (the cursor is hovering over the error provider next to the First Name field):</p>
 
-<p><img style="border-top-width: 0px; border-left-width: 0px; border-bottom-width: 0px; border-right-width: 0px" height="209" alt="First Name is required" src="http://jeffhandley.com/Images/PostImages/ExtendedMVPPatternDomainValidation_12C9/image_3.png" width="477" border="0" /> </p>
+<p><img style="border-top-width: 0px; border-left-width: 0px; border-bottom-width: 0px; border-right-width: 0px" height="209" alt="First Name is required" src="/img/postimages/ExtendedMVPPatternDomainValidation_12C9/image_3.png" width="477" border="0" /> </p>
 
 <p>Again, the actual validation engine is completely decoupled with the UI.  So, the same functionality could be implemented in a Web application as well as in a Windows Forms application as shown here.</p>
 

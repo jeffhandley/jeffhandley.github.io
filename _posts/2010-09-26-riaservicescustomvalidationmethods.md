@@ -46,7 +46,7 @@ author: "Jeff Handley"
 
 <p>Now, let’s take a look at the result we get in the UI:</p>
 
-<p><img style="background-image: none; border-right-width: 0px; padding-left: 0px; padding-right: 0px; display: inline; border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px; padding-top: 0px" title="image" border="0" alt="image" src="http://jeffhandley.com/images/jeffhandley_com/WindowsLiveWriter/RIAServicesValidationCustomValidators_12709/image_642ed5ee-0bd5-406f-af42-916d551b4ef6.png" width="580" height="108" /></p>
+<p><img style="background-image: none; border-right-width: 0px; padding-left: 0px; padding-right: 0px; display: inline; border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px; padding-top: 0px" title="image" border="0" alt="image" src="/img/postimages/RIAServicesValidationCustomValidators_12709/image_642ed5ee-0bd5-406f-af42-916d551b4ef6.png" width="580" height="108" /></p>
 
 <p>There, now no one can schedule meetings before 9:00am!</p>
 
