@@ -7,7 +7,7 @@ My name is Jeff Handley. I've been creating web applications for over 20 years. 
 
 The teams I've worked with have a proven ability to deliver short-term developer productivity and long-term maintainability for web applications ranging from 10 screens to over 1000.
 
-I've been recognized for having an unparalleled sense of ownership in products and user experiences, which has resulted in leading many teams through successful releases.
+I've been recognized as a compassionate people manager with an unparalleled sense of ownership in products and user experiences, which has resulted in leading many teams through successful releases.
 
 ## SAP Concur
 
