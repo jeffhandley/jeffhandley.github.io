@@ -32,6 +32,12 @@ a:hover,
 a:focus {
   color: {{ site.hover-col }};
 }
+h2 a {
+  color: #404040;
+}
+h2 a:hover {
+  color: {{ site.hover-col }};
+}
 blockquote {
   color: #808080;
   font-style: italic;
@@ -106,11 +112,11 @@ img {
 /* --- Navbar --- */
 
 a.nav-twitter {
-  color: #1F3244;
+  color: {{ site.navbar-col }};
 }
 
 a.nav-twitter:hover {
-  color: #FB7E00;
+  color: {{ site.hover-col }};
 }
 
 .navbar-custom {
