@@ -2,7 +2,7 @@
 layout: page
 title: Archives - 2015
 ---
-{% assign postsByYearMonth = site.posts | where_exp:"post", "post.title" | group_by_exp:"post", "post.date | date: '%Y %b'"  %}
+{% assign postsByYearMonth = site.posts | where_exp:"post", "post.title" | group_by_exp:"post", "post.date | date: '%Y %B'"  %}
 {% for yearMonth in postsByYearMonth %}
   {% if yearMonth.name contains "2015" %}
   <h3>{{ yearMonth.name }}</h3>
