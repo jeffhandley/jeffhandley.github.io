@@ -14,10 +14,16 @@ permalink: /404.html
 <script>
 
     if (location.pathname.indexOf('/tags/') === 0) {
-        var tag = location.pathname.replace(/\/tags\/(.*?)\/default.aspx/, "$1");
+        var tag = location.pathname.replace(/\/tags\/(.*?)\/default\.aspx/, '$1');
 
         if (tag) {
             location.replace('/tags#' + tag);
+        }
+    } else if (location.pathname.indexOf('/archive/') === 0) {
+        var yearMonth = location.pathname.replace(/\/archive\/(\d{4})\/(\d{2})\.aspx/, '$1-$2');
+        
+        if (yearMonth) {
+            location.replace('/archive#' + yearMonth);
         }
     }
 
