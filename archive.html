@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Archives
+title: Archive
 ---
 {% assign postsByYearMonth = site.posts | where_exp:"post", "post.title" | group_by_exp:"post", "post.date | date: '%Y %m %B'"  %}
 {% for yearMonth in postsByYearMonth %}

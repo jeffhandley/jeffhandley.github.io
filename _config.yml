@@ -26,6 +26,7 @@ navbar-links:
   About Me: "aboutme"
   Resources:
     - Tag Index: "tags"
+    - Archive: "archive"
     - Strickland: "http://strickland.io/"
     - Conferences: "conferences"
     - Resume: "resume.pdf"
