@@ -132,5 +132,5 @@ author: "Jeff Handley"
 
   <p>We have already covered a great deal, but there are plenty of validation topics left to cover.  Still to come, we’ll be exploring the power of ValidationContext and I’ll also provide a validator factory implementation that can consume validation rules from other types so that validation rules from entities can be inherited into a ViewModel!</p>
 
-  <div style="padding-bottom: 0px; margin: 0px; padding-left: 0px; padding-right: 0px; display: inline; float: none; padding-top: 0px" id="scid:0767317B-992E-4b12-91E0-4F059A8CECA8:d15f2762-e75b-4716-9d4f-c8efc4120b5e" class="wlWriterEditableSmartContent">Technorati Tags: <a href="http://technorati.com/tags/RiaServicesValidation" rel="tag">RiaServicesValidation</a>,<a href="http://technorati.com/tags/RiaServices" rel="tag">RiaServices</a>,<a href="http://technorati.com/tags/Validation" rel="tag">Validation</a>,<a href="http://technorati.com/tags/Silverlight" rel="tag">Silverlight</a>,<a href="http://technorati.com/tags/DataAnnotations" rel="tag">DataAnnotations</a></div>
+
 

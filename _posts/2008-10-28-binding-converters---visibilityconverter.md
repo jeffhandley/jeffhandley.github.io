@@ -320,5 +320,5 @@ author: "Jeff Handley"
 
 <p>One last note too… don’t get stuck thinking that converters can only convert from one scalar value to another.  You can do all sorts of cool things with converters.  Just like with the ViewModel pattern in general, once you start to use converters, you’ll be hooked, and you’ll come up with all kinds of out-of-the-box ways of using them.</p>
 
-<div class="wlWriterEditableSmartContent" id="scid:0767317B-992E-4b12-91E0-4F059A8CECA8:d5209ed8-69cf-4f8f-8f95-af9b300c666e" style="padding-right: 0px; display: inline; padding-left: 0px; float: none; padding-bottom: 0px; margin: 0px; padding-top: 0px">Technorati Tags: <a href="http://technorati.com/tags/ViewModel" rel="tag">ViewModel</a>,<a href="http://technorati.com/tags/Silverlight" rel="tag">Silverlight</a>,<a href="http://technorati.com/tags/WPF" rel="tag">WPF</a>,<a href="http://technorati.com/tags/Binding" rel="tag">Binding</a>,<a href="http://technorati.com/tags/Binding+Converter" rel="tag">Binding Converter</a>,<a href="http://technorati.com/tags/IValueConverter" rel="tag">IValueConverter</a>,<a href="http://technorati.com/tags/Model-View-ViewModel" rel="tag">Model-View-ViewModel</a></div>
+
 

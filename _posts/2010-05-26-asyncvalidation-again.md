@@ -235,5 +235,5 @@ author: "Jeff Handley"
 
 <p>Also, <a href="http://www.nikhilk.net/" target="_blank">Nikhil Kothari</a> (the RIA Services architect) took a slightly different approach when he was implementing async validation.  Instead of plugging it in with the validation attribute, we added explicit calls to a validation method from both his DomainService and his client (in the UI).  He has a <a href="http://www.nikhilk.net/RIA-Services-Validation.aspx" target="_blank">great post that goes pretty deep with several aspects of validation</a>.</p>
 
-<div style="padding-bottom: 0px; margin: 0px; padding-left: 0px; padding-right: 0px; display: inline; float: none; padding-top: 0px" id="scid:0767317B-992E-4b12-91E0-4F059A8CECA8:b7b7cdb4-7c3b-4e47-8b68-487225d5412d" class="wlWriterEditableSmartContent">Technorati Tags: <a href="http://technorati.com/tags/RIAServices" rel="tag">RIAServices</a>,<a href="http://technorati.com/tags/Silverlight" rel="tag">Silverlight</a>,<a href="http://technorati.com/tags/DataAnnotations" rel="tag">DataAnnotations</a>,<a href="http://technorati.com/tags/Validation" rel="tag">Validation</a></div>
+
 

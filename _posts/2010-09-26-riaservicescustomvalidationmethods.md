@@ -94,5 +94,5 @@ author: "Jeff Handley"
 
 <p>I will continue digging deeper into RIA Services Validation.  In future posts, we’ll be exploring how RIA Services actually propagates your validators to the client, how you can create custom, reusable validators by deriving from ValidationAttribute directly, as well as when/how RIA Services will invoke each kind of validator, and much more!</p>
 
-<div style="padding-bottom: 0px; margin: 0px; padding-left: 0px; padding-right: 0px; display: inline; float: none; padding-top: 0px" id="scid:0767317B-992E-4b12-91E0-4F059A8CECA8:eaa5cfee-aeec-4cb3-bf84-782c74138d22" class="wlWriterEditableSmartContent">Technorati Tags: <a href="http://technorati.com/tags/RiaServicesValidation" rel="tag">RiaServicesValidation</a>,<a href="http://technorati.com/tags/RiaServices" rel="tag">RiaServices</a>,<a href="http://technorati.com/tags/Validation" rel="tag">Validation</a>,<a href="http://technorati.com/tags/Silverlight" rel="tag">Silverlight</a>,<a href="http://technorati.com/tags/DataAnnotations" rel="tag">DataAnnotations</a></div>
+
 

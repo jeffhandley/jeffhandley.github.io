@@ -36,6 +36,6 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\Microsoft\WCFRIAServices\v1.0\DisableLiv
 <p>We will remove this feature when WCF RIA Services V1.0 SP2 is released.  In fact, with the SP2 Preview that we released for MIX11, we put the registry key in place by default, disabling the feature by default.  We have now removed the feature entirely, so the final release of SP2 will omit Live IntelliSense completely.</p>
 <h3>How will I be affected?</h3>
 <p>Review the workflow outlined above.  You will now have to build your solution at the places where you were able to proceed in your Silverlight project without building.  We expect this will be less of a nuisance than the constant performance hit you have been paying.  Since the Preview of SP2 at MIX11, we’ve not heard a single report of problems being caused by the feature being disabled by default, so that seems like a good indication to me that it’s okay to deprecate the feature.</p>
-<div style="PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; DISPLAY: inline; FLOAT: none; PADDING-TOP: 0px" id="scid:0767317B-992E-4b12-91E0-4F059A8CECA8:2b324231-f62a-4af8-b85e-8c89a24cf0c0" class="wlWriterEditableSmartContent">Technorati Tags: <a rel="tag" href="http://technorati.com/tags/RIAServices">RIAServices</a></div>
+
 <h3> </h3>
 

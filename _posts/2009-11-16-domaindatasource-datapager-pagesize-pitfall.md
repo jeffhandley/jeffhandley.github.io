@@ -73,5 +73,5 @@ author: "Jeff Handley"
 
 <p>I hope this information helps you avoid the DomainDataSource DataPager PageSize Pitfall.  And as always, please feel free to ping me with questions, comments, or concerns.  I love gathering your feedback!</p>
 
-<div style="padding-bottom: 0px; margin: 0px; padding-left: 0px; padding-right: 0px; display: inline; float: none; padding-top: 0px" id="scid:0767317B-992E-4b12-91E0-4F059A8CECA8:2ce30b98-f0c4-4392-82c5-5c0ab2b99fe2" class="wlWriterEditableSmartContent">Technorati Tags: <a href="http://technorati.com/tags/RIAServices" rel="tag">RIAServices</a>,<a href="http://technorati.com/tags/DomainDataSource" rel="tag">DomainDataSource</a>,<a href="http://technorati.com/tags/DataPager" rel="tag">DataPager</a>,<a href="http://technorati.com/tags/PageSize" rel="tag">PageSize</a>,<a href="http://technorati.com/tags/Silverlight" rel="tag">Silverlight</a></div>
+
 

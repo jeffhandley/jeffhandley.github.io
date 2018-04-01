@@ -159,5 +159,5 @@ author: "Jeff Handley"
 </ul>
 <h3>More Info…</h3>
 <p>We will be publishing more details about this new jQuery client for WCF RIA Services.  You can also find more information and the BigShelf sample application at <a href="http://jeffh.me/wcfjquery">http://jeffh.me/wcfjquery</a>.</p>
-<div style="PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; DISPLAY: inline; FLOAT: none; PADDING-TOP: 0px" id="scid:0767317B-992E-4b12-91E0-4F059A8CECA8:79be1722-1fbb-4051-b72c-e48d142c2e21" class="wlWriterEditableSmartContent">Technorati Tags: <a rel="tag" href="http://technorati.com/tags/RIAServices">RIAServices</a>,<a rel="tag" href="http://technorati.com/tags/jQuery">jQuery</a></div>
+
 

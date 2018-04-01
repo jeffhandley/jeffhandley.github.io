@@ -110,5 +110,5 @@ author: "Jeff Handley"
 
 <p>If you’d like to see this capability in action, download this <a href="http://jeffhandley.com/Files/DDS_FilterDescriptorSample.zip" target="_blank">sample solution that demonstrates it</a>.  This solution requires the Visual Studio 2010 RC and <a href="http://silverlight.net/riaservices" target="_blank">RIA Services Release Candidate</a>.</p>
 
-<div style="padding-bottom: 0px; margin: 0px; padding-left: 0px; padding-right: 0px; display: inline; float: none; padding-top: 0px" id="scid:0767317B-992E-4b12-91E0-4F059A8CECA8:8de4908b-6af3-4c36-acf5-543e51a380d7" class="wlWriterEditableSmartContent">Technorati Tags: <a href="http://technorati.com/tags/DomainDataSource" rel="tag">DomainDataSource</a>,<a href="http://technorati.com/tags/RIAServices" rel="tag">RIAServices</a>,<a href="http://technorati.com/tags/ControlParameter" rel="tag">ControlParameter</a>,<a href="http://technorati.com/tags/FilterDescriptor" rel="tag">FilterDescriptor</a>,<a href="http://technorati.com/tags/Kyle+McClellan" rel="tag">Kyle McClellan</a></div>
+
 

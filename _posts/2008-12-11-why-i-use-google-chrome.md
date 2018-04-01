@@ -35,5 +35,5 @@ author: "Jeff Handley"
 </ol>
 <p>I’ve also been impressed with the compatibility that existing websites have.  And for that matter, Silverlight works like a charm (now).  I hope that IE8’s release can go as smoothly as Chrome’s introduction has.</p>
 <p><strong><em>Update: I completely forgot to talk about now tabs work in Chrome.  First of all, it's nice to rearrange the tabs into a different order sometimes.  But you can also drag a tab out of a window entirely to break it out into a new window.  This is something that I use to have a bookmarklet on my links tab for doing in IE, but it never worked quite right.  You can also merge Chrome windows by dragging them into each other.  Just like everything else in Chrome, this is exactly what you'd expect a browser to do if you had never used a browser before.</em></strong></p>
-<div class="wlWriterEditableSmartContent" id="scid:0767317B-992E-4b12-91E0-4F059A8CECA8:b758d720-d5e2-46de-8640-2d5d3996eef3" style="PADDING-RIGHT: 0px; DISPLAY: inline; PADDING-LEFT: 0px; FLOAT: none; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px">Technorati Tags: <a rel="tag" href="http://technorati.com/tags/Google+Chrome">Google Chrome</a></div>
+
 

@@ -359,5 +359,5 @@ I tweeted about a bug that I recently helped fix in System.ComponentModel.DataAn
 <h2>Look Good?</h2>
 <p>This code is unique—ensuring that 1 of 2 overloads is overridden—and the existing bug has been there for years.  What do you think of the new implementation?  See any holes in it?  Of course, Miguel and the rest of his team will test the heck out of the new implementation, but if you see any issues with it, let me know.</p>
 <p>Kudos to Miguel for finding a novel approach to solving the problem.  I wish I’d thought of this approach back when I was writing this code for RIA Services.</p>
-<div id="scid:0767317B-992E-4b12-91E0-4F059A8CECA8:323afdd4-7645-4d96-92b8-6ffac840f455" class="wlWriterEditableSmartContent" style="float: none; padding-bottom: 0px; padding-top: 0px; padding-left: 0px; margin: 0px; display: inline; padding-right: 0px">Technorati Tags: <a href="http://technorati.com/tags/RIAServices" rel="tag">RIAServices</a>,<a href="http://technorati.com/tags/Validation" rel="tag">Validation</a>,<a href="http://technorati.com/tags/DataAnnotations" rel="tag">DataAnnotations</a></div>
+
 

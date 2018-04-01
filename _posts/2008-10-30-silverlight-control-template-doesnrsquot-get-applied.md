@@ -139,5 +139,5 @@ author: "Jeff Handley"
 <p>
   <br />Without setting the DefaultStyleKey property to the control’s own type, the template doesn’t get applied.  Set that property in your constructor and you’re good to go.</p>
 
-<div class="wlWriterEditableSmartContent" id="scid:0767317B-992E-4b12-91E0-4F059A8CECA8:24876ddd-2832-45da-8cb2-eeabf990a0e9" style="padding-right: 0px; display: inline; padding-left: 0px; float: none; padding-bottom: 0px; margin: 0px; padding-top: 0px">Technorati Tags: <a href="http://technorati.com/tags/Silverlight" rel="tag">Silverlight</a>,<a href="http://technorati.com/tags/XAML" rel="tag">XAML</a></div>
+
 

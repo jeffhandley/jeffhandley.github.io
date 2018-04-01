@@ -287,5 +287,5 @@ author: "Jeff Handley"
 
 <p>I would expect this pattern to be followed pretty regularly when dealing with lookup data.  There might be some ways in your applications to condense this effort so that it can be reused across screens and types of lookup data.</p>
 
-<div style="padding-bottom: 0px; margin: 0px; padding-left: 0px; padding-right: 0px; display: inline; float: none; padding-top: 0px" id="scid:0767317B-992E-4b12-91E0-4F059A8CECA8:c8b51e63-4e05-45c2-bcfc-76c0bad5d739" class="wlWriterEditableSmartContent">Technorati Tags: <a href="http://technorati.com/tags/RIAServices" rel="tag">RIAServices</a>,<a href="http://technorati.com/tags/DataForm" rel="tag">DataForm</a>,<a href="http://technorati.com/tags/DataGrid" rel="tag">DataGrid</a>,<a href="http://technorati.com/tags/Lookup+Data" rel="tag">Lookup Data</a></div>
+
 

@@ -50,5 +50,5 @@ author: "Jeff Handley"
 
 <p>Note that 2-4 in this list matches up with what the Domain Service Wizard would typically do for you.  So even though we don’t have wizard support with the NuGet package, you still don’t have to mess with references or web.config to use RIA Services.</p>
 
-<div style="padding-bottom: 0px; margin: 0px; padding-left: 0px; padding-right: 0px; display: inline; float: none; padding-top: 0px" id="scid:0767317B-992E-4b12-91E0-4F059A8CECA8:447c60d8-5dbd-4824-b6c5-d74edeb19458" class="wlWriterSmartContent">Technorati Tags: <a href="http://technorati.com/tags/RIAServices" rel="tag">RIAServices</a>,<a href="http://technorati.com/tags/EntityFramework" rel="tag">EntityFramework</a></div>
+
 

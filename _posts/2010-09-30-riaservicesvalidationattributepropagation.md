@@ -143,6 +143,6 @@ author: "Jeff Handley"
 
   <p>As mentioned, my next post will go into details on when and how RIA Services performs validation.  We’ll then continue to explore more details of the RIA Services validation features over many other posts that will cover how to perform entity-level validation, how to leverage ValidationContext, and more.</p>
 
-  <div style="padding-bottom: 0px; margin: 0px; padding-left: 0px; padding-right: 0px; display: inline; float: none; padding-top: 0px" id="scid:0767317B-992E-4b12-91E0-4F059A8CECA8:42166667-88b9-4c3d-bab9-a86cb44d79b4" class="wlWriterEditableSmartContent">Technorati Tags: <a href="http://technorati.com/tags/RiaServicesValidation" rel="tag">RiaServicesValidation</a>,<a href="http://technorati.com/tags/RiaServices" rel="tag">RiaServices</a>,<a href="http://technorati.com/tags/Validation" rel="tag">Validation</a>,<a href="http://technorati.com/tags/Silverlight" rel="tag">Silverlight</a>,<a href="http://technorati.com/tags/DataAnnotations" rel="tag">DataAnnotations</a></div>
+
   </font></font><font face="Arial"><font size="1" /></font>
 

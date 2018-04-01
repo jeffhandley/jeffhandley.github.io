@@ -20,5 +20,5 @@ If you are feeling overwhelmed trying to learn Node and React, you might benefit
 <p>
 <a href="http://jeffhandley.github.io/QuickReactions/">http://jeffhandley.github.io/QuickReactions/</a>
 </p>
-<div style="float: none; padding-bottom: 0px; padding-top: 0px; padding-left: 0px; margin: 0px; display: inline; padding-right: 0px">Technorati Tags: <a href="http://technorati.com/tags/node" rel="tag">node</a>,<a href="http://technorati.com/tags/react" rel="tag">react</a>,<a href="http://technorati.com/tags/isomorphic" rel="tag">isomorphic</a></div>
+
 

@@ -479,5 +479,5 @@ author: "Jeff Handley"
 
 <p />
 
-<div style="padding-bottom: 0px; margin: 0px; padding-left: 0px; padding-right: 0px; display: inline; float: none; padding-top: 0px" id="scid:0767317B-992E-4b12-91E0-4F059A8CECA8:82ddcfa6-730f-4ced-8228-fe447e18a42a" class="wlWriterEditableSmartContent">Technorati Tags: <a href="http://technorati.com/tags/Silverlight" rel="tag">Silverlight</a>,<a href="http://technorati.com/tags/RIAServices" rel="tag">RIAServices</a>,<a href="http://technorati.com/tags/Visual+Studio+2010" rel="tag">Visual Studio 2010</a></div>
+
 

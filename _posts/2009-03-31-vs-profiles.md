@@ -140,5 +140,5 @@ author: "Jeff Handley"
 
 <p>Since Phil is like the 7th or so person to ask me to send this stuff to him, I figured I’d just blog it instead.  You can grab all of my settings files and a text file with the above code <a title="A zip file containing the 5 settings files referenced as well as the macro code" href="http://jeffhandley.com/files/vssettings.zip" target="_blank">here</a>.</p>
 
-<div style="padding-bottom: 0px; margin: 0px; padding-left: 0px; padding-right: 0px; display: inline; float: none; padding-top: 0px" id="scid:0767317B-992E-4b12-91E0-4F059A8CECA8:f2f3a41d-e05d-4d5f-9b32-1b36349c7e42" class="wlWriterEditableSmartContent">Technorati Tags: <a href="http://technorati.com/tags/Visual+Studio" rel="tag">Visual Studio</a></div>
+
 

@@ -95,6 +95,6 @@ author: "Jeff Handley"
   <li>Rebuild the solution any time you reconfigure the virtual directories in IIS – this kept tripping me up, making me think the solution was flawed, but with remembering this step, it’s working great </li>
 </ol>
 <p>So far, I’m thrilled with the setup.  I’ve already migrated some screens over to MVC, but I am able to have the two working together really seamlessly.</p>
-<div style="PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; DISPLAY: inline; FLOAT: none; PADDING-TOP: 0px" id="scid:0767317B-992E-4b12-91E0-4F059A8CECA8:5f535e93-4f43-4e6e-9696-e8ab9e369f8f" class="wlWriterEditableSmartContent">Technorati Tags: <a rel="tag" href="http://technorati.com/tags/ASP.NET">ASP.NET</a>,<a rel="tag" href="http://technorati.com/tags/MVC">MVC</a>,<a rel="tag" href="http://technorati.com/tags/WebForms">WebForms</a>,<a rel="tag" href="http://technorati.com/tags/Razor">Razor</a></div>
+
 </h3>
 
