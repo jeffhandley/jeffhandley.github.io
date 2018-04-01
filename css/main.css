@@ -105,6 +105,10 @@ img {
 
 /* --- Navbar --- */
 
+a.nav-twitter {
+  color: #1F3244;
+}
+
 .navbar-custom {
   background-color: {{ site.navbar-col }};
   border-bottom: 1px solid #EAEAEA;
