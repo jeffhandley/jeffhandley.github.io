@@ -50,14 +50,14 @@ page-col: "#FFFFFF"
 link-col: "#FB7E00"
 hover-col: "#FB7E00"
 footer-col: "#F5F5F5"
-footer-text-col: "#777777"
-footer-link-col: "#404040"
+footer-text-col: "#FEFFFE"
+footer-link-col: "#FB7E00"
 
 # Alternatively, the navbar, footer, and page background can be set to use background images
 # instead of colour
 
-navbar-img: "/img/bgmetal.jpg"
-# footer-img: "/img/bgimage.png"
+# navbar-img: "/img/bgmetal.jpg"
+footer-img: "/img/bgmetal.jpg"
 # page-img: "/img/bgimage.png"
 
 # --- Footer options --- #
