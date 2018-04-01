@@ -12,13 +12,13 @@ redirect_from: ["/tags/default.aspx/"]
 {%- assign tags_list = site_tags | split:',' | sort -%}
 
 {%- for tag in tags_list -%}
-    <a href="#{{- tag -}}" class="btn btn-primary tag-btn"><i class="fa fa-tag" aria-hidden="true" style="width: 1em;"></i>&nbsp;{{- tag -}}&nbsp;({{site.tags[tag].size}})</a>
+    <a href="#{{- tag -}}" class="btn btn-primary tag-btn"><i class="fa fa-tag" aria-hidden="true" style="width: 16px;"></i>&nbsp;{{- tag -}}&nbsp;({{site.tags[tag].size}})</a>
 {%- endfor -%}
 
 <div id="full-tags-list">
 {%- for tag in tags_list -%}
     <h2 id="{{- tag -}}" class="linked-section">
-        <i class="fa fa-tag" aria-hidden="true" style="width: 1em;"></i>
+        <i class="fa fa-tag" aria-hidden="true"></i>
         &nbsp;<a href="#{{- tag -}}">{{- tag -}}</a>&nbsp;({{site.tags[tag].size}})
     </h2>
     <div class="post-list">
