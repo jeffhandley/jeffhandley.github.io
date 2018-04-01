@@ -325,7 +325,7 @@ footer .theme-by {
 
 .post-preview {
   padding: 20px 0;
-  border-bottom: 1px solid #eee;
+  border-bottom: 1px solid {{ site.navbar-col }};
 }
 
 @media only screen and (min-width: 768px) {
