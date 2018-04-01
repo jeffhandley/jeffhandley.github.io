@@ -5,9 +5,9 @@ title: About Me
 
 My name is Jeff Handley. I've been creating web applications for over 20 years. I grew up on the Microsoft stack but now I focus on Node, React, Redux, and GraphQL. I have passion for implementing large web applications that provide end-user productivity and delight.
 
-The teams I've worked with have a proven ability to deliver short-term developer productivity and long-term maintainability for web applications ranging from 10 screens to over 1000.
+The teams I've worked with have a proven ability to deliver short-term developer productivity and long-term maintainability for web applications ranging from 10 screens to over 1000. I've been recognized as a compassionate people manager with an unparalleled sense of ownership in products and user experiences, which has resulted in leading many teams through successful releases.
 
-I've been recognized as a compassionate people manager with an unparalleled sense of ownership in products and user experiences, which has resulted in leading many teams through successful releases.
+I've had the pleasure of [speaking at several conferences](conferences) including Øredev, MonkeySpace, OuterConf, and Silicon Valley Code Camp. I am the author of the [Strickland JavaScript validation framework](https://strickland.io) as well as a few other [npm packages](https://www.npmjs.com/~jeffhandley).
 
 ## SAP Concur
 
