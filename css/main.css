@@ -295,6 +295,10 @@ footer a {
   color: {{site.footer-link-col}};
 }
 
+footer .footer-social-links a {
+  color: {{site.footer-social-link-col }};
+}
+
 footer .list-inline {
   margin: 0;
   padding: 0;
@@ -313,7 +317,7 @@ footer .theme-by {
   footer {
     padding: 50px 0;
   }
-  footer .footer-links {
+  footer .footer-social-links {
     font-size: 18px;
   }
   footer .copyright {
