@@ -2,7 +2,7 @@
 layout: page
 title: Archives - 2018
 ---
-{% assign postsByYearMonth = site.posts | where_exp:"post", "post.date" | group_by_exp:"post", "post.date | date: '%Y %b'"  %}
+{% assign postsByYearMonth = site.posts | where_exp:"post", "post.date contains '2018'" | group_by_exp:"post", "post.date | date: '%Y %b'"  %}
 {% for yearMonth in postsByYearMonth %}
   <h3>{{ yearMonth.name }}</h3>
     <ul>
