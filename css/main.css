@@ -299,6 +299,10 @@ footer .footer-social-links a {
   color: {{site.footer-social-link-col }};
 }
 
+footer .footer-social-links a:hover {
+  color: {{site.hover-col}};
+}
+
 footer .list-inline {
   margin: 0;
   padding: 0;
