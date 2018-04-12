@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Replacing Luxafor's App with OSX Automator and Keyboard Shortcuts"
-date: 2018-04-11 22:30:00 -1100
+title: "Do Not Read: The Nikola Tesla Puzzle Collection"
+date: 2018-04-11 23:30:00 -1100
 comments: true
 tags: ["book-review"]
 author: "Jeff Handley"
