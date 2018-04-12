@@ -70,7 +70,7 @@ Here are the puzzles I found to be in error:
 3. Page 99 - Value System VII
     * You are supposed to work out the values of different items and figure out the missing sum value for a row of those items
     * Another row exists with the same items in it, revealing the answer without any work
-    * But even with this, the solution *shows the wrong answer*. The answer is 19, but the solution says 26 is the sum. However, it's clear that 19 is the true answer since the individual values add up to 19.
+    * But even with this, the solution **shows the wrong answer**. The answer is 19, but the solution says 26 is the sum. However, it's clear that 19 is the true answer since the individual values add up to 19.
 
 4. Page 113 - Value System VIII
     * The combination of items already exists already on this puzzle too, revealing the answer
@@ -78,7 +78,7 @@ Here are the puzzles I found to be in error:
 
 5. Page 120 - Technical Support
     * This puzzle has a missing clue
-    * It leaves an ambiguous situation where there could be multiple answers
+    * It leaves an ambiguous situation where there could be **multiple answers**
     * There are typos and other printing errors on the puzzle--it is so sloppy that it's clear there was no final proof-reading of the puzzle
 
 6. Page 146 - Power Supply VII
