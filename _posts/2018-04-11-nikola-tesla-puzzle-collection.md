@@ -34,7 +34,7 @@ If the riddles were good, I might excuse the blatant Tesla rip-off. But they're 
 >
 > The "Jefferson" on her left took a syringe and nervously rolled up his sleeve. The one to her right shook his head and backed away.
 >
-> Agend Hardy's gun barked, wounding the left-hand Jefferson in the leg before he even applied the syringe.
+> Agent Hardy's gun barked, wounding the left-hand Jefferson in the leg before he even applied the syringe.
 >
 > "Let's go," she said to the other.
 >
@@ -73,7 +73,7 @@ Here are the puzzles I found to be in error:
     * But even with this, the solution **shows the wrong answer**. The answer is 19, but the solution says 26 is the sum. However, it's clear that 19 is the true answer since the individual values add up to 19.
 
 4. Page 113 - Value System VIII
-    * The combination of items already exists already on this puzzle too, revealing the answer
+    * The combination of items already exists on this puzzle too, revealing the answer
     * The answer is 26, which was the supposed answer for the previous Value System puzzle
 
 5. Page 120 - Technical Support
@@ -87,8 +87,8 @@ Here are the puzzles I found to be in error:
 7. Page 78 - Bagels
     * This was a more of a math riddle than a puzzle
     * The riddle works up to a question of "Does the bagel seller make a profit at all?"
-    * The solution ends up providing two numbers for how much profit is made. "The bagel seller makes a daily profit of $0.78, just enough to buy his next consignment and pocketing a meagre six cents."
-    * The wording of this solution, adding the statement about the meagre six cents is misleading--profit is profit; it does not matter how much the next day's consignment will cost.
+    * The solution reveals two numbers for how much profit is made. "The bagel seller makes a daily profit of $0.78, just enough to buy his next consignment and pocketing a meagre six cents."
+    * The statement about the meagre six cents is misleading--profit is profit; it does not matter how much the next day's consignment will cost.
 
 ## Why Finish the Book
 
