@@ -6,7 +6,7 @@ comments: true
 tags: ["book-review"]
 author: "Jeff Handley"
 ---
-![The Nikola Tesla Puzzle Collection](/img/postimages/2018-04-11-nikola-tesla-puzzle-collection/book-cover.jpg) I enjoy puzzles--especially math and pattern puzzles. I have a collection of various Rubik's Cubes that I learned to solve without referencing any guides. I've worked through several books of Sudoku puzzles along with other math and pattern puzzle books.
+<img src="/img/postimages/2018-04-11-nikola-tesla-puzzle-collection/book-cover.jpg" style="float:left; margin-right: 1em;" alt="The Nikola Tesla Puzzle Collection" /> I enjoy puzzles--especially math and pattern puzzles. I have a collection of various Rubik's Cubes that I learned to solve without referencing any guides. I've worked through several books of Sudoku puzzles along with other math and pattern puzzle books.
 
 I also enjoy learning about Nikola Tesla. I've watched many documentaries and I've read a lot about him. When I saw "The Nikola Tesla Puzzle Collection," I thought for sure it would be a lot of fun. It is labeled as "an electrifying series of challenges, enigmas and puzzles." Perhaps the omission of the Oxford comma should have tipped me off that I would be disappointed.
 
