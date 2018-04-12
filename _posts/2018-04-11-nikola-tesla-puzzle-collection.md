@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Do Not Read: The Nikola Tesla Puzzle Collection"
+title: "Book Review: The Nikola Tesla Puzzle Collection"
 date: 2018-04-11 23:30:00 -1100
 comments: true
 tags: ["book-review"]
