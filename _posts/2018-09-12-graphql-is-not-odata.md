@@ -15,7 +15,6 @@ Not long ago, I saw a tweet from someone making accusations about GraphQL. This 
 Recently, I realized I had gathered most of my thoughts on GraphQL and I felt ready to present them. My irritation distilled down to a single declaration. Without knowing if anyone would take notice, but knowing I was ready to have the conversation should anyone engage, I posted one simple tweet.
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">GraphQL is not OData. Can we please stop casting OData’s flaws onto GraphQL?<br><br>At Microsoft, I used and propagated OData against my own judgment. I’m sorry I couldn’t stop the train wreck.<br><br>At Concur, we successfully employ GraphQL over top of RESTful APIs.<br><br>Feel free to @ me.</p>&mdash; Jeff Handley (@JeffHandley) <a href="https://twitter.com/JeffHandley/status/1034643959434293248?ref_src=twsrc%5Etfw">August 29, 2018</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## Experience with OData
 
@@ -118,7 +117,6 @@ We're feeling great about GraphQL and it has been a huge boost for our UI engine
 My tweet asking if we could "please stop casting OData’s flaws onto GraphQL" indeed was noticed. [Richard Dudley](https://twitter.com/rj_dudley) was the first to respond.
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">We are having the GraphQL vs OData discussion now, would love to hear some of the flaws in OData.</p>&mdash; Richard Dudley (@rj_dudley) <a href="https://twitter.com/rj_dudley/status/1034772996353925121?ref_src=twsrc%5Etfw">August 29, 2018</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 The conversation took off from there. We talked about the flaws of OData, the positives of GraphQL, and the downsides of GraphQL too. We didn't explicitly cover the positives of OData, but some of them were covered in side threads. We'll review all of these angles here.
 
@@ -181,7 +179,6 @@ But I consider most of these to be human problems, not technology problems, and 
 While the intent of the conversation was to dispell myths about GraphQL, many of the positive aspects of OData did come up.
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">It is better than every team choosing their own syntax for filter, expand, select and one team coosing hal another siren and a third json-ld</p>&mdash; Darrel Miller (@darrel_miller) <a href="https://twitter.com/darrel_miller/status/1034980212805525504?ref_src=twsrc%5Etfw">August 30, 2018</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 *I'd like to call out that Howard and Darrel co-authored a book titled [Designing Evolvable Web APIs with ASP.NET](https://www.amazon.com/Designing-Evolvable-Web-APIs-ASP-NET-ebook/dp/B00KB1QGC4/) along with Glenn Block, Pablo Cibraro, and Pedro Felix.*
 
@@ -190,18 +187,15 @@ Darrel makes a good point about OData--it indeed standardized how to deal with s
 Rob Schlotman discussed how his teams successfully use OData.
 
 <blockquote class="twitter-tweet" data-conversation="none" data-lang="en"><p lang="en" dir="ltr">On the non-hate side of things I used it with web api but put an additional api facade layer in front of it to control the surface area of our external api that clients used to avoid losing control.  Gave us a data as svc layer that could scale on its own</p>&mdash; Rob Schlotman (@Schlotman) <a href="https://twitter.com/Schlotman/status/1034958016028794880?ref_src=twsrc%5Etfw">August 30, 2018</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 In his scenario, OData is an internal implementation detail providing a common data access layer. But they can side step it where needed for optimization because the OData endpoint *is not exposed to the clients*.
 
 <blockquote class="twitter-tweet" data-conversation="none" data-lang="en"><p lang="en" dir="ltr">For all simple / moderate gets we used odata .  For complex actions (multi joins etc) we used custom actions with odata as the fall back, and then for unsupported odata things like search we would invoke a stored proc from odata</p>&mdash; Rob Schlotman (@Schlotman) <a href="https://twitter.com/Schlotman/status/1035146635410591747?ref_src=twsrc%5Etfw">August 30, 2018</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
 Hans Olav brought up OData with ASP.NET Web API.
 
 <blockquote class="twitter-tweet" data-conversation="none" data-lang="en"><p lang="en" dir="ltr">I think OData was great in web API. Though this was an OData with severely limited capabilities and I could restrict what functionality I needed. And all features were opt-in! Don&#39;t know GraphQL...</p>&mdash; Hans Olav (@HansOlavS) <a href="https://twitter.com/HansOlavS/status/1035053319901859840?ref_src=twsrc%5Etfw">August 30, 2018</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Indeed, by the time Web API was implementing OData, many lessons had been learned. OData endpoints need to be locked down by default instead of wide open.
 
@@ -216,7 +210,6 @@ But never as a public, internet-facing application. And not when there's notable
 Ken Horn drew a connection to the [Backends For Frontends](https://samnewman.io/patterns/architectural/bff/) (BFF) pattern. I think it's spot-on.
 
 <blockquote class="twitter-tweet" data-conversation="none" data-lang="en"><p lang="en" dir="ltr">Could view it as a logical framework for creating a backend for frontend?</p>&mdash; SomeCallMeKen (@kenhorn) <a href="https://twitter.com/kenhorn/status/1036698789300629506?ref_src=twsrc%5Etfw">September 3, 2018</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 GraphQL really shines when it's implemented as a middle layer between the UI and RESTful APIs. GraphQL is not going to replace REST; it complements it nicely.
 
@@ -227,7 +220,7 @@ Let your API teams build RESTful services that are ignorant of specific UI workf
 Jesse Ezell mentioned that some of the misconceptions about GraphQL come simply from GraphQL's name. Developers who have worked with SQL and OData hear "query language" and hear "SQL." As Nick Schrock, co-creator of GraphQL, replied:
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Naming is hard.</p>&mdash; Nick Schrock (@schrockn) <a href="https://twitter.com/schrockn/status/1034936886677012480?ref_src=twsrc%5Etfw">August 29, 2018</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 I hope that this conversation helps us address the fear, uncertainty, and doubt about GraphQL. And I hope to see fewer people casting OData's flaws onto GraphQL just because OData caused so much pain and on first glance, GraphQL sounds like a reinvention of it. The technologies are worlds apart and they have their owns strengths and weaknesses. But GraphQL most definitely does not allow the client to command the server in a remote-code-execution style.
 
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
