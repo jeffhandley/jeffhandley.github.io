@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "GraphQL is not OData"
-date: 2018-09-12 09:30:00 -0900
+date: 2018-09-13 09:30:00 -0900
 comments: true
 tags: ["graphql", "odata"]
 author: "Jeff Handley"
@@ -153,7 +153,7 @@ We land in a mode where the UI code is dumb. So dumb. It is just using boring fe
 
 Another detail we have found important and highly successful: Our GraphQL layer **is not** implemented or operated by the teams building RESTful services. The UI teams build that layer and Howard's team provides the platform and runs the service.
 
-<img src="/img/postimages/2018-09-12-graphql-is-not-odata/double-pane-windows.jpg" style="float:right; margin-left: 1em;" alt="double-pane windows" />
+<img src="/img/postimages/2018-09-13-graphql-is-not-odata/double-pane-windows.jpg" style="float:right; margin-left: 1em;" alt="double-pane windows" />
 This lets the service teams concentrate on REST and the domain model. GraphQL is an implementation detail of the UI layer--a technology chosen by UI, not services. This has avoided the whole REST vs. GraphQL debate with each of the dozens of service teams building APIs. They get to do their thing the way they want. For all they care, the UI consumes their services directly. We just happen to put a GraphQL server in between. We can centralize the GraphQL implementation into a smaller community of developers where we can foster reuse and commonalities more easily.
 
 Service teams are not burdened with *also* knowing and doing GraphQL. If they had to, they would inevitably look for ways to skip a layer, violating the separation of concerns. I often refer to using GraphQL as a having a double-paned window. UI cannot reach APIs directly; GraphQL is in between as insulation, reducing concerns on both sides. GraphQL helps both the UI and API layers as a result.
