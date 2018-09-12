@@ -8,7 +8,7 @@ author: "Jeff Handley"
 ---
 For a couple years, I've observed scores of developers making claims about GraphQL having shortcomings that were obviously ill-informed. People have claimed that GraphQL allows the client to demand sorting and paging from the server. People have claimed that GraphQL can result in execution of arbitrary queries or joins. People have claimed that GraphQL exposes too much power with not enough server-side control. These claims are false.
 
-For a couple years, we've been using GraphQL with great success at SAP Concur. For a couple years, I've reflected on my past experience with OData and my happiness with GraphQL. For a couple years, I've sat idly by, trying not to jump in and say, "well, actually..."
+For a couple years, we've been using GraphQL with great success at SAP Concur. For a couple years, I've reflected on my past experience with OData and my happiness with GraphQL. For a couple years, I've sat idly by, trying not to jump in and say, ["well, actually..."](https://tirania.org/blog/archive/2011/Feb-17.html)
 
 Not long ago, I saw a tweet from someone making accusations about GraphQL. This tweet was from someone I respect and admire for their frequent display of depth and due diligence. One of the replies on the thread was, "Graphql is a fancy name for odata 😉." I took a deep breath and decided not to engage.
 
