@@ -34,14 +34,14 @@ I had my first experience with OData while working on WCF RIA Services. I starte
 
 WCF RIA Services allowed you to either expose your **domain model** directly to the client or instead create a **view model** that would be exposed. By authoring CRUDE (create, read, update, delete, execute) operations and annotating them, you could easily create an API for your client to consume. But we needed a protocol for serializing requests and responses for those CRUDE operations and the data to go along with them. We ultimately landed on using some WCF primitives.
 
-Before we solidifed our decision that we'd use WCF primitives, our project was just called "RIA Services", where RIA stood for "Rich Internet Application." Using WCF resulted in prepending our project name with WCF and, believe it or not, getting reorged into the WCF group. This was all good though--using WCF was far better than using our proprietary protocol in place in our early preview releases.
+Before we solidifed our decision that we'd use WCF, our project was just called "RIA Services", where RIA stood for "Rich Internet Application." Using WCF resulted in prepending our project name with WCF and, believe it or not, getting reorged into the WCF group. This was all good though--using WCF was far better than using our proprietary protocol developed in our early preview releases.
 
-WCF RIA Services was pretty well engineered. We were promoting a separation of concerns for applications built on our framework, and we ourselves kept our concerns separated. This led to both the server and the client being decoupled from the communication protocol. We were able to swap out that layer independently--largely because Wilco Bauer is amazing. Wilco swapped out our proprietary protocol for WCF in days. And we demonstrated that, as long as the protocols meet our requirements, we could support many protocols in parallel.
+WCF RIA Services was pretty well engineered. We were promoting a separation of concerns for applications built on our framework, and we ourselves kept our concerns separated. This led to both the server and the client being decoupled from the communication protocol. We were able to swap out that layer independently--largely because Wilco Bauer is amazing. Wilco swapped out our proprietary protocol for WCF in days. And we demonstrated that as we could support multiple protocols in parallel.
 
-Along came OData. Microsoft was pushing OData pretty hard for a while. Some really sharp folks invented it and it had a lot of muscle behind it. It became clear that we needed to support OData for WCF RIA Services. After some long debates (that I got to contribute to), we ultimately landed on the decision of:
+Along came OData. Microsoft was pushing OData pretty hard for a while. Some really sharp folks invented it and it had a lot of muscle behind it. It became clear that we needed to support OData for WCF RIA Services. After some long debates, we ultimately landed on the decision of:
 
 * WCF RIA Services would *support* OData as an optional protocol
-* But it would not use OData as the default protocol
+* But it would not use OData by default
 
 We then created the OData protocol library in the WCF RIA Services SDK and made it easy for an application developer to swap out the default protocol for OData.
 
@@ -53,11 +53,11 @@ During a reorg, when ScottGu took leadership over Azure, the ASP.NET group merge
 
 I joined the NuGet team right as NuGet 1.5 was shipping. At that time, it was basically a side project, with everyone on the team also working on other products. NuGet was open source and the client was downloaded through CodePlex and installed as a Visual Studio extension.
 
-NuGet, like every package manager, needs a public package repository. [NuGet.org](https://www.nuget.org) was built by our team, which happened to be the same folks working on ASP.NET MVC, ASP.NET Web Pages, Razor, and a few other products. Can you guess what protocol we were told we _must_ use for the NuGet client to connect to the NuGet Gallery?
+NuGet, like every package manager, needed a public package repository. [NuGet.org](https://www.nuget.org) was built by our team, which happened to be the same folks working on ASP.NET MVC, ASP.NET Web Pages, Razor, and a few other products. Can you guess what protocol we were told we _must_ use for the NuGet client to connect to the NuGet Gallery?
 
 You guessed it: **OData**
 
-I'll save the details for when we get together over beers, but that choice didn't work out very well and the team has been working to change course *for years*. [Howard Dierking](https://www.howarddierking.com/) and I worked together on NuGet and we spent a significant portion of our time working on the problem of how to unwind OData out of the stack.
+I'll save the details for when we get together over beers, but that choice didn't work out very well and the team has been working to change course *for years*. [Howard Dierking](https://www.howarddierking.com/) and I worked together on NuGet and we spent a significant portion of our time figuring out how to unwind OData out of the stack.
 
 Here are some reference blog posts that shed some light on the effort:
 
@@ -65,7 +65,6 @@ Here are some reference blog posts that shed some light on the effort:
 * [The NuGet.org Architecture](https://blog.nuget.org/20140711/nuget-architecture.html)
 * [NuGet.org Server Status](https://blog.nuget.org/20150608/nuget-server-status.html)
 * [Switching from WCF OData to Web API](https://blog.nuget.org/20160216/Switching-from-WCF-OData-to-Web-API.html)
-
 
 ## Experience with GraphQL
 
@@ -85,7 +84,7 @@ Just kidding. 😂
 
 We were using [fetchr](https://github.com/yahoo/fetchr/blob/master/README.md) pretty early on and it was pretty cool. Fetchr gave us a protocol and took care of a lot of plumbing, but it was very CRUD-oriented, which we didn't love. We knew we wanted _something_ to sit between our APIs and our UI that would serve as a façade, but we didn't know what would serve the need. Until GraphQL was announced.
 
-As soon as GraphQL was available, Simon and Howard were all over it. They knew we needed to invest in using GraphQL; they saw the power of transforming the shapes coming out of our APIs into the shapes our UI needs. They appreciated the simplicity of GraphQL's protocol and its explicitness for both the client and the server. Simon and Howard recognized that our group could build the GraphQL layer independently from the groups building the APIs.
+As soon as GraphQL was available, Simon and Howard were all over it. They knew we needed to invest in using GraphQL; they saw the power of transforming the shapes coming out of our APIs into what our UI needs. They appreciated the simplicity of GraphQL's protocol and its explicitness for both the client and the server. Simon and Howard recognized that our group could build the GraphQL layer independently from the groups building the APIs.
 
 When Simon and Howard presented GraphQL to me, I was immediately sold. Within literally 5 minutes, the lightbulbs were going off for me and I was infatuated with GraphQL and ready to use it. We started putting plans in motion so that we could:
 
@@ -102,15 +101,15 @@ We're more than two years into our experience using GraphQL at Concur. Overall, 
 
 When we first adopted GraphQL, it was a bit of an experiment. Simon, Howard, and I were all very optimistic about the prospect, and our teams were excited about the technology, but could it work _at Concur_? Howard created an "Orchestration Service" team that built the GraphQL server and implemented the schema and resolvers to meet the UI teams' needs. They were serving the Web UI teams I work with as well as some of our Mobile teams. Overall, the work was relatively small--small enough that a single team could build it all.
 
-This centralized model enforced the separation of concerns. The Orchestration Service team _was not_ the same team building the APIs, and the Orchestration Service team _was not_ the same team building the UI. They were a middle layer that integrated the UI with the APIs. They policed the GraphQL layer (as best as they could) to ensure it was not coupled to the implementation details of either the APIs and that the underlying APIs were approachable.
+This centralized model enforced the separation of concerns. The Orchestration Service team _was not_ the same team building the APIs, and the Orchestration Service team _was not_ the same team building the UI. They were a middle layer that integrated the UI with the APIs. They policed the GraphQL layer (as best as they could) to ensure it was not coupled to the implementation details of either the APIs or UIs and that the underlying APIs were approachable.
 
 For the first 18 months or so of using GraphQL at Concur, this model worked out. We were making good progress both on product delivery and on breaking apart our monolith. But as the UI teams grew and took on more projects, we started realizing the Orchestration Service team could not keep up. We needed to scale out.
 
-One of the Web UI teams in my group offered to contribute to the (Elixir) code base of Orchestration Service--we could send pull requests to add new schemas and resolvers. That marked the beginning of a decentralized development model. A year later, we are now working on our pivot toward a GraphQL platform where UI engineering teams author resolver packages that get published to the runtime. Howard called this model "Client Data Services" and the team has been aptly renamed.
+One of the Web UI teams in my group offered to contribute to the (Elixir) code base of Orchestration Service--we could send pull requests to add new schemas and resolvers. That marked the beginning of a decentralized development model. A year later, we are now working on our pivot toward a GraphQL platform where UI engineering teams author Node.js resolver packages that get published to the runtime. Howard called it "Client Data Services" and the team has been aptly renamed.
 
 ## Passionate
 
-We're feeling great about GraphQL and it has been a huge boost for our UI engineering teams as well as our API teams. This experience, coupled with my intimate experience with OData, is why I am so passionate about dispelling the myths about GraphQL's likeness to OData. GraphQL is not OData.
+We're feeling great about GraphQL and it has been a huge boost for our UI engineering teams as well as our API teams. This experience, coupled with my intimate experience with OData, is why I am so passionate about dispelling the myths around GraphQL's likeness to OData. GraphQL is not OData.
 
 ## GraphQL is not OData
 
@@ -138,9 +137,9 @@ In many ways, OData queries result in remote code execution by design. My team a
 
 The server implements resolvers that fulfill specific graph queries—the client cannot ask for anything the server does not explicitly handle. The server returns only what the client asked for. No more, no less. No wasted bits over the wire.
 
-APIs sitting behind GraphQL do not need to worry about serving every possible shape clients will want. Web wants more, mobile wants less? APIs don’t care. Clients ask for what they need. APIs return domain models. GraphQL transforms into ViewModels.
+APIs sitting behind GraphQL do not need to worry about serving every possible shape clients will want. Web wants more, mobile wants less? APIs don’t care. Clients ask for what they need. APIs return domain models. GraphQL transforms into View Models.
 
-The GraphQL layer can then specifically optimize queries over the RESTful APIs, minimizing API calls necessary to resolve a query. Yes, it is work to implement each resolved, but the explicitness is so liberating. And your clients have no idea what is happening behind the GraphQL façade. One call from the client could fan out to a dozen APIs (in a good way*).  Orchestration stays out of the UI!
+The GraphQL layer can then specifically optimize queries over the RESTful APIs, minimizing API calls necessary to resolve a query. Yes, it is work to implement each resolver, but the explicitness is so liberating. And your clients have no idea what is happening behind the GraphQL façade. One call from the client could fan out to a dozen APIs (in a good way*).  Orchestration stays out of the UI!
 
 * *Fanning out to a dozen APIs is good because it is still the server doing only what it was specifically built to do.*
 
@@ -184,14 +183,13 @@ While the intent of the conversation was to dispell myths about GraphQL, many of
 
 Darrel makes a good point about OData--it indeed standardized how to deal with several concerns. Paging, sorting, and filtering are a few important aspects. These features always go together because you cannot conduct them independently on different layers. If you perform paging and sorting on one layer, you must also do filtering there too, otherwise your paging will be broken. And when you are building a forms-over-data application with dozens, hundreds, or thousands of CRUD screens, OData can definitely accelerate development.
 
-Rob Schlotman discussed how his teams successfully use OData.
+Rob Schlotman discussed how his team's successful use OData.
 
 <blockquote class="twitter-tweet" data-conversation="none" data-lang="en"><p lang="en" dir="ltr">On the non-hate side of things I used it with web api but put an additional api facade layer in front of it to control the surface area of our external api that clients used to avoid losing control.  Gave us a data as svc layer that could scale on its own</p>&mdash; Rob Schlotman (@Schlotman) <a href="https://twitter.com/Schlotman/status/1034958016028794880?ref_src=twsrc%5Etfw">August 30, 2018</a></blockquote>
 
-In his scenario, OData is an internal implementation detail providing a common data access layer. But they can side step it where needed for optimization because the OData endpoint *is not exposed to the clients*.
+In his scenario, OData is an internal implementation detail providing a common data access layer. But they can side-step it where needed for optimization because the OData endpoint *is not exposed to the clients*.
 
 <blockquote class="twitter-tweet" data-conversation="none" data-lang="en"><p lang="en" dir="ltr">For all simple / moderate gets we used odata .  For complex actions (multi joins etc) we used custom actions with odata as the fall back, and then for unsupported odata things like search we would invoke a stored proc from odata</p>&mdash; Rob Schlotman (@Schlotman) <a href="https://twitter.com/Schlotman/status/1035146635410591747?ref_src=twsrc%5Etfw">August 30, 2018</a></blockquote>
-
 
 Hans Olav brought up OData with ASP.NET Web API.
 
@@ -207,20 +205,20 @@ But never as a public, internet-facing application. And not when there's notable
 
 ## Using GraphQL
 
-Ken Horn drew a connection to the [Backends For Frontends](https://samnewman.io/patterns/architectural/bff/) (BFF) pattern. I think it's spot-on.
+For GraphQL, Ken Horn drew a connection to the [Backends For Frontends](https://samnewman.io/patterns/architectural/bff/) (BFF) pattern. I think it's spot-on.
 
 <blockquote class="twitter-tweet" data-conversation="none" data-lang="en"><p lang="en" dir="ltr">Could view it as a logical framework for creating a backend for frontend?</p>&mdash; SomeCallMeKen (@kenhorn) <a href="https://twitter.com/kenhorn/status/1036698789300629506?ref_src=twsrc%5Etfw">September 3, 2018</a></blockquote>
 
 GraphQL really shines when it's implemented as a middle layer between the UI and RESTful APIs. GraphQL is not going to replace REST; it complements it nicely.
 
-Let your API teams build RESTful services that are ignorant of specific UI workflows--those APIs expose the domain model. Then the UI teams can build GraphQL schemas as resolvers that sit on top of those APIs and serve the View Model, custom-tailored to serve the UI workflows. Your Web/Mobile UIs then connect to GraphQL to get a single endpoint that orchestrates all of the API calls needed to fulfill the scenarios.
+Let your API teams build RESTful services that are ignorant of specific UI workflows--those APIs expose the domain model. Then the UI teams can build GraphQL schemas as resolvers that sit on top of those APIs and serve the custom-tailored View Model for the UI workflows. Your Web/Mobile UIs then connect to GraphQL to get a single endpoint that orchestrates all of the API calls needed to fulfill the scenarios.
 
 ## GraphQL is not OData
 
-Jesse Ezell mentioned that some of the misconceptions about GraphQL come simply from GraphQL's name. Developers who have worked with SQL and OData hear "query language" and hear "SQL." As Nick Schrock, co-creator of GraphQL, replied:
+Jesse Ezell mentioned that some of the misconceptions about GraphQL come simply from GraphQL's name. Developers who have worked with SQL and OData hear "query language" and think "SQL." As Nick Schrock, co-creator of GraphQL, replied:
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Naming is hard.</p>&mdash; Nick Schrock (@schrockn) <a href="https://twitter.com/schrockn/status/1034936886677012480?ref_src=twsrc%5Etfw">August 29, 2018</a></blockquote>
 
-I hope that this conversation helps us address the fear, uncertainty, and doubt about GraphQL. And I hope to see fewer people casting OData's flaws onto GraphQL just because OData caused so much pain and on first glance, GraphQL sounds like a reinvention of it. The technologies are worlds apart and they have their owns strengths and weaknesses. But GraphQL most definitely does not allow the client to command the server in a remote-code-execution style.
+I hope that this conversation helps us address the fear, uncertainty, and doubt about GraphQL. And I hope to see fewer people casting OData's flaws onto GraphQL. While I understand how GraphQL can sound similar to OData on the surface, they are worlds apart.
 
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
