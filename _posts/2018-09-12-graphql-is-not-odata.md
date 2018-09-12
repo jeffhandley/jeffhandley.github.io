@@ -6,11 +6,11 @@ comments: true
 tags: ["graphql", "odata"]
 author: "Jeff Handley"
 ---
-For a couple years, I've observed scores of developers making claims about GraphQL having shortcomings that were obviously ill-informed. People have claimed that GraphQL allows the client to demand sorting and paging from the server. People have claimed that GraphQL can result in execution of arbitrary queries or joins. People have claimed that GraphQL exposes too much power with not enough server-side control. These claims are false.
+For a couple years, I've observed scores of developers making claims about GraphQL having shortcomings that were ill-informed. People have claimed that GraphQL allows the client to demand sorting, paging, and filtering from the server. People have claimed that GraphQL can result in execution of arbitrary queries or joins. People have claimed that GraphQL exposes too much power with not enough server-side control. As I hope to convey through this post, these claims are false.
+
+Not long ago, I saw a tweet from someone making accusations about GraphQL. This tweet was from someone I respect and admire for their frequent display of depth and due diligence, which is why their statement surprised me. One of the replies on the thread was, "Graphql is a fancy name for odata 😉." I took a deep breath and decided not to engage.
 
 For a couple years, we've been using GraphQL with great success at SAP Concur. For a couple years, I've reflected on my past experience with OData and my happiness with GraphQL. For a couple years, I've sat idly by, trying not to jump in and say, ["well, actually..."](https://tirania.org/blog/archive/2011/Feb-17.html)
-
-Not long ago, I saw a tweet from someone making accusations about GraphQL. This tweet was from someone I respect and admire for their frequent display of depth and due diligence. One of the replies on the thread was, "Graphql is a fancy name for odata 😉." I took a deep breath and decided not to engage.
 
 Recently, I realized I had gathered most of my thoughts on GraphQL and I felt ready to present them. My irritation distilled down to a single declaration. Without knowing if anyone would take notice, but knowing I was ready to have the conversation should anyone engage, I posted one simple tweet.
 
@@ -20,25 +20,25 @@ Recently, I realized I had gathered most of my thoughts on GraphQL and I felt re
 
 I spent several years at Microsoft. I contributed to a few projects you might be familiar with:
 
-* Silverlight UI SDK
-* WCF RIA Services
-* .NET Framework
-* Visual Studio
-* ASP.NET Web Pages
-* Razor
-* NuGet and the NuGet Gallery
+* [Silverlight UI SDK](https://docs.microsoft.com/en-us/previous-versions/windows/silverlight/dotnet-windows-silverlight/cc189048(v%3dvs.95))
+* [WCF RIA Services](https://docs.microsoft.com/en-us/previous-versions/windows/silverlight/dotnet-windows-silverlight/mt744327(v=msdn.10))
+* [.NET Framework](https://docs.microsoft.com/en-us/dotnet/api/system.componentmodel.dataannotations?view=netframework-4.0)
+* [Visual Studio](https://msdn.microsoft.com/en-us/library/6ckyxa83.aspx)
+* [ASP.NET Web Pages](https://www.asp.net/web-pages)
+* [Razor](https://docs.microsoft.com/en-us/aspnet/web-pages/overview/getting-started/introducing-razor-syntax-c)
+* [NuGet](https://docs.microsoft.com/en-us/nuget/) and the [NuGet Gallery](https://www.nuget.org/)
 
 ### WCF RIA Services
 
 I had my first experience with OData while working on WCF RIA Services. I started as an SDE II on that project but eventually became the dev manager. WCF RIA Services brought Silverlight and ASP.NET together, allowing you to build Line-of-Business applications with ASP.NET-based domain/business layers and Silverlight-based UIs. This combination made it pretty easy to grow from forms-over-data to business-logic heavy applications, keeping the business logic out of the UI through a clear separation of concerns.
 
-WCF RIA Services allowed you to either expose your **domain model** directly to the client or instead create a **view model** that would be exposed. By authoring CRUDE (create, read, update, delete, execute) operations and annotating them, you could easily create an API for your client to consume. But we needed a protocol for serializing requests and responses for those CRUDE operations and the data to go along with them. We ultimately landed on using some WCF primitives.
+WCF RIA Services allowed you to either expose your **domain model** directly to the client or instead create and expose a **view model** that would be exposed. By authoring CRUDE (create, read, update, delete, execute) operations and annotating them, you could easily create an API for your client to consume. But we needed a protocol for serializing requests and responses for those CRUDE operations and the data to go along with them. We ultimately landed on using some WCF primitives.
 
-Before we solidifed our decision that we'd use WCF, our project was just called "RIA Services", where RIA stood for "Rich Internet Application." Using WCF resulted in prepending our project name with WCF and, believe it or not, getting reorged into the WCF group. This was all good though--using WCF was far better than using our proprietary protocol developed in our early preview releases.
+Before we solidifed our decision that we'd use WCF, our project was just called "RIA Services", where RIA stood for "Rich Internet Application." Using WCF resulted in prepending our project name with WCF and, believe it or not, getting reorged into the WCF group. This was all good though--to use WCF was far better than our proprietary protocol developed in our early preview releases.
 
-WCF RIA Services was pretty well engineered. We were promoting a separation of concerns for applications built on our framework, and we ourselves kept our concerns separated. This led to both the server and the client being decoupled from the communication protocol. We were able to swap out that layer independently--largely because Wilco Bauer is amazing. Wilco swapped out our proprietary protocol for WCF in days. And we demonstrated that as we could support multiple protocols in parallel.
+WCF RIA Services was pretty well engineered. We were promoting a separation of concerns for applications built on our framework, and we ourselves kept our concerns separated. This led to both the server and the client being decoupled from the communication protocol. We were able to swap out that layer independently--largely because [Wilco Bauwer](https://www.linkedin.com/in/wilcob/) is amazing. Wilco swapped out our proprietary protocol for WCF in days. And we demonstrated that as we could support multiple protocols in parallel.
 
-Along came OData. Microsoft was pushing OData pretty hard for a while. Some really sharp folks invented it and it had a lot of muscle behind it. It became clear that we needed to support OData for WCF RIA Services. After some long debates, we ultimately landed on the decision of:
+Along came OData. Microsoft was pushing OData pretty hard for a while. Some really sharp folks in the SQL Server group invented it and it had a lot of muscle behind it. It became clear that we needed to support OData for WCF RIA Services. After some long debates, we ultimately landed on the decision of:
 
 * WCF RIA Services would *support* OData as an optional protocol
 * But it would not use OData by default
@@ -49,7 +49,7 @@ I don't remember the arguments I had against OData during those debates, but I d
 
 ### NuGet
 
-During a reorg, when ScottGu took leadership over Azure, the ASP.NET group merged together with the WCF group. This opened up opportunities for projects like ASP.NET Web API. It also opened up an opportunity for me to expand my scope at Microsoft; I got to work on ASP.NET and NuGet.
+[During a reorg](https://www.zdnet.com/article/microsofts-plan-to-increase-its-focus-on-developers-the-full-internal-memo/), when [ScottGu](https://weblogs.asp.net/scottgu) took on leadership in Azure, the ASP.NET group merged together with the WCF group. This opened up opportunities for projects like ASP.NET Web API. It also opened up an opportunity for me to expand my scope at Microsoft; I got to work on ASP.NET and NuGet.
 
 I joined the NuGet team right as NuGet 1.5 was shipping. At that time, it was basically a side project, with everyone on the team also working on other products. NuGet was open source and the client was downloaded through CodePlex and installed as a Visual Studio extension.
 
@@ -72,7 +72,7 @@ I left Microsoft in 2015 and joined SAP Concur. [Howard had joined Concur](https
 
 Our group was embarking upon a monumental effort of re-engineering our UI. Concur's legacy monolith had been built as a two-tier application with the UI talking to data sources (including databases). We needed to separate concerns, break the UI out of the monolith, start adopting modern UI technologies, and concentrate on building a scalable, user-friendly, accessible, maintainable UI layer.
 
-We pretty quickly selected Node and React as core technologies we'd employ. We also studied the Flux architecture pattern that complemented React's unidirectional data flow. We started using fluxible and flummox, but when redux hit the scene, it took over.
+We pretty quickly selected Node and React as core technologies. We also studied the Flux architecture pattern that complemented React's unidirectional data flow. We started using fluxible and flummox, but when redux hit the scene, it took over.
 
 Concur had already been breaking APIs out into microservices; we were a couple years into that journey when Howard and I joined. So how would we get our UI talking to the dozens of services?
 
@@ -143,6 +143,10 @@ The GraphQL layer can then specifically optimize queries over the RESTful APIs, 
 
 * *Fanning out to a dozen APIs is good because it is still the server doing only what it was specifically built to do.*
 
+[Howard](https://twitter.com/howard_dierking), who authored the [REST Fundamentals](https://www.pluralsight.com/courses/rest-fundamentals) course on PluralSight, adds:
+
+> The same way that REST tamed the openness of the web through the formalization of constraints, GraphQL cleared up many ambiguities in REST by further constraining the uniform interface constraint.
+
 We land in a mode where the UI code is dumb. So dumb. It is just using boring fetch calls and dealing with boring JSON responses that already match the desired shape so no boilerplate deserialization is necessary. And then as the RESTful services change, get combined or divided, it is even more boring because the clients don’t even have to accommodate it. You only update the affected resolvers in GraphQL and the client is completely oblivious. Yawn.
 
 Another detail we have found important and highly successful: Our GraphQL layer IS NOT implemented or operated by the teams building RESTful services. The UI teams build that layer and Howard's team provides the platform and runs the service.
@@ -161,6 +165,10 @@ It is indeed yet another layer of ceremony where every single UI interaction nee
 
 It takes notable calendar time to design the schema thoughtfully such that it will have backwards compatibility as it grows over time. There is no versioning and the schema must be additive only (or with backwards compatible implementation detail changes). *Breaking changes are possible, but you must phase it: add new schema, rollout compensating changes to ALL clients, remove old schema.*
 
+Howard adds:
+
+> I think this is the biggest stumbling block when starting a GraphQL effort - it forces you to think deeply about your data. Many organizations don't realize this going in and are frustrated when the effort doesn't work out or moves slowly.
+
 It is yet another service to run and it is a single point of failure if not run well.
 
 Features like paging and filtering and sorting are not built in and require that you invest in defining your patterns and reusable types.
@@ -171,7 +179,12 @@ It works best when there is a single GraphQL server fulfilling the whole schema.
 
 Coordination between Service teams, GraphQL teams, consuming teams and multiple staging/integration environments can be challenging.
 
-But I consider most of these to be human problems, not technology problems, and I like that trade-off.
+GraphQL, along with other strongly-typed modeling systems, doesn't handle dynamic data very well. Concur supports "Custom Fields" and these features require exposing the normalized model in the schema, with field type information conveyed along the field values.
+
+I consider most of these to be human problems, not technology problems, and I like that trade-off. In the [Gone Mobile 71: Exploring GraphQL] podcast, [Glenn Block](https://twitter.com/gblock) called out two technical scenarios where direct REST consumption could be better than using GraphQL.
+
+1. Consuming cacheable RESTful resources with GET requests is straightforward, but resource caching is harder to accomplish with GraphQL.
+2. RESTful APIs can return data, images, or other formats respecting content-type headers. In GraphQL, this requires specific modeling with images and other formats being returned _within the data_.
 
 ### Positives about OData
 
