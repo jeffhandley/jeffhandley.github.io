@@ -143,7 +143,7 @@ The GraphQL layer can then specifically optimize queries over the RESTful APIs, 
 
 * *Fanning out to a dozen APIs is good because it is still the server doing only what it was specifically built to do.*
 
-[Howard](https://twitter.com/howard_dierking), who authored the [REST Fundamentals](https://www.pluralsight.com/courses/rest-fundamentals) course on PluralSight, adds:
+[Howard](https://twitter.com/howard_dierking), who authored the [REST Fundamentals course on PluralSight](https://www.pluralsight.com/courses/rest-fundamentals), adds:
 
 > The same way that REST tamed the openness of the web through the formalization of constraints, GraphQL cleared up many ambiguities in REST by further constraining the uniform interface constraint.
 
@@ -181,10 +181,7 @@ Coordination between Service teams, GraphQL teams, consuming teams and multiple 
 
 GraphQL, along with other strongly-typed modeling systems, doesn't handle dynamic data very well. Concur supports "Custom Fields" and these features require exposing the normalized model in the schema, with field type information conveyed along the field values.
 
-I consider most of these to be human problems, not technology problems, and I like that trade-off. In the [Gone Mobile 71: Exploring GraphQL] podcast, [Glenn Block](https://twitter.com/gblock) called out two technical scenarios where direct REST consumption could be better than using GraphQL.
-
-1. Consuming cacheable RESTful resources with GET requests is straightforward, but resource caching is harder to accomplish with GraphQL.
-2. RESTful APIs can return data, images, or other formats respecting content-type headers. In GraphQL, this requires specific modeling with images and other formats being returned _within the data_.
+But I consider most of these to be human problems, not technology problems, and I like that trade-off.
 
 ### Positives about OData
 
