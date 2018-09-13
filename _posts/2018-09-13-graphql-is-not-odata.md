@@ -12,7 +12,7 @@ Not long ago, I saw a tweet from someone making accusations about GraphQL. This 
 
 For a couple years, we've been using GraphQL with great success at SAP Concur. For a couple years, I've reflected on my past experience with OData and my happiness with GraphQL. For a couple years, I've sat idly by, trying not to jump in and say, ["well, actually..."](https://tirania.org/blog/archive/2011/Feb-17.html)
 
-Recently, I realized I had gathered most of my thoughts on GraphQL and I felt ready to present them. My irritation distilled down to a single declaration. Without knowing if anyone would take notice, but being ready to have the conversation should anyone engage, I posted one simple tweet.
+Recently, I realized I had gathered most of my thoughts on GraphQL and I felt ready to present them. My irritation distilled down to a single declaration. Without knowing if anyone would take notice, but ready to have the conversation should anyone engage, I posted one simple tweet.
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">GraphQL is not OData. Can we please stop casting OData’s flaws onto GraphQL?<br><br>At Microsoft, I used and propagated OData against my own judgment. I’m sorry I couldn’t stop the train wreck.<br><br>At Concur, we successfully employ GraphQL over top of RESTful APIs.<br><br>Feel free to @ me.</p>&mdash; Jeff Handley (@JeffHandley) <a href="https://twitter.com/JeffHandley/status/1034643959434293248?ref_src=twsrc%5Etfw">August 29, 2018</a></blockquote>
 
@@ -30,9 +30,9 @@ I spent several years at Microsoft. I contributed to a few projects you might be
 
 ### WCF RIA Services
 
-I had my first experience with OData while working on WCF RIA Services. I started as an SDE II on that project but eventually became the dev manager. WCF RIA Services brought Silverlight and ASP.NET together, allowing you to build Line-of-Business applications with ASP.NET-based domain/business layers and Silverlight UIs. This combination made it pretty easy to grow from forms-over-data to business-logic heavy applications, keeping the business logic out of the UI through a clear separation of concerns.
+I had my first experience with OData while working on WCF RIA Services. I started as an SDE II on that project but eventually became the dev manager. WCF RIA Services brought Silverlight and ASP.NET together, allowing you to build Line-of-Business applications with ASP.NET domain/business layers and Silverlight UIs. This combination made it pretty easy to grow forms-over-data apps into business-logic heavy applications, keeping the business logic out of the UI through a clear separation of concerns.
 
-WCF RIA Services allowed you to either expose your **domain model** directly to the client or instead create and expose a **view model**. By authoring CRUDE (create, read, update, delete, execute) operations and annotating them, you could easily create an API for your client to consume. But we needed a protocol for serializing requests and responses for those CRUDE operations and the data to go along with them. We ultimately landed on using some WCF primitives.
+WCF RIA Services allowed you to either expose your **domain model** directly to the client or create and expose a **view model**. By authoring CRUDE (create, read, update, delete, execute) operations and annotating them, you could easily create an API for your client to consume. But we needed a protocol for serializing requests and responses for those CRUDE operations and the data to go along with them. We ultimately landed on using some WCF primitives.
 
 Before we solidifed our decision that we'd use WCF, our project was just called "RIA Services", where RIA stood for "Rich Internet Application." Using WCF resulted in prepending our project name with WCF and, believe it or not, getting reorged into the WCF group. This was all good though--to use WCF was far better than our proprietary protocol developed in our early preview releases.
 
@@ -90,7 +90,7 @@ When Simon and Howard presented GraphQL to me, I was immediately sold. Within li
 
 * Build, deploy, and operate a GraphQL server in Howard's platform group
 * Connect the new Node/React/Redux UI applications built in my group to GraphQL
-* Design GraphQL schemas as resolvers that could be shared across mobile and web
+* Design GraphQL schemas and resolvers that could be shared across mobile and web
 * Connect the GraphQL server to the various microservices needed
 * Even connect GraphQL to some legacy APIs where new APIs didn't yet exist
 * Innovate in the GraphQL layer at a pace independent from both the UI and the APIs
@@ -143,7 +143,7 @@ APIs sitting behind GraphQL do not need to worry about serving every possible sh
 
 The GraphQL layer can then specifically optimize queries over the RESTful APIs, minimizing API calls necessary to resolve a query. Yes, it is work to implement each resolver, but the explicitness is so liberating. And your clients have no idea what is happening behind the GraphQL façade. One call from the client could fan out to a dozen APIs (in a good way*).  Orchestration stays out of the UI!
 
-> Fanning out to a dozen APIs is good because it is still the server doing only what it was specifically built to do.
+> * Fanning out to a dozen APIs is good because it is still the server doing only what it was specifically built to do.
 
 [Howard](https://twitter.com/howard_dierking), who authored the [REST Fundamentals course on PluralSight](https://www.pluralsight.com/courses/rest-fundamentals), adds:
 
@@ -153,10 +153,10 @@ We land in a mode where the UI code is dumb. So dumb. It is just using boring fe
 
 Another detail we have found important and highly successful: Our GraphQL layer **is not** implemented or operated by the teams building RESTful services. The UI teams build that layer and Howard's team provides the platform and runs the service.
 
-<img src="/img/postimages/2018-09-13-graphql-is-not-odata/double-pane-windows.jpg" style="float:right; margin-left: 1em;" alt="double-pane windows" />
 This lets the service teams concentrate on REST and the domain model. GraphQL is an implementation detail of the UI layer--a technology chosen by UI, not services. This has avoided the whole REST vs. GraphQL debate with each of the dozens of service teams building APIs. They get to do their thing the way they want. For all they care, the UI consumes their services directly. We just happen to put a GraphQL server in between. We can centralize the GraphQL implementation into a smaller community of developers where we can foster reuse and commonalities more easily.
 
-Service teams are not burdened with *also* knowing and doing GraphQL. If they had to, they would inevitably look for ways to skip a layer, violating the separation of concerns. I often refer to using GraphQL as a having a double-paned window. UI cannot reach APIs directly; GraphQL is in between as insulation, reducing concerns on both sides. GraphQL helps both the UI and API layers as a result.
+<img src="/img/postimages/2018-09-13-graphql-is-not-odata/double-pane-windows.jpg" style="float:right; margin-left: 1em; width: 350px;" alt="double-pane windows" />
+Service teams are not burdened with *also* knowing and doing GraphQL. If they had to, they would inevitably look for ways to skip a layer, violating the separation of concerns. I often refer to using GraphQL as a having a double-paned window. The UI cannot reach APIs directly; GraphQL is in between as insulation, reducing concerns on both sides. GraphQL helps both the UI and API layers as a result.
 
 ### Downsides of GraphQL
 
@@ -192,7 +192,7 @@ While the intent of the conversation was to dispell myths about GraphQL, many of
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">It is better than every team choosing their own syntax for filter, expand, select and one team coosing hal another siren and a third json-ld</p>&mdash; Darrel Miller (@darrel_miller) <a href="https://twitter.com/darrel_miller/status/1034980212805525504?ref_src=twsrc%5Etfw">August 30, 2018</a></blockquote>
 
-*I'd like to call out that Howard and Darrel co-authored a book titled [Designing Evolvable Web APIs with ASP.NET](https://www.amazon.com/Designing-Evolvable-Web-APIs-ASP-NET-ebook/dp/B00KB1QGC4/) along with Glenn Block, Pablo Cibraro, and Pedro Felix.*
+*I'd like to call out that Howard and Darrel co-authored a book titled [Designing Evolvable Web APIs with ASP.NET](https://www.amazon.com/Designing-Evolvable-Web-APIs-ASP-NET-ebook/dp/B00KB1QGC4/) along with [Glenn Block](https://twitter.com/gblock), [Pablo Cibraro](https://weblogs.asp.net/cibrax), and [Pedro Felix](https://twitter.com/pmhsfelix).*
 
 Darrel makes a good point about OData--it indeed standardized how to deal with several concerns. Paging, sorting, and filtering are a few important aspects. These features always go together because you cannot conduct them independently on different layers. If you perform paging and sorting on one layer, you must also do filtering there too, otherwise your paging will be broken. And when you are building a forms-over-data application with dozens, hundreds, or thousands of CRUD screens, OData can definitely accelerate development.
 
