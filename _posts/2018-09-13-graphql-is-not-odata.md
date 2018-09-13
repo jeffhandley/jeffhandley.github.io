@@ -235,3 +235,7 @@ Jesse Ezell mentioned that some of the misconceptions about GraphQL come simply 
 I hope that this conversation helps us address the fear, uncertainty, and doubt with GraphQL. And I hope to see fewer people casting OData's flaws onto GraphQL. While I understand how GraphQL can sound similar to OData on the surface, they are worlds apart.
 
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+## Thanks
+
+Thank you to [Howard Dierking](https://twitter.com/howard_dierking/) and [Richard Dudley](https://twitter.com/rj_dudley/) for their help on this post.
