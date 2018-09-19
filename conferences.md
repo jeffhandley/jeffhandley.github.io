@@ -6,13 +6,13 @@ subtitle: "I've had the pleasure of presenting at several conferences"
 
 ## [Øredev 2015](http://oredev.org/2015/speakers/jeff-handley)
 
-- [Evolving the nuget.org Architecture](https://vimeo.com/111285814) ([slides](https://www.slideshare.net/jeff-handley/evolving-thenugetorgarchitecture))
-- [Transitioning from OData to JSON-LD](https://vimeo.com/111831403) ([slides](https://www.slideshare.net/jeff-handley/nuget-30-transitioning-from-odata-to-jsonld))
+- [Learning Node After a Career on Microsoft](https://vimeo.com/144799382)
+- [Building Line of Business Apps with Universal React/Node](https://vimeo.com/144986222)
 
 ## [Øredev 2014](http://oredev.org/oredev2014/2014/speakers/jeff-handley.html)
 
-- [Learning Node After a Career on Microsoft](https://vimeo.com/144799382)
-- [Building Line of Business Apps with Universal React/Node](https://vimeo.com/144986222)
+- [Evolving the nuget.org Architecture](https://vimeo.com/111285814) ([slides](https://www.slideshare.net/jeff-handley/evolving-thenugetorgarchitecture))
+- [Transitioning from OData to JSON-LD](https://vimeo.com/111831403) ([slides](https://www.slideshare.net/jeff-handley/nuget-30-transitioning-from-odata-to-jsonld))
 
 ## MonkeySpace 2013
 
