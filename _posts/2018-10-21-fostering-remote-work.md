@@ -10,7 +10,7 @@ When I joined SAP Concur in 2015, I realized I would have an opportunity to grow
 
 Our UI team was small in 2015 but it was already distributed. The first 10 members were from offices in Bellevue, WA; Vienna, VA; Minneapolis, MN; and from homes in New York, Chicago, and San Diego.
 
-Nowadays, our group includes teams in Bellevue and Prague, Czech Republic. We also have team members who work from home in Minnesota; Virginia; and Nova Scotia, Canada. We partner with other teams in California; Texas; Virginia; Maidenhead, UK; Prague; and Frankfurt, Germany. We span 9 time zones. I won't lie, it's a challenge.
+Nowadays, our group includes teams in Bellevue and Prague, Czech Republic. We also have team members who work from home in Oregon; Minnesota; Virginia; and Nova Scotia, Canada. We partner with other teams in California; Texas; Virginia; Maidenhead, UK; Prague; and Frankfurt, Germany. We span 9 time zones. I won't lie, it's a challenge.
 
 ## An Attempt at Microsoft
 While at Microsoft, I got to collaborate with folks across a few cities, but the majority of product teams were in Redmond. The campus is huge and I often had meetings in other buildings. Everyone attended in person despite having [RoundTable devices](https://en.wikipedia.org/wiki/Microsoft_RoundTable) and Skype at our disposal--the shuttles can get you around pretty quickly. I had very few video calls during my 7 years there, and when I did, cameras were usually turned off.

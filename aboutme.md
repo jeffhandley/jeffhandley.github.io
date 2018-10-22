@@ -13,7 +13,7 @@ I've had the pleasure of [speaking at several conferences](conferences) includin
 
 I'm currently Director of UI Engineering at SAP Concur. I work with the teams that deliver our core UI components, our UI infrastructure, our corporate travel booking experience, and the setup experience for our SMB expense and invoice products.
 
-Our group includes teams in Bellevue, WA, USA and Prague, Czech Republic. We also have team members who work from home in Minnesota; Virginia; and Nova Scotia, Canada. We partner with other teams in California; Texas; Virginia; Maidenhead, UK; Prague; and Frankfurt, Germany.
+Our group includes teams in Bellevue, WA, USA and Prague, Czech Republic. We also have team members who work from home in Oregon; Minnesota; Virginia; and Nova Scotia, Canada. We partner with other teams in California; Texas; Virginia; Maidenhead, UK; Prague; and Frankfurt, Germany.
 
 ## Microsoft
 
