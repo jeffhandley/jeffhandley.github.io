@@ -53,9 +53,9 @@ Once we tried [Zoom](https://zoom.us), it was game over. Zoom works for quick on
 Daily standups are a staple within our teams. Some teams span 3 or 4 time zones, which can be a challenge. Every team talks about what times work best for standups, reviews, and sprint planning ceremonies. Teams occassionally rearrange ceremonies to accommodate changes in team members' personal schedules. Not every meeting time is perfect for everyone, but teams have found times that work well enough for them.
 
 ### Meeting Culture
-Our Scrum Masters guide all of our teams to create working agreements. Since most of our teams have at least one remote team member, it's common for those working agreements to include statements about catering to remote members.
-
 <img src="/img/postimages/2018-10-21-fostering-remote-work/standup.jpg" style="float:right; margin-left: 1em; width: 350px;" alt="standup meeting with everyone connected to Zoom" />
+
+Our Scrum Masters guide all of our teams to create working agreements. Since most of our teams have at least one remote team member, it's common for those working agreements to include statements about catering to remote members.
 
 Here are some common practices that we use for our meetings:
 
