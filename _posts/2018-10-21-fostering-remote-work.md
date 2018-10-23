@@ -47,7 +47,9 @@ We briefly tried Lync. It never worked very well on our Macs though, especially 
 
 Appear.in was handy for quick one-on-one chats, but its participant limit was a blocker for further adoption.
 
-Once we tried [Zoom](https://zoom.us), it was game over. Zoom works for quick one-on-one chats, for standups, for recorded demos, and for large team meetings. Zoom rarely has any sort of streaming troubles, it's easy to install, and it works on every device.
+Once we tried [Zoom](https://zoom.us), it was game over. Zoom works for quick one-on-one chats, for standups, for recorded demos, and for large team meetings. Zoom rarely has any sort of streaming troubles, it's easy to install, and it works on every device. Zoom stays out of the way and it works flawlessly darn near 100% of the time.
+
+**We give a lot of credit to Zoom for our group succeeding with remote work. Thank you, [Zoom](https://twitter.com/zoom_us)!**
 
 ### Ceremonies
 <img src="/img/postimages/2018-10-21-fostering-remote-work/standup.jpg" style="float:right; margin-left: 1em; width: 350px;" alt="standup meeting with everyone connected to Zoom" />
@@ -74,5 +76,7 @@ While our meeting culture is a huge part of how we foster remote work, Slack def
 ## Breaking the Seal
 All it takes is one remote team member. Once a team assumes every meeting will have at least one remote attendee, then _becoming that remote attendee_ is frictionless. Need to work from home for the day? No problem. Need to work from home one or two days per week? Not an issue. Need to leave the office for an appointment and work from a Starbucks for a couple hours? That's quite all right. One of our teams recently became fully local, but the habit of catering to remote work was already in place and they've maintained it, allowing each of them to keep working from home on a regular basis.
 
-## Hiring Remote Employees
+## Room to Grow
 There's still one area where our group can improve, and that's with hiring remote employees. We haven't yet gained the confidence to either hire someone as their first remote employer or to hire an entry-level remote employee. I'll chalk this up to fear, uncertainty, and doubt; we'll overcome that eventually.
+
+Our group is happy with our remote work culture overall though. Working hard to include remote employees paved the way for our teams to find the freedom to work from home when needed. Once we were all comfortable working from home occasionally, it then became easier to work across time zones--there's no need to rush to the office in the morning for a 7am call; just take it from home. We are now in a place where our work schedules are flexible and able to accommodate _life_ easily.
