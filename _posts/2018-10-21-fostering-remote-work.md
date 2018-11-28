@@ -53,7 +53,7 @@ Once we tried [Zoom](https://zoom.us), it was game over. Zoom works for quick on
 
 ### Ceremonies
 <img src="/img/postimages/2018-10-21-fostering-remote-work/standup.jpg" style="float:right; margin-left: 1em; width: 350px;" alt="standup meeting with everyone connected to Zoom" />
-Daily standups are a staple within our teams. Some teams span 3 or 4 time zones, which can be a challenge. Every team talks about what times work best for standups, reviews, and sprint planning ceremonies. Teams occassionally rearrange ceremonies to accommodate changes in team members' personal schedules. Not every meeting time is perfect for everyone, but teams have found times that work well enough for them.
+Daily standups are a staple within our teams. Some teams span 3 or 4 time zones, which can be a challenge. Every team talks about what times work best for standups, reviews, and sprint planning ceremonies. Teams occasionally rearrange ceremonies to accommodate changes in team members' personal schedules. Not every meeting time is perfect for everyone, but teams have found times that work well enough for them.
 
 ### Meeting Culture
 Our Scrum Masters guide all of our teams to create working agreements. Since most of our teams have at least one remote team member, it's common for those working agreements to include statements about catering to remote members.
@@ -68,7 +68,7 @@ Here are some common practices that we use for our meetings:
 * **Always turn on your camera!**
 * Try to face the camera even when you're talking to someone else in the same physical room as you
 
-We follow these practices so religiously that even on the rare occassion when everyone is in the same room for standup, we find ourselves on Zoom anyway. As a result, we often don't even connect the room's TV because everyone in the room has their own laptop connected. This makes it easier to share your screen during any meeting because everyone is ready for it.
+We follow these practices so religiously that even on the rare occasion when everyone is in the same room for standup, we find ourselves on Zoom anyway. As a result, we often don't even connect the room's TV because everyone in the room has their own laptop connected. This makes it easier to share your screen during any meeting because everyone is ready for it.
 
 ### Slack
 While our meeting culture is a huge part of how we foster remote work, Slack definitely plays a part too. Every team has a private team channel as well as a public team channel. The private team channel is used heavily for design decisions, logistics discussions, and more. The public channel is where partner teams engage. The pairing of private and public channels maintains a good signal-to-noise ratio for partner teams while removing any hesitation a team member might have in starting a team conversation in Slack.
