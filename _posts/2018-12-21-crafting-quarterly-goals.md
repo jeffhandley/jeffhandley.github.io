@@ -3,7 +3,7 @@ layout: post
 title: "Crafting Quarterly Goals"
 date: 2018-12-21 13:15:00 -0800
 comments: true
-tags: [culture", "goals"]
+tags: [culture", "goals", "management"]
 author: "Jeff Handley"
 ---
 Like many companies, SAP Concur has moved away from annual goals and reviews. In 2018, we transitioned to a quarterly goal cadence and we now conduct quarterly "SAP Talk" sessions. An SAP Talk is less like a formal review and more like a "super one-on-one" where we review the goals captured for the quarter, summarize what went well and what could have gone better, and this naturally segues into goals for the next quarter.
