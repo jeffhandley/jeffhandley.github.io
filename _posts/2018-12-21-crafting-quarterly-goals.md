@@ -8,7 +8,7 @@ author: "Jeff Handley"
 ---
 Like many companies, SAP Concur has moved away from annual goals and reviews. In 2018, we transitioned to a quarterly goal cadence and we now conduct quarterly "SAP Talk" sessions. An SAP Talk is less like a formal review and more like a "super one-on-one" where we review the goals captured for the quarter, summarize what went well and what could have gone better, and this naturally segues into goals for the next quarter.
 
-At the beginning of 2018, I worked with the managers in my group to define a structure for how we'd go about crafting goals. We aligned to the quarters of the calendar year: Q1, Q2, Q3, and Q4. Q1 includes January, February, and March; Q2 includes April, May, and June; Q3 includes July, August, and September; Q4 includes October, November and December. After a year of our 25-person group using this structure, we've been really happy with the results.
+At the beginning of 2018, I worked with the managers in my group to define a structure for how we'd go about crafting goals centered around personal growth. We aligned to the quarters of the calendar year: Q1, Q2, Q3, and Q4. Q1 includes January, February, and March; Q2 includes April, May, and June; Q3 includes July, August, and September; Q4 includes October, November and December. After a year of our 25-person group using this structure, we've been really happy with the results.
 
 Below is the guidance we have documented for the group. I've talked about this approach with some of my friends and colleagues, but I wanted to share the approach more broadly.
 
