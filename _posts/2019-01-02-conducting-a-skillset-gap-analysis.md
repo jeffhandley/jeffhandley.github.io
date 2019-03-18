@@ -20,8 +20,9 @@ When conducting a skillset gap analysis, you start by assessing your current ski
 
 Your list of skillsets will need to be ordered by current strength; there are a couple common techniques for arriving at that output.
 
-Draw a pie chart of your skillsets, where the size of each slice is defined by its relative strength
-Write the skillsets down in an ordered list, ordering them for relative strength
+1. Draw a pie chart of your skillsets, where the size of each slice is defined by its relative strength.
+1. Write the skillsets down in an ordered list, ordering them for relative strength.
+
 With either technique, you are ranking the skillsets relative to one another. During the current skillset assessment, you are not ranking them based on how much room for growth there is; that will come later.
 
 ## Desired Skillsets
