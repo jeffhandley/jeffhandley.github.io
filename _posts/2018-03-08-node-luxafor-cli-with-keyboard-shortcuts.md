@@ -61,7 +61,7 @@ Here are the steps to create the Automator Services for Luxafor-Red and Luxafor-
 <ol>
 <li>git clone git@github.com:jeffhandley/node-luxafor-cli.git</li>
 <li>Open Automator.app</li>
-<li>Choose "Service" as the type of document</li>
+<li>Choose "Quick Action" as the type of document</li>
 <li>Select that the "Service receives: <no input=""> in <any application="">"</any></no></li>
 <li>Select "Run Shell Script" from the actions library and drag it into the surface</li>
 <li>Ensure an appropriate Shell is selected</li>
