@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Remote-Friendly Culture Indicators"
-date: 2019-12-24 13:50:00 -0800
+date: 2019-12-24 14:10:00 -0800
 comments: true
 tags: ["remote", "culture", "geo-distributed teams"]
 author: "Jeff Handley"
