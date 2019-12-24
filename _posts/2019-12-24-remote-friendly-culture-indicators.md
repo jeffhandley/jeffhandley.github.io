@@ -8,7 +8,7 @@ author: "Jeff Handley"
 ---
 I've talked about [fostering remote work](/2018-10-21/fostering-remote-work) and how during my time at SAP Concur, we succeeded in building a remote-friendly culture for our UI Engineering group. Over time, I identified several indicators that helped me measure that success. If you are trying to assess your group's progress, or if you are evaluating a potential employer as a remote engineer, these traits might help you identify if a culture is truly remote-friendly.
 
-## Remote-Friendly Culture Indicators
+## Traits to Assess
 
 With each of these topics, there are questions you can ask to get a feel for the group's ability to host remote team members. Comprehensive success doesn't happen overnight, so you should expect to find strengths and weaknesses with these areas, regardless of how long a company has fostered remote work.
 
