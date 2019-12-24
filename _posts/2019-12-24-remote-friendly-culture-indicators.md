@@ -32,9 +32,9 @@ Most medium and large companies have multiple offices, sometimes spanning the gl
 
 > **"Which of your offices have engineering teams?"**
 
-If a company does have engineers based out of multiple offices, then they could be well on their way to being remote-friendly. There's not much difference between working with engineers in a remote office and engineers working from home.
+If a company does have engineers based out of multiple offices, then they could be well on their way to having a remote-friendly culture. There's not much difference between working with engineers in a remote office and engineers working from home.
 
-> **"How many time zones do your engineering offices span?> **"
+> **"How many time zones do your engineering offices span?"**
 
 The more time zones the engineering offices span, the better. If all of the engineering offices are on the west coast of the US, then it's unlikely they've learned how to collaborate with someone 3, 4, or 8 time zones ahead of them.
 
