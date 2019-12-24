@@ -40,13 +40,13 @@ The more time zones the engineering offices span, the better. If all of the engi
 
 ### If there are remote engineers at all levels
 
-As I explained in [Remote for the 'Right' Candidate](/2019-12-24/remote-for-the-right-candidate), companies can't just jump into hiring remote engineers and be successful. It takes time and investment to reach the point of being able to have engineers of all levels succeed remotely.
+As I explained in [Remote for the 'Right' Candidate](/2019-12-24/remote-for-the-right-candidate), companies can't just jump into hiring remote engineers and expect to be successful with it. It takes time and investment to reach the point of being able to have engineers of all levels succeed remotely.
 
 Many companies will start out with only allowing senior-level (or above) candidates with special skillsets and experiences to work remotely. Often, employees will need to have worked from home at a previous employer, or have worked from a local office at the company before becoming remote.
 
 > **Have there been remote engineers succeeding at all levels?**
 
-If a company has successfully integrated a remote junior engineer into a team and there are also successful senior-level engineers who work remotely, that's a good indicator that the group has learned what it takes to support remote engineers
+If a company has successfully integrated a remote junior engineer into a team, and there are also successful senior-level engineers who work remotely, that's a good indicator that the group has learned what it takes to support remote engineers.
 
 Only having junior engineers who are remote is not enough; nor is only having senior engineers. Junior engineers might be able to get their job done but not excel and earn promotions. Exclusively having senior engineers who are remote leaves out the experience of helping junior engineers grow while working remotely.
 
@@ -60,9 +60,9 @@ Any company that is serious about supporting remote engineers better be masters 
 
 Folks in the group should be able to talk about the tools they've tried, which ones have worked better than others, and how they get the most out of the tools they're using.
 
-> **What pro-tips do you have for the teleconferencing software you use?**
+> **What pro-tips do you have for your teleconferencing tools?**
 
-Hope the answer includes that everyone in the office needs to turn the camera on. Hope the answer includes a list of features the tools offer that make a big difference. Hope the answer includes stories of frustrations experienced while honing the skills of using these tools. The more specific these battle stories are, the better. Watch out for superficial answers and look for ways employees talk with one another to continuously refine their practices.
+Hope the answer includes that everyone _in the office_ needs to turn the camera on. Hope the answer includes a list of features the tools offer that make a big difference. Hope the answer includes stories of frustrations experienced while honing the skills of using these tools. The more specific these battle stories are, the better. Watch out for superficial answers and look for ways employees talk with one another to continuously refine their practices.
 
 ### If there are any remote managers
 
