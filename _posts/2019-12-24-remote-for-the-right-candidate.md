@@ -70,11 +70,11 @@ So if you see “remote for the right candidate,” I hope you’ll see that as 
 
 There are several traits of our group's culture that told me we had succeeded in building a remote-friendly culture. When looking for a remote-friendly employer, you might be able to ask questions to assess if their culture has gotten to this point as well.
 
-1. If there are geo-distributed engineering offices (not just sales offices)
 1. What local folks do when they need to work from home
-1. If there are remote engineers at all levels
+1. If there are geo-distributed engineering offices (not just sales offices)
 1. What pro-tips they have for using their teleconferencing tools
-1. If there are any remote managers
+1. If there are remote engineers at all levels
 1. How necessary it is for remote engineers to visit offices
+1. If there are any remote managers
 
 And of course, job openings declaring "remote for the right candidate" is also a tell. That phrase means that the company isn't truly remote-friendly yet. They might be embarking upon the journey, or they might just be trying to save face--the only way to know is to ask where they are on the road to geo-distribution and how you might be able to help.
