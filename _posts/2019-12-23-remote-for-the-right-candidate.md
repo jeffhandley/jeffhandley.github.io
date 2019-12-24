@@ -10,6 +10,8 @@ I'm a big proponent of remote work and geo-distributed teams. During my 4.5 year
 
 I previously wrote about [fostering remote work](/2018-10-21/fostering-remote-work), where I detailed my own journey into a remote-friendly culture. In that post, I described some tips we learned at Concur that I wanted to share. The post fell short of describing how we transformed our culture to get to that point though, instead mostly highlighting the tools we used.
 
+While I no longer work at SAP Concur (I returned to Microsoft in December 2019), I will always be proud of what the UI Engineering group at SAP Concur accomplished with regard to becoming remote-friendly.
+
 ## Searching for Remote-Friendly Job Openings
 
 I recently saw a [tweet criticizing a job opening](https://twitter.com/daveaglick/status/1208515621618671618) where the employer stated that they were hiring local, or "remote for the right candidate." That phrase can understandably invoke some doubt or frustration with the potential employer.
@@ -29,7 +31,7 @@ When I saw Dave Glick's tweet, I realized that I had not told the story of how w
 
 This story captures my experience at SAP Concur where I joined to help build out a UI Engineering group. Over 4.5 years, we went from having a very small team focused in Bellevue, WA to having a group of over 60 engineers across many teams all contributing to our UI Engineering efforts. We had teams in offices in Bellevue, WA; Prague, CZ; Palo Alto, CA; Vancouver, BC; and people working from home in Virginia; New York; Minnesota; Texas; California; Iowa; Washington; Colorado; Arizona; Wisconsin; Maryland; Ontario; and Nova Scotia.
 
-## Our Journey at SAP Concur
+## My Journey at SAP Concur
 
 The twitter thread started from Dave Glick's tweet about the phase "remote for the right candidate."
 
