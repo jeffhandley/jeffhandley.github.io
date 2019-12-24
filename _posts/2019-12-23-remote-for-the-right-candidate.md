@@ -14,7 +14,7 @@ While I no longer work at SAP Concur (I returned to Microsoft in December 2019),
 
 ## Searching for Remote-Friendly Job Openings
 
-I recently saw a [tweet criticizing a job opening](https://twitter.com/daveaglick/status/1208515621618671618) where the employer stated that they were hiring local, or "remote for the right candidate." That phrase can understandably invoke some doubt or frustration with the potential employer.
+I recently saw a [tweet criticizing a job opening](https://twitter.com/daveaglick/status/1208515621618671618) where the employer stated that they were hiring local, or "remote for the right candidate." That phrase can understandably evoke some doubt or frustration.
 
 * I'm remote; would _I_ be the right candidate?
 * Why do _some_ people get preferential treatment to be able to work from home?
