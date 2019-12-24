@@ -11,7 +11,7 @@ I've had the pleasure of [speaking at several conferences](conferences) includin
 
 ## Microsoft (2019-present)
 
-I'm an Engineering Manager on the .NET Libraries team. We build the lowest level managed code that all other code is built on. I rejoined Microsoft in December 2019.
+I'm an Engineering Manager on the .NET Libraries team. We build the lowest level managed code that all other .NET code is built on. I rejoined Microsoft in December 2019.
 
 ## SAP Concur (2015-2019)
 
