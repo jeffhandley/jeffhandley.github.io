@@ -18,7 +18,7 @@ I believe the most informative indicator of a remote-friendly culture is actuall
 
 In my group at SAP Concur, if I was feeling a little under the weather (but not sick enough to take the day off work), or if I had a midday appointment, or my day started with meetings at 6:00am, or there was any other reason why working from home would be beneficial, **I just worked from home**.
 
-There was no fanfare--I wouldn't send a Slack message to the team to announce that I was working from home, let alone an email! I wouldn't reschedule any of my meetings. I wouldn't change my day's to-do list. **I just worked from home**.
+There was no fanfare--I wouldn't send a Slack message to announce that I was working from home, let alone an email! I wouldn't reschedule any of my meetings. I wouldn't change my day's to-do list. **I just worked from home**.
 
 There was no disturbance for how I joined meetings--I joined every single meeting through Zoom because every single meeting had a Zoom link and every meeting organizer knew to connect to Zoom before the meeting started. I didn't need to ask folks for special treatment. **I just worked from home**.
 
