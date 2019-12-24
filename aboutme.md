@@ -3,7 +3,7 @@ layout: page
 title: About Me
 ---
 
-My name is Jeff Handley. I've been creating software for over 20 years. I have passion for implementing large applications and frameworks that provide end-user productivity and delight.
+My name is Jeff Handley. I've been creating software for over 20 years. I have passion for leading geo-distributed teams to build frameworks and applications that provide end-user productivity and delight.
 
 By focusing on intuitive, composable, and extensible frameworks, the teams I've worked with have a proven ability to deliver short-term developer productivity and long-term maintainability for web applications ranging from 10 screens to over 1000. I've been recognized as a compassionate people manager with an unparalleled sense of ownership in products and user experiences. These traits have helped me lead many teams through successful releases.
 
