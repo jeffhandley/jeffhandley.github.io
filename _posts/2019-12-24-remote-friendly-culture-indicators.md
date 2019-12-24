@@ -22,7 +22,7 @@ There was no fanfare--I wouldn't send a Slack message to announce that I was wor
 
 There was no disturbance for how I joined meetings--I joined every single meeting through Zoom because every single meeting had a Zoom link and every meeting organizer knew to connect to Zoom before the meeting started. I didn't need to ask folks for special treatment. **I just worked from home**.
 
-**"What do local folks do if they need to work from home some days?"**
+> **"What do local folks do if they need to work from home some days?"**
 
 If the answer includes, "send a message to the team," or anything else to that effect, then the culture still has room to grow. If the answer is along the lines of, "Uh, they just work from home," then the group is likely very mature in their remote-friendly culture. Be sure to drill in for specifics though to make sure that any day's responsibilities can be completed from home just as easily as from the office.
 
@@ -30,11 +30,11 @@ If the answer includes, "send a message to the team," or anything else to that e
 
 Most medium and large companies have multiple offices, sometimes spanning the globe. But be careful about assuming that there are _engineers_ outside of the headquarters. A lot of companies tout their global presence despite centralized engineering. It's common to find only sales or support teams are spread around.
 
-**"Which of your offices have engineering teams?"**
+> **"Which of your offices have engineering teams?"**
 
 If a company does have engineers based out of multiple offices, then they could be well on their way to being remote-friendly. There's not much difference between working with engineers in a remote office and engineers working from home.
 
-**"How many time zones do your engineering offices span?**"
+> **"How many time zones do your engineering offices span?> **"
 
 The more time zones the engineering offices span, the better. If all of the engineering offices are on the west coast of the US, then it's unlikely they've learned how to collaborate with someone 3, 4, or 8 time zones ahead of them.
 
@@ -44,13 +44,13 @@ As I explained in [Remote for the 'Right' Candidate](/2019-12-24/remote-for-the-
 
 Many companies will start out with only allowing senior-level (or above) candidates with special skillsets and experiences to work remotely. Often, employees will need to have worked from home at a previous employer, or have worked from a local office at the company before becoming remote.
 
-**"Have there been remote engineers succeeding at all levels?"**
+> **"Have there been remote engineers succeeding at all levels?"**
 
 If a company has successfully integrated a remote junior engineer into a team and there are also successful senior-level engineers who work remotely, that's a good indicator that the group has learned what it takes to support remote engineers
 
 Only having junior engineers who are remote is not enough; nor is only having senior engineers. Junior engineers might be able to get their job done but not excel and earn promotions. Exclusively having senior engineers who are remote leaves out the experience of helping junior engineers grow while working remotely.
 
-**"Have you been able to promote remote engineers?"**
+> **"Have you been able to promote remote engineers?"**
 
 Hiring engineers at all levels is one thing, but promoting them is another. Perhaps the company can support an engineer at their current level, but they haven't yet learned how to help those engineers take on challenges beyond their level. It's hard to earn a promotion if folks beyond your immediate team don't know who you are or what your contributions have been. When remote folks earn promotions, that indicates a great level of remote-friendly maturity and a company's ability to integrate remote team members into broader collaborations.
 
@@ -60,7 +60,7 @@ Any company that is serious about supporting remote engineers better be masters 
 
 Folks in the group should be able to talk about the tools they've tried, which ones have worked better than others, and how they get the most out of the tools they're using.
 
-**"What pro-tips do you have for the teleconferencing software you use?"**
+> **"What pro-tips do you have for the teleconferencing software you use?"**
 
 Hope the answer includes that everyone in the office needs to turn the camera on. Hope the answer includes a list of features the tools offer that make a big difference. Hope the answer includes stories of frustrations experienced while honing the skills of using these tools. The more specific these battle stories are, the better. Watch out for superficial answers and look for ways employees talk with one another to continuously refine their practices.
 
@@ -70,7 +70,7 @@ Managers have responsibilities that can be difficult to accomplish remotely. The
 
 Fulfilling these responsibilities can be challenging even while working in the office. Succeeding on these duties while remote is proof that the company's culture supports remote leaders--not just remote engineers.
 
-**"Are there any engineering managers that work from home?"**
+> **"Are there any engineering managers that work from home?"**
 
 At SAP Concur, we broke the seal of remote management by promoting remote senior engineers into management. These folks had been at the company a long time, had started in non-headquarters offices before starting to work from home, and were prepared to endure our growing pains. They paved the way for us to support promoting other remote engineers into management and retaining managers who relocated away from our offices and began working from home.
 
@@ -84,7 +84,7 @@ Let's not beat around the bush--bringing remote employees into the office is a h
 
 It's common for folks to ask, "How often would I be able to visit the office?" The spirit of this inquiry makes sense on the surface, but in a strong remote-friendly culture, the question should really be turned back on itself.
 
-**"How often would I need to visit the office?"**
+> **"How often would I need to visit the office?"**
 
 The better a company is at fostering remote work, the less often remote engineers should need to visit the office. Team morale events are important and occassionally planning/strategy meetings are best conducted in-person, that's for sure. However, day-to-day or even month-to-month job responsibilities should not necessitate office visits.
 
