@@ -8,17 +8,15 @@ author: "Jeff Handley"
 ---
 I've been focusing on leading geo-distributed teams for the last several years. I believe the software industry will keep moving in that direction and I want to be as close to the leading edge of that shift as possible. My primary motivation is to ensure that my teams are well prepared to succeed in the geo-distributed engineering culture. Due to COVID-19, there are more of us working from home than ever before and people are eagerly helping others acclimate.
 
-## Experience at SAP Concur
-
 During my time at SAP Concur, I worked in a very distributed engineering group and I previosly wrote about [fostering remote work](https://jeffhandley.com/2018-10-21/fostering-remote-work) there. As my role expanded from leading a team to leading a group of 10 teams, I needed to alter my efforts to match the group's needs. I had a few engineering managers in my group that worked from other offices or from home; I consciously invested in helping them succeed and grow their careers while being remote. I wanted to push the envelope and determine what parts of my job I could do from home and what still required me to be in the office so that I could try to shift the culture where needed.
 
 ## Setting up a Home Office
 
-Right away, I discovered that it's critical to have a space in the house that is dedicated to being my home office. We don't have such a room in our home; we have a den but it's a multi-purpose room for our household. I couldn't take over the whole room from either a _stuff_ perspective, or from a _usage_ perspective. When I'm working from home, I'm usually the only one in the room, but my family needs to be in and out of the room many times per day--we arranged the furniture so that would be OK. My camera is positioned so I can have meetings at any time and not subject other attendees to movement in my background (which can immediately disrupt the comfort of a one-on-one meeting).
-
 <img src="/img/postimages/2020-03-23-managing-a-team-from-home/home-office-desk-back.jpg" style="float:right; margin-left: 1em; width: 350px;" alt="My desk is situated in the corner of the room" />
 
-<img src="/img/postimages/2020-03-23-managing-a-team-from-home/home-office-desk-front.jpg" style="float:right; margin-left: 1em; width: 200px;" alt="I keep my desk tidy and free of distractions" />
+Right away, I discovered that it's critical to have a space in the house that is dedicated to being my home office. We don't have such a room in our home; we have a den but it's a multi-purpose room for our household. I couldn't take over the whole room from either a _stuff_ perspective, or from a _usage_ perspective. When I'm working from home, I'm usually the only one in the room, but my family needs to be in and out of the room many times per day--we arranged the furniture so that would be OK. My camera is positioned so I can have meetings at any time and not subject other attendees to movement in my background (which can immediately disrupt the comfort of a one-on-one meeting).
+
+<img src="/img/postimages/2020-03-23-managing-a-team-from-home/home-office-desk-front.jpg" style="float:right; margin-left: 1em; width: 350px;" alt="I keep my desk tidy and free of distractions" />
 
 My desk is situated in the corner of the room so that my family can come into the room, grab school supplies, books, printouts, or anything else from the room that they need. My wife also has a desk in the room and she can work in the room while I'm in a meeting. The acoustic/privacy panel on my desk helps keep us from distracting one another. I keep my desk tidy and free of distractions.
 
