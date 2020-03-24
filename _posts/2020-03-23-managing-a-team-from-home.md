@@ -16,9 +16,9 @@ During my time at SAP Concur, I worked in a very distributed engineering group a
 
 Right away, I discovered that it's critical to have a space in the house that is dedicated to being my home office. We don't have such a room in our home; we have a den but it's a multi-purpose room for our household. I couldn't take over the whole room from either a _stuff_ perspective, or from a _usage_ perspective. When I'm working from home, I'm usually the only one in the room, but my family needs to be in and out of the room many times per day--we arranged the furniture so that would be OK. My camera is positioned so I can have meetings at any time and not subject other attendees to movement in my background (which can immediately disrupt the comfort of a one-on-one meeting).
 
-<img src="/img/postimages/2020-03-23-managing-a-team-from-home/home-office-desk-front.jpg" style="float:right; margin-left: 1em; width: 350px;" alt="I keep my desk tidy and free of distractions" />
-
 My desk is situated in the corner of the room so that my family can come into the room, grab school supplies, books, printouts, or anything else from the room that they need. My wife also has a desk in the room and she can work in the room while I'm in a meeting. The acoustic/privacy panel on my desk helps keep us from distracting one another. I keep my desk tidy and free of distractions.
+
+<img src="/img/postimages/2020-03-23-managing-a-team-from-home/home-office-desk-front.jpg" style="float:right; margin-left: 1em; width: 350px;" alt="I keep my desk tidy and free of distractions" />
 
 I also use a [Luxafor Flag](https://luxafor.com/flag-usb-busylight-availability-indicator/) light on my monitor that I keep either green (available) or red (on a call) so that my family members know whether or not I can be disturbed by simply cracking the door open and peeking in. This isn't anywhere as fancy as [what others have set up](https://www.hanselman.com/blog/IsDaddyOnACallABusyLightPresenceIndicatorForLyncForMyHomeOffice.aspx), but it does the job nicely. I actually use a Luxafor Flag at the office for the same purpose.
 
