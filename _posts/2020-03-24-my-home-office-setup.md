@@ -10,12 +10,12 @@ At the end of 2018, I decided to invest in setting up a home office so that I co
 
 While I wanted to identify the pain points, I also wanted to set myself up for success. I was not trying to find pain points related to equipment, setup, or anything like that--I was trying to find which _job duties_ required me to be in the office. To accomplish this, I invested time, energy, and money into my home office setup.
 
-## Equipment List
+## Equipment
 
 When I embarked upon this investment, I was starting from scratch. I had a corner of a room that I would be claiming, but I didn't have a desk or any equipment. I needed to be able to dock my work laptop and have a comfortable, ergonomic setup. The clean slate was simultaneously liberating and overwhelming. I had several tough decisions to make. Here's the list of equipment I ended up with--more than a year later, I'm still very happy with the setup--only my headphones situation has changed.
 
 1. Desk from **[Uplift Desk](https://www.upliftdesk.com/) - $1,102**
-    * 48"x30"x1" [bamboo desktop](https://www.upliftdesk.com/1-thick-bamboo-desktops-by-uplift-desk/) with curved ergonomic edge and 2 power grommits
+    * [Bamboo curved-edge desktop](https://www.upliftdesk.com/1-thick-bamboo-desktops-by-uplift-desk/) (48"x30"x1") with 2 power grommits
     * [Height-adjustable standing desk frame](https://www.upliftdesk.com/uplift-v2-standing-desk-frame/)
     * [Casters](https://www.upliftdesk.com/desk-casters-by-uplift-desk/)
     * [Advanced 1-touch digital memory keypad](https://www.upliftdesk.com/advanced-keypad-by-uplift-desk/)
@@ -26,7 +26,7 @@ When I embarked upon this investment, I was starting from scratch. I had a corne
     * [Advanced wire management kit](https://www.upliftdesk.com/advanced-wire-management-kit-by-uplift-desk/)
     * [Magnetic cable organizing channel](https://www.upliftdesk.com/magnetic-cable-organizing-channel-by-uplift-desk/)
     * [Acoustic privacy panel](https://www.upliftdesk.com/acoustic-privacy-panels-for-desks-by-uplift-desk/)
-1. USB Hub from Uplift Desk- **$0**
+1. USB Hub from Uplift Desk - **$0**
     * 4-port powered USB hub - was a free gift with the desk order
 1. Monitor from LG - **$549**
     * [UltraWide 34" 21:9 monitor - 34UM88-P](https://www.lg.com/us/monitors/lg-34UM88-P-ultrawide-monitor)
@@ -41,11 +41,11 @@ When I embarked upon this investment, I was starting from scratch. I had a corne
 1. Availability indicator light from [Luxafor](https://luxafor.com/) - **$37**
     * [Luxafor Flag](https://luxafor.com/flag-usb-busylight-availability-indicator/)
 1. Cables - **$50**
-    * Thunderbolt cables
-    * DVI cable
-    * USB uplink cable
+    * Thunderbolt
+    * DisplayPort
+    * USB uplink
 
-All told, I spent **$2,123** on this equipment. I also spent $64 on paint from Sherwin Williams ([Web Gray](https://www.sherwin-williams.com/homeowners/color/find-and-explore-colors/paint-colors-by-family/SW7075-web-gray)), which gave the room a relaxing ambiance and provided a great background to have behind me on camera. Including the paint, I invested **$2,187** into my home office.
+All told, I spent $2,123 on this equipment. I also spent $64 on paint from Sherwin Williams ([Web Gray](https://www.sherwin-williams.com/homeowners/color/find-and-explore-colors/paint-colors-by-family/SW7075-web-gray)), which gave the room a relaxing ambiance and provided a great background to have behind me on camera. Including the paint, **I invested $2,187 into my home office.**
 
 ## Desk
 
