@@ -8,6 +8,8 @@ author: "Jeff Handley"
 ---
 I’d like to tell a story about my White Privilege. It’s one that helped me land my first office job, which contributed to starting my career while I was still in high school.
 
+_I first [shared this story on Twitter](https://twitter.com/JeffHandley/status/1272014006086070272?s=20), but I wanted to capture it here too._
+
 ## My First Office Job
 
 I had worked at a fast food restaurant for a year, had been promoted a couple of times, and I was a traveling team trainer. My next step would have been assistant store manager. But I knew my heart wasn’t in food service for the long run—I wanted to get into engineering. Still in high school and knowing I needed to pay for college, I decided to look for a way to get an engineering job the summer between my junior and senior years.
