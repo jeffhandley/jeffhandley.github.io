@@ -35,7 +35,7 @@ That was my first professional piece of software, and that week was when I disco
 So let’s review the moments of #WhitePrivilege that benefited me in this experience.
 
 1. While I avoided it, there were plenty of white kids that were known to drink often and do drugs occasionally. None of them was ever arrested.
-2. I lived really close to Oakwood, in a poor neighborhood, and there was plenty of drug dealing on our street, but Oakwood (being largely black) had the bad reputation.
+2. I lived really close to Oakwood, in a poor neighborhood, and there was plenty of drug dealing on our street, but Oakwood (being largely Black) had the bad reputation.
 3. When I walked in the front door of the engineering firm, the office manager smiled at me and was not afraid—only curious.
 4. She left me alone at her desk for 5 minutes without giving it a second thought.
 5. When I said I “lived up the street,” (which would include Oakwood), she didn’t judge me.
@@ -49,4 +49,4 @@ So let’s review the moments of #WhitePrivilege that benefited me in this exper
 
 In summary, I was trusted. I was given an opportunity simply because I walked in the door and asked for one. My White Privilege helped me discover my career path while I was still a teenager.
 
-Had I been a black kid from Oakwood, I don’t know if I would have been trusted or given that opportunity. Until today, I gave full credit to myself for getting that job. But now I’m wondering how much credit should be given to my White Privilege. I’ll never know.
+Had I been a Black kid from Oakwood, I don’t know if I would have been trusted or given that opportunity. Until today, I gave full credit to myself for getting that job. But now I’m wondering how much credit should be given to my White Privilege. I’ll never know.
