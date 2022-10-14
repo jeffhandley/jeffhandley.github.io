@@ -4,6 +4,11 @@ title: Conferences
 subtitle: "I've had the pleasure of presenting at several conferences"
 ---
 
+## [Øredev 2022](https://oredev.org/line-up/jeff-handley)
+
+- [Generic Math in .NET 7](https://oredev.org/sessions/generic-math-in-net-7)
+- [Updates from the .NET Libraries Team](https://oredev.org/sessions/updates-from-the-net-libraries-team)
+
 ## [Øredev 2015](http://oredev.org/2015/speakers/jeff-handley)
 
 - [Learning Node After a Career on Microsoft](https://vimeo.com/144799382)
