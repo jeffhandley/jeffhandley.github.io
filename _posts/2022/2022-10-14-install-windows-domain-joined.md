@@ -43,21 +43,21 @@ Once installation finishes, you'll be logged in with the local administrator acc
 
 ## Join the Domain
 
-1. Go to Settings > System > About
-2. Click on "Domain or Workgroup"
+1. Go to *Settings > System > About*
+2. Click on *Domain or Workgroup*
 3. Join the domain using your domain credentials
 4. Restart
 
 ## Make the Domain User Account an Administrator
 
 1. Sign in with the local administrator account
-2. Go to Control Panel > User Accounts > User Accounts
-3. Click Manage User Accounts
-4. Click 'Add...'
+2. Go to *Control Panel > User Accounts > User Accounts*
+3. Click *Manage User Accounts*
+4. Click *Add...*
 5. Enter the username and domain
-6. Choose Administrator and add the account
+6. Choose *Administrator* and add the account
 
-No credentials will be required at this step. And note that the Windows 11 'Settings > Accounts > Other Users' screens do not allow you to add a domain account (at the time of this publication).
+No credentials will be required at this step. And note that the Windows 11 *Settings > Accounts > Other Users* screens do not allow you to add a domain account (at the time of this publication).
 
 ## Sign in with Domain Account
 
@@ -67,9 +67,9 @@ No credentials will be required at this step. And note that the Windows 11 'Sett
 
 ## Remove the Temporary Local Administrator Account
 
-1. Go to Control Panel > User Accounts > User Accounts
-2. Click Manage User Accounts
-3. Select the temporary local administrator account and click Remove
+1. Go to *Control Panel > User Accounts > User Accounts*
+2. Click *Manage User Accounts*
+3. Select the temporary local administrator account and click *Remove*
 4. Close the windows
 
 ## Remove the Temporary Account User Folder
