@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Installing Windows 11 on a Domain Joined Machine"
-date: 2022-10-14 17:15:00 -0800
+date: 2022-10-14 17:15:00 -0700
 comments: true
 author: "Jeff Handley"
 ---
