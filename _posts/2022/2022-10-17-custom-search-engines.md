@@ -43,7 +43,7 @@ In my Edge profile for work, I have quite a few search engines registered. These
 4. `analyzers` - navigate to a URL within the dotnet/roslyn-analyzers repository; e.g. [`analyzers pulls/jeffhandley`](https://github.com/dotnet/roslyn-analyzers/pulls/jeffhandley)
 5. `tree` - navigate to a branch's tree within the dotnet/runtime repository; e.g. [`tree main`](https://github.com/dotnet/runtime/tree/main)
 6. `pulls` - navigate to a contributor's pull requests in dotnet/runtime; e.g. [`pulls jeffhandley`](https://github.com/dotnet/runtime/pulls/jeffhandley)
-7. `issuesof` - search for issues matching a search term, using [issuesof.net](https://issuesof.net); e.g. `issuesof BinaryFormatter`
+7. `issuesof` - search for issues matching a search term, using [issuesof.net](https://issuesof.net); e.g. [`issuesof BinaryFormatter`](https://issuesof.net/?q=is%3Aopen%20is%3Aissue%20BinaryFormatter)
 8. `issue` - navigate to an issue within dotnet/runtime; e.g. [`issue 71496`](https://github.com/dotnet/runtime/issues/71496) (bonus: [`issue jeffhandley`](https://github.com/dotnet/runtime/issues/jeffhandley) is also recognized, loading issues authored by 'jeffhandley')
 9. `area` - load open issues in dotnet/runtime with a specific area label; e.g. [`area System.Text.Json`](https://github.com/dotnet/runtime/issues?q=is%3Aissue+is%3Aopen+label%3Aarea-System.Text.Json)
 10. `fork` - navigate to one of my GitHub repos/forks; e.g. [`fork runtime`](https://github.com/jeffhandley/runtime)
