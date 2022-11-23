@@ -1,23 +1,28 @@
 {
-  "subject": "acct:jeffhandley@mastodon.social",
+  "subject": "acct:jeffhandley@hachyderm.io",
   "aliases": [
-    "https://mastodon.social/@jeffhandley",
-    "https://mastodon.social/users/jeffhandley"
+    "https://hachyderm.io/@jeffhandley",
+    "https://hachyderm.io/users/jeffhandley"
   ],
   "links": [
-     {
+    {
+      "rel": "authority",
+      "type": "text/json",
+      "href": "https://hachyderm.io/.well-known/webfinger?resource=acct:jeffhandley@hachyderm.io"
+    },
+    {
       "rel": "http://webfinger.net/rel/profile-page",
       "type": "text/html",
-      "href": "https://mastodon.social/@jeffhandley"
+      "href": "https://hachyderm.io/@jeffhandley"
     },
     {
       "rel": "self",
       "type": "application/activity+json",
-      "href": "https://mastodon.social/users/jeffhandley"
+      "href": "https://hachyderm.io/users/jeffhandley"
     },
     {
       "rel": "http://ostatus.org/schema/1.0/subscribe",
-      "template": "https://mastodon.social/authorize_interaction?uri={uri}"
+      "template": "https://hachyderm.io/authorize_interaction?uri={uri}"
     }
   ]
 }
