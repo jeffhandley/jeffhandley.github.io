@@ -3,7 +3,7 @@ layout: post
 title: "Response to Criticism of my Extended MVP Pattern"
 date: 2007-11-20 06:02:15 -0800
 comments: true
-tags: ["ASP.NET MVC", "MVC", "MVP", "Validation", "Architecture"]
+tags: ["ASP.NET", "MVC", "MVP", "Validation", "Architecture"]
 redirect_from: ["/archive/2007/11/19/response-to-criticism-of-my-extended-mvp-pattern.aspx/"]
 author: "Jeff Handley"
 ---

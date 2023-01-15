@@ -3,7 +3,7 @@ layout: post
 title: "SQL Server Enhancement Idea - Inactive records"
 date: 2008-01-24 08:07:47 -0800
 comments: true
-tags: []
+tags: ["TSQL"]
 redirect_from: ["/archive/2008/01/24/sql-server-enhancement-idea---inactive-records.aspx/"]
 author: "Jeff Handley"
 ---
