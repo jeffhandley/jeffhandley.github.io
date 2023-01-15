@@ -3,6 +3,7 @@ layout: post
 title: "Custom Search Engines in Edge"
 date: 2022-10-17 15:00:00 -0700
 comments: true
+tags: ["edge","how-to"]
 author: "Jeff Handley"
 ---
 

@@ -3,6 +3,7 @@ layout: post
 title: "StatsWorld Fantasy Football"
 date: 2023-01-15 13:13:00 -0700
 comments: true
+tags: ["career", "BIG", "fantasy-football", ".NET"]
 author: "Jeff Handley"
 ---
 
@@ -64,7 +65,7 @@ As each year passes the evidence of StatsWorld's existence further decays and th
 
 When the acquisition was announced, the StatsWorld.com site redirected to MyFantasyLeague.com, to a page specifically for StatsWorld customers to learn about the migration.
 
-https://web.archive.org/web/20090129180721/http://myfantasyleague.com/statsworld.php
+[https://web.archive.org/web/20090129180721/http://myfantasyleague.com/statsworld.php](https://web.archive.org/web/20090129180721/http://myfantasyleague.com/statsworld.php)
 
 > **2008 - StatsWorld.com has merged with MyFantasyLeague.com**
 >
@@ -90,12 +91,11 @@ https://web.archive.org/web/20090129180721/http://myfantasyleague.com/statsworld
 
 The fantasy newspaper feature I built for StatsWorld was adopted into the feature set of MyFantasyLeague.com as their 'Fantasy Recaps'. Here's an example:
 
-http://www98.myfantasyleague.com/2007/options?L=46184&O=177&W=13
-
+[http://www98.myfantasyleague.com/2007/options?L=46184&O=177&W=13](http://www98.myfantasyleague.com/2007/options?L=46184&O=177&W=13)
 
 #### Press Releases
 
-https://myfantasyleague.wordpress.com/2008/07/09/statsworld-acquired/
+[https://myfantasyleague.wordpress.com/2008/07/09/statsworld-acquired/](https://myfantasyleague.wordpress.com/2008/07/09/statsworld-acquired/)
 
 > **StatsWorld Acquired**
 >
@@ -107,7 +107,7 @@ https://myfantasyleague.wordpress.com/2008/07/09/statsworld-acquired/
 >
 > Welcome all StatsWorld leagues! We're confident that you'll have a great 2008 season here at MyFantasyLeague.com!
 
-https://www.prweb.com/releases/2008/06/prweb1057634.htm
+[https://www.prweb.com/releases/2008/06/prweb1057634.htm](https://www.prweb.com/releases/2008/06/prweb1057634.htm)
 
 > **MyFantasyLeague.com, One of the Fantasy Football Industry's Pioneers of League Management, Acquires Statsworld.com, Another Long-standing Company in the Industry**
 >
@@ -123,4 +123,3 @@ https://www.prweb.com/releases/2008/06/prweb1057634.htm
 >
 > About Sideline Software, Inc.
 > Sideline Software, Inc. is a privately held software development company specializing in fantasy football on the Internet with a focus on customer service and advanced features designed to enhance the customer playing experience. Its flagship product, MyFantasyLeague.com, is one of the most feature-rich fantasy games available with dozens of reports, over a hundred scoring options, interactive chat rooms and message boards, live scoring updates, and extensive appearance flexibility. In conjunction with its online fantasy football league management system, MyFantasyLeague.com includes a free MFL GameDay companion application for viewing live stats during the games with real-time scoring and audio announcements of all touchdowns and other game changing events. Sideline Software also offers a branded fantasy football contest engine used to run several national fantasy contests, as well as free public mock drafts. Sideline Software, Inc. has been in business for more than a decade and is based in Wisconsin.
-
