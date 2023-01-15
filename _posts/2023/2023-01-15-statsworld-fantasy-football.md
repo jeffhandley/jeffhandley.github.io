@@ -52,13 +52,13 @@ As each year passes the evidence of StatsWorld's existence further decays and th
 ### StatsWorld Launch
 
 * May 29, 2003: SMARTs Online had been announced with a July 1st launch date
-    * https://web.archive.org/web/20030529082522/http://www.statsworld.com/
+    * [https://web.archive.org/web/20030529082522/http://www.statsworld.com/](https://web.archive.org/web/20030529082522/http://www.statsworld.com/)
     * Demo and pricing to be announced June 10th
 * June 24, 2003: The site redesign had gone live, pricing had been announced, and the demo was live
-    * https://web.archive.org/web/20030624023658/http://statsworld.com/
+    * [https://web.archive.org/web/20030624023658/http://statsworld.com/](https://web.archive.org/web/20030624023658/http://statsworld.com/)
     * A sample game summary (that would later become a newspaper) [was available](https://web.archive.org/web/20030619153656/http://www.statsworld.com/gamesummary.asp)
 * July 19, 2003: We had launched, and leagues were working through setup
-    * https://web.archive.org/web/20030719025256/http://www.statsworld.com/
+    * [https://web.archive.org/web/20030719025256/http://www.statsworld.com/](https://web.archive.org/web/20030719025256/http://www.statsworld.com/)
 
 
 ### Acquisition by MyFantasyLeague.com
