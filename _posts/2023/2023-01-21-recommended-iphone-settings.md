@@ -230,11 +230,13 @@ Go back to Settings
 
 - **Appearance**: Choose whichever you prefer
     - **Automatic**: *OFF*
-- **Text Size**:
-    - Tap this
-    - Use the slider circle at the bottom of the screen to set to your desired size
-    - I prefer the 2nd notch from the left
-    - Go back to Display & Brightness
+
+#### Text Size
+- Use the slider circle at the bottom of the screen to set to your desired size
+- I prefer the 2nd notch from the left
+
+Go back to Display & Brightness
+
 - **Bold Text**: *OFF* (but this is worth trying)
 - **True Tone**: *ON*
 - **Auto-Lock**:
@@ -319,22 +321,29 @@ Go back to Settings
 #### Location Services
 
 - **Location Services**: *ON*
-- **Location Alerts**
-    - **Show Map in Location Alerts**: ON
-    - Go back to Location Services
+
+##### Location Alerts
+
+- **Show Map in Location Alerts**: ON
+
+Go back to Location Services
 
 ##### Share My Location
 
-- **Find My iPhone**
-    - **Find My iPhone**: *ON*
-    - **Find My network**: *ON*
-    - **Send Last Location**: *ON*
-    - Go back to Find My
+###### Find My iPhone
+
+- **Find My iPhone**: *ON*
+- **Find My network**: *ON*
+- **Send Last Location**: *ON*
+
+Go back to Find My
+
 - **Share My Location**: *ON*
 
 Go back to Location Services
 
 Go through the list of apps to control which apps have location access. I have all apps set to *Never* except the following:
+
 - **Apple Watch Find Devices**: *While Using the App*
 - **Camera**: *While Using*
 - **Compass**: *While Using*
