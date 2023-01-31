@@ -3,7 +3,7 @@ layout: post
 title: "Recommended iPhone Settings"
 date: 2023-01-21 12:00:00 -0700
 comments: true
-tags: ["iPhone", "Settings"]
+tags: ["iPhone", "Settings", "Family"]
 author: "Jeff Handley"
 ---
 
