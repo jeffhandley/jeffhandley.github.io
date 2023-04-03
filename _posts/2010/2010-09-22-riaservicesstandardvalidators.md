@@ -160,7 +160,7 @@ author: "Jeff Handley"
   <li><strong>[RegularExpression(regEx)]</strong> – {1} = the regular expression specified, although it would be a crime to allow this to display in your UI (even though it will by default) </li>
 </ol>
 
-<h3>Nothing is Required, Except for Required</h3>
+<h3 id="nothing-is-required-except-for-required">Nothing is Required, Except for Required</h3>
 
 <p>When using RangeAttribute, StringLengthAttribute, or RegularExpressionAttribute, you might notice something that seems bizarre at first—these validators all indicate success when the field is blank.  You might ask, “If I’ve said my value must be between 2 and 100, why don’t I get an error message if the field is blank?”  The explanation for this is actually quite simple: Unless the field is marked as [Required], it is not required.  Furthermore, if [Range], [StringLength], and [RegularExpression] enforced non-blank values, then you’d have no way of validating optional field values.  Therefore it’s essential that the [Required] validator is the only one that ever indicates failure if the value is blank.</p>
 
@@ -193,6 +193,3 @@ author: "Jeff Handley"
 <h3>Digging Deeper</h3>
 
 <p>I will be digging deeper into RIA Services Validation in upcoming blog posts, but I wanted to make sure the foundation was laid for how these standard validators work.  In future posts, we’ll be exploring how RIA Services actually propagates your validators to the client, how you can create custom validators by using [CustomValidation] and by deriving from ValidationAttribute directly, as well as when/how RIA Services will invoke each kind of validator.</p>
-
-
-
