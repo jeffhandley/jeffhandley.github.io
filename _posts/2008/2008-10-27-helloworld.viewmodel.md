@@ -312,7 +312,7 @@ author: "Jeff Handley"
 
   <li>Instantiates the ViewModel declaratively, using the &lt;app:HelloWorldModel /&gt; tag; and assigns this ViewModel instance to be the DataContext of the UserControl (and all child controls) </li>
 
-  <li>Declares 2 images, Smiley.jpg and Sad.jpg, and binds their Visibility properties to the IsHavingGoodDay property on the ViewModel.  Notice the VisibilityConverter use and the ConverterParameter.  This allows a single boolean to drive 2 different controls, with opposite behavior.  The VisibilityConverter is a custom IValueConverter I wrote.  <a href="http://blog.jeffhandley.com/archive/2008/10/27/binding-converters---visibilityconverter.aspx" target="_blank">I’ll do a post on it later</a>. </li>
+  <li>Declares 2 images, Smiley.jpg and Sad.jpg, and binds their Visibility properties to the IsHavingGoodDay property on the ViewModel.  Notice the VisibilityConverter use and the ConverterParameter.  This allows a single boolean to drive 2 different controls, with opposite behavior.  The VisibilityConverter is a custom IValueConverter I wrote.  <a href="http://jeffhandley.com/archive/2008/10/27/binding-converters---visibilityconverter.aspx" target="_blank">I’ll do a post on it later</a>. </li>
 
   <li>Binds a TextBlock to the Greeting property on the ViewModel. </li>
 
@@ -354,7 +354,7 @@ author: "Jeff Handley"
 <p>
   <br />Yep, (essentially) no code in the code-behind.  And yes, that is the most important part of the ViewModel pattern.  You can have your View bound to your ViewModel using 1-way and 2-way binding, with logic in your ViewModel and not a lick of logic in your View’s code-behind.</p>
 
-<p>As I mentioned in my <a href="http://blog.jeffhandley.com/archive/2008/10/21/viewmodel-pattern.aspx" target="_blank">ViewModel Pattern</a> introductory post, it’s important to disallow any view-specific behavior from leaking into the ViewModel.  The visibility of the two images in this sample are perfect examples of this point.  The ViewModel exposes a boolean, not a Visibility property.  The View can then do whatever it wants with that boolean.  For all the ViewModel knows, the View doesn’t do anything with it, but in this case, there are 2 images that are toggled based on the value.</p>
+<p>As I mentioned in my <a href="http://jeffhandley.com/archive/2008/10/21/viewmodel-pattern.aspx" target="_blank">ViewModel Pattern</a> introductory post, it’s important to disallow any view-specific behavior from leaking into the ViewModel.  The visibility of the two images in this sample are perfect examples of this point.  The ViewModel exposes a boolean, not a Visibility property.  The View can then do whatever it wants with that boolean.  For all the ViewModel knows, the View doesn’t do anything with it, but in this case, there are 2 images that are toggled based on the value.</p>
 
 <p>In future posts, I’ll talk about more ViewModel details that go beyond Hello World type applications.  Most notably, I’ll be writing about service references and how a ViewModel should get data from services to be exposed to the View.  Keep in mind that this pattern can be applied in either WPF or Silverlight.</p>
 

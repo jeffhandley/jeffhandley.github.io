@@ -42,4 +42,4 @@ author: "Jeff Handley"
 
 <p>As an aside, this example can also serve as an example of why <em>only</em> having validation within the domain can fail.  If the domain only needs to know the ratio percentage, instead of the numerator and the denominator, but the UI needs to present it to the user as numerator and denominator, what do you do?</p>
 
-<p>With my <a href="http://blog.jeffhandley.com/archive/2007/11/09/an-extended-mvp-pattern-mvp-validation.aspx" target="_blank">Extended MVP pattern</a>, the View interface would include both the numerator and the denominator, and set up validation on both.  Then the Presenter would map that into the domain's percentage field appropriately. </p>
+<p>With my <a href="http://jeffhandley.com/archive/2007/11/09/an-extended-mvp-pattern-mvp-validation.aspx" target="_blank">Extended MVP pattern</a>, the View interface would include both the numerator and the denominator, and set up validation on both.  Then the Presenter would map that into the domain's percentage field appropriately. </p>

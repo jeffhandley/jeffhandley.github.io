@@ -8,4 +8,4 @@ redirect_from: ["/archive/2008/08/13/headless-horseplay---mediasmart-home-server
 author: "Jeff Handley"
 ---
 <!-- more -->
-<p>I posted an entry that Google Reader isn't picking up for some reason.  Go check it out <a href="http://blog.jeffhandley.com/archive/2008/08/12/headless-horseplay---mediasmart-home-server-status-indicators.aspx">here</a>.</p>
+<p>I posted an entry that Google Reader isn't picking up for some reason.  Go check it out <a href="http://jeffhandley.com/archive/2008/08/12/headless-horseplay---mediasmart-home-server-status-indicators.aspx">here</a>.</p>

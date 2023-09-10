@@ -8,5 +8,4 @@ redirect_from: ["/archive/2009/01/20/feedburner-transition-completed.aspx/"]
 author: "Jeff Handley"
 ---
 <!-- more -->
-<p>Well, the <a href="http://blog.jeffhandley.com/archive/2009/01/19/feedburner-transition.aspx" target="_blank">transition</a> didn’t go smoothly.  I was getting 404 errors from my feed after the transition completed.  I ended up having to disable the MyBrand feature and then activate it again, and the feed immediately worked thereafter.</p>  <p>I’m hoping that my subscriber count gets back to where it should be.  It’s down to virtually zero because for some reason, Google Reader subscribers are not showing up in the stats.</p>
-
+<p>Well, the <a href="http://jeffhandley.com/archive/2009/01/19/feedburner-transition.aspx" target="_blank">transition</a> didn’t go smoothly.  I was getting 404 errors from my feed after the transition completed.  I ended up having to disable the MyBrand feature and then activate it again, and the feed immediately worked thereafter.</p>  <p>I’m hoping that my subscriber count gets back to where it should be.  It’s down to virtually zero because for some reason, Google Reader subscribers are not showing up in the stats.</p>

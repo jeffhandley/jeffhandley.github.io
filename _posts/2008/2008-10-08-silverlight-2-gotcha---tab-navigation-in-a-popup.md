@@ -98,4 +98,4 @@ author: "Jeff Handley"
 
 <p><em><strong>UPDATE: </strong>This workaround was found to be insufficient.  As Ian points out in the comments, you lose intellisense within the &lt;UserControl&gt; and you also cannot refer to controls within the UserControl in the code-behind.</em></p>
 
-<p><em>Please see the updated workaround post <a href="http://blog.jeffhandley.com/archive/2008/10/09/silverlight-2-gotcha---tab-navigation-in-a-popup-take.aspx">here</a>.</em></p>
+<p><em>Please see the updated workaround post <a href="http://jeffhandley.com/archive/2008/10/09/silverlight-2-gotcha---tab-navigation-in-a-popup-take.aspx">here</a>.</em></p>
