@@ -51,6 +51,8 @@ In my Edge profile for work, I have quite a few search engines registered. These
 
 ## Synchronizing Search Engines
 
+**UPDATE: MARCH 2025 -- THIS APPROACH NO LONGER WORKS. THERE ARE ADDITIONAL FIELDS ADDED TO THE SCHEMA, INCLUDING A HASH COLUMN. WHEN THE VALUES ARE NOT VALIDATED, THE ROW IS DELETED FROM THE TABLE WHEN EDGE LAUNCHES. I AM TRYING TO SOLIDIFY A PROCESS THAT STILL USES DB BROWSER FOR SQLITE TO EXPORT THE `keywords` TABLE FROM ONE MACHINE TO A SQL FILE, AND THEN IMPORT THAT ON ANOTHER MACHINE. I DON'T HAVE THE PROCESS FULLY FIGURED OUT YET THOUGH.**
+
 OK, I kind of lied. I don't really _synchronize_ my search engines. But I keep the above search engine definitions saved in a handy format for loading into an Edge profile.
 
 Edge stores these custom search engines (and a lot of other settings) in a SQLite database. When all `msedge` processes have been killed, you can load that database, browse its schema/data, and execute SQL statements against it. You can export data and import data too, but I've found that to be less dependable since the schema changes from time to time. I have the following SQL file saved in OneDrive so that I can get to it quickly after setting up a machine.
