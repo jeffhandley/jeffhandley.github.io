@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
+  <Alias>gh</Alias>
+  <ShortName>GitHub</ShortName>
+  <Description>Navigate to GitHub.com</Description>
+  <InputEncoding>UTF-8</InputEncoding>
+  <Url type="text/html" template="https://github.com/{searchTerms}"/>
+  <Image height="16" width="16" type="image/x-icon">https://github.githubassets.com/favicons/favicon.svg</Image>
+</OpenSearchDescription>

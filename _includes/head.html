@@ -117,4 +117,10 @@
   {% include matomo.html %}
   {% endif %}
 
+  {% if page.search_engines %}
+    {% for engine in page.search_engines %}
+      <link rel="search" type="application/opensearchdescription+xml" title="{{ engine.title }}" href="{{ engine.href }}" />
+    {% endfor %}
+  {% endif %}
+
 </head>
