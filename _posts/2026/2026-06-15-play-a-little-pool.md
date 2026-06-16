@@ -16,9 +16,11 @@ From afar, I helped him get his move planned out. We hired a company that specia
 
 I arrived at his new apartment the next morning to find that the movers hadn't unpacked anything other than getting his bed set up and made. Dad, who was always tidy and organized, was anxious about how long it was going to take to get set up with as little energy as he had. With a quad-shot latte in my hand, I told him to sit in his chair and get ready to tell me where he wanted everything.
 
-Shortly before 9pm, we broke down the last box and put its contents into place. After a few minutes of looking around the apartment to enjoy the sense of accomplishment together, I asked if he was up for a game of pool to celebrate. He said he was too tired and was just going to turn on a movie, but he encouraged me to head on down to shoot a bit myself.
+Shortly before 9pm, we broke down the last box and put its contents into place. After a few minutes of looking around the apartment to enjoy the sense of accomplishment together, we were ready to relax.
 
 ## "Play a little pool"
+
+I asked Dad if he was up for a game of pool to celebrate. He said he was too tired and was just going to turn on a movie, but he encouraged me to head on down to shoot a bit myself.
 
 I walked down the hall and opened the door to the rec room. Everything was turned off, but I found a master switch on the wall. When I flipped it on, the overhead lights came on followed by the lights over the pool table. About a minute later while I was racking the balls, the TV turned on and I heard:
 
