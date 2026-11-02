@@ -8,6 +8,15 @@ author: "Jeff Handley"
 ---
 I've been building an web application at work that has been picking up stakeholders, and we needed to showcase a few demos. The app building is always exciting; showing demos live is usually fun; but recording those demos with narration is always frustrating.
 
+> **TL;DR: Let Copilot handle the clicking while you handle the talking.**
+>
+> - Write a presentation script describing the demo interactions and what you want to highlight.
+> - Read your narration aloud with a timer and note each demo's target length.
+> - Ask Copilot to use Edge and Playwright to run the browser demo and record each scripted walkthrough as a video file. Use fake data and simulated APIs.
+> - Have Copilot pace the interactions to your narration and package the silent recordings in a browser player.
+> - Start a solo Teams meeting, share the player window, and record yourself narrating over the demos. Wait for recording to actually begin before speaking!
+> - Record each demo separately, then record the full presentation with your opening and closing remarks. Share the finished videos.
+
 As I usually do for demo presentations, I started out by writing a complete script that included bullets for what interactions to have within the app and what to highlight on the screen. I needed to demo with fake data and simulated API call timing, and the demo time budget had no room for clumsy clicking.
 
 With my recording delivery deadline looming, I needed to choose what approach to take for recording myself clicking through the application, recording my narration, and composing the video and audio.
